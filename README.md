@@ -51,6 +51,6 @@ We want to extract the information of top 100 highly rated restaurants from each
 * Cincinnati
 
 ## Required libraries
-* Python
-* requests
-* BeautifulSoup
+* Python==3.9.7
+* requests==2.26.0
+* BeautifulSoup==4.10.0
