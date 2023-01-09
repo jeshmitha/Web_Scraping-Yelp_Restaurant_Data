@@ -1,0 +1,2625 @@
+	Name	City	Rating	Reviews	Tags	Price	Region
+0	Dogs	Seattle	5	5	['Hot Dogs']		Capitol Hill
+1	An’Clair - Fairview	Seattle	5	8	['Cafes']		South Lake Union
+2	Cafe Bar	Seattle	5	7	['Cafes', 'Coffee & Tea', 'Coffee Roasteries']		South Lake Union
+3	Market	Seattle	5	6	['Farmers Market', 'Delis']	$$	
+4	& Tings	Seattle	5	6	['Cajun/Creole', 'Food Trucks']	$$	Central District
+5	Poke	Seattle	5	9	['Hawaiian', 'Poke']	$$	Queen Anne
+6	City Market	Seattle	5	6	['Grocery', 'Breakfast & Brunch', 'Sandwiches']	$$	
+7	Berry Farm Jam Stand	Seattle	5	7	['Specialty Food', 'Food Stands']	$$	Downtown
+8	Bowl-Westlake	Seattle	5	5	['Korean', 'Barbeque', 'Fast Food']	$$	Denny Triangle
+9	Bite Ceviches	Seattle	5	13	['Seafood', 'Food Stands']	$$	Beacon Hill
+10		Seattle	5	12	['Chinese', 'Food Delivery Services']	$$	Seattle
+11		Seattle	5	12	['Chinese', 'Food Delivery Services']	$$	Seattle
+12	Queen Donuts & Deli	Seattle	5	5	['Bakeries', 'Barbeque']	$$	Industrial District
+13	Madness	Seattle	5	12	['Food Trucks', 'Cheesesteaks', 'Comfort Food']	$$	Riverview
+14	West	Seattle	5	11	['American (New)', 'Beverage Store']	$$	Junction
+15	Chicken	Seattle	5	9	['American (Traditional)', 'Chicken Shop', 'Sandwiches']	$$	Downtown
+16		Seattle	5	6	['American (New)']	$$	
+17	woodfired pizza	Seattle	5	6	['Pizza']	$$	Cottage Grove
+18	Shop by Porter	Seattle	5	5	['Furniture Stores', 'Restaurants', 'Coffee & Tea']	$$	Downtown
+19	Cafe - By Chief Seattle Club	Seattle	5	6	['Cafes', 'Coffee & Tea', 'Breakfast & Brunch']	$$	Pioneer Square
+20	Mocha Café - Plaza Center	Seattle	5	8	['Cafes', 'Desserts', 'Coffee & Tea']	$$	
+21	Restaurant	Seattle	5	10	['Ethiopian']	$$	Columbia City
+22	Michalisco	Seattle	5	6	['Ice Cream & Frozen Yogurt', 'Desserts', 'Mexican']	$$	
+23	Lugar	Seattle	5	6	['International Grocery', 'Mexican', 'Cocktail Bars']	$$	Capitol Hill
+24	Market and Deli	Seattle	5	6	['Grocery', 'Beer, Wine & Spirits', 'Delis']	$$	Downtown
+25	bar	Seattle	5	7	['Sports Bars', 'American (Traditional)']	$$	Capitol Hill
+26	Coffee Company	Seattle	5	47	['Cafes', 'Coffee & Tea', 'Coffee Roasteries']	$	Capitol Hill
+27	Cafe & Juice Bar	Seattle	5	62	['Juice Bars & Smoothies', 'Cafes']	$	Central District
+28	Tree & Bop	Seattle	5	25	['Coffee & Tea', 'Sandwiches', 'Asian Fusion']	$	First Hill
+29	Corn	Seattle	5	16	['Mexican', 'Shaved Ice', 'Food Trucks']	$	
+30	Sugar Baking Company	Seattle	5	13	['Bakeries', 'Vegan', 'Gluten-Free']	$	Atlantic
+31	Taco Loco	Seattle	5	13	['Food Trucks', 'Mexican']	$	Ballard
+32	World	Seattle	5	13	['Modern European']	$$	Capitol Hill
+33	Tavern	Seattle	5	26	['Wine Bars', 'Russian', 'Beer Bar']	$$	Wallingford
+34		Seattle	5	37	['Food Trucks', 'Chicken Wings']	$$	Fairmount Park
+35	City - Belltown	Seattle	5	12	['Tacos']	$$	Belltown
+36	Burgerz	Seattle	5	12	['Halal', 'Burgers', 'Caterers']	$$	Queen Anne
+37	Esquina Cafe	Seattle	5	11	['Cafes']	$$	
+38	Lightning BBQ	Seattle	5	11	['Barbeque', 'Food Trucks']	$$	Downtown
+39	Pow Thai On Wheels	Seattle	5	43	['Fast Food', 'Thai', 'Noodles']	$$	Cottage Grove
+40	Modern Fijian Cusine	Seattle	5	31	['Food Stands']	$$	
+41	Kitchen	Seattle	5	10	['Mexican']	$$	Crown Hill
+42	Chirashi Bowl	Seattle	5	10	['Japanese', 'Seafood']	$$	Downtown
+43	Deli & Mart	Seattle	5	10	['Delis', 'Convenience Stores']	$$	South Lake Union
+44	Sushi in Kaiseki	Seattle	5	243	['Sushi Bars', 'Japanese']	$$$$	Capitol Hill
+45	Crespella	Seattle	5	9	['Street Vendors', 'Creperies']	$	Ballard
+46	Silk Pie	Seattle	5	9	['Bakeries', 'Gluten-Free']	$$	Industrial District
+47	Friend Derek’s	Seattle	5	17	['Food Trucks', 'Pizza']	$$	Fremont
+48	Worlds Coffeehouse	Seattle	5	25	['Coffee & Tea', 'Vegetarian', 'Vegan']	$	Roosevelt
+49	Cone Cafe	Seattle	5	33	['Coffee & Tea', 'Ice Cream & Frozen Yogurt', 'Cafes']	$	Rainier Beach
+50	Counter At Old Ballard Catering	Seattle	5	65	['American (New)', 'Greek', 'Tacos']	$	Ravenna
+51	Crabhouse	Seattle	5	8	['Pop-Up Restaurants', 'Singaporean', 'Seafood']	$	Seward Park
+52	Malecon Mexican Food	Seattle	5	8	['Food Trucks', 'Mexican', 'Shaved Ice']	$	
+53	Cow Seattle	Seattle	5	8	['Farmers Market', 'Food Stands']	$	Queen Anne
+54	Restaurant	Seattle	5	22	['Halal', 'Mediterranean', 'Ethiopian']	$	Brighton
+55	Foods	Seattle	5	51	['Empanadas', 'Bakeries', 'Argentine']	$	
+56	Nothings and More	Seattle	5	7	['Pop-Up Restaurants', 'Desserts', 'Bakeries']	$	Leschi
+57		Seattle	5	7	['Mediterranean', 'Filipino', 'Food Trucks']	$	Seattle
+58	MX32	Seattle	5	7	['Mexican', 'Food Trucks']	$	Georgetown
+59	and Steel	Seattle	5	7	['Food Trucks', 'Southern', 'Sandwiches']	$	Ballard
+60	2 go	Seattle	5	7	['Thai']	$	Greenwood
+61	Cafe	Seattle	5	95	['Coffee & Tea', 'Mexican', 'Breakfast & Brunch']	$	Wallingford
+62		Seattle	5	26	['Mediterranean', 'Food Trucks']	$	Seattle
+63	Grill	Seattle	5	19	['Wine Bars', 'American (New)', 'Venues & Event Spaces']	$	Wallingford
+64	Sushi & Sake	Seattle	5	62	['Japanese', 'Sushi Bars']	$$$$	Lower Queen Anne
+65	in Bosnia	Seattle	5	6	['Comfort Food']	$$$$	Lower Queen Anne
+66	Coffee	Seattle	5	36	['Coffee & Tea', 'Breakfast & Brunch', 'Bagels']	$	Gatewood
+67	Weather Bicycle and Cafe	Seattle	5	54	['Bikes', 'Bike Repair/Maintenance', 'Cafes']	$$	Capitol Hill
+68	Games	Seattle	5	78	['Hobby Shops', 'Cafes', 'Tabletop Games']	$	Admiral
+69	Latinos	Seattle	5	6	['Mexican', 'Food Trucks']	$	
+70	Mak Thai Food	Seattle	5	42	['Thai']	$	Fairmount Park
+71	Brazil	Seattle	5	6	['Brazilian', 'Beer Bar', 'Cocktail Bars']	$	Queen Anne
+72	Market and Cafe	Seattle	5	36	['Cheese Shops', 'Tapas Bars', 'Cafes']	$	Central District
+73	Edition Sushi	Seattle	5	71	['Sushi Bars']	$$$$	Capitol Hill
+74	SABABA	Seattle	5	35	['Mediterranean', 'Desserts', 'Salad']	$$$$	Haller Lake
+75	Changó	Seattle	5	23	['Cafes', 'Desserts', 'Coffee & Tea']	$	Ballard
+76	Cambodian Foods	Seattle	5	46	['Cambodian']	$	
+77	Ethiopian Corner	Seattle	5	34	['Food Stands', 'Ethiopian', 'Gluten-Free']	$	Seattle
+78	Catrin	Seattle	5	83	['Mexican']	$$	
+79	Coffee	Seattle	5	44	['Cafes']	$$	First Hill
+80	Salads	Seattle	5	87	['Salad', 'Food Trucks']	$	Seattle
+81	Molino	Seattle	5	27	['Mexican']	$$	Denny Triangle
+82	Kick	Seattle	5	16	['Coffee & Tea', 'Beer, Wine & Spirits', 'Breakfast & Brunch']	$	Queen Anne
+83	Amargo Chocolate Shop	Seattle	5	69	['Chocolatiers & Shops', 'Coffee & Tea', 'Mexican']	$$	Capitol Hill
+84	Coffee	Seattle	5	127	['Coffee & Tea', 'Bakeries', 'Sandwiches']	$$	Lower Queen Anne
+85		Seattle	5	37	['Ice Cream & Frozen Yogurt', 'Desserts', 'Korean']	$$	
+86	of Mumbai	Seattle	5	21	['Indian', 'Caterers', 'Food Delivery Services']	$$	Fairmount Park
+87	Life	Seattle	5	78	['Japanese', 'Poke', 'Desserts']	$$	
+88	Ethiopian Cuisine	Seattle	5	232	['Ethiopian', 'Vegan']	$$	Hillman City
+89	Dogs	Seattle	5	50	['Hot Dogs']	$	
+90	Filipino Kitchen	Seattle	5	5	['Filipino', 'Food Stands']	$	Fremont
+91	Snack Shop	Seattle	5	5	['Delis']	$	
+92	Tonita	Seattle	5	20	['Mexican', 'Food Trucks']	$	
+93	Burgers Ballard	Seattle	5	15	['Burgers']	$	Ballard
+94	House	Seattle	5	5	['Vietnamese']	$	First Hill
+95	Food Truck	Seattle	5	54	['Food Trucks', 'Thai']	$	Seattle
+96	Garden	Seattle	5	49	['Chinese', 'Soup', 'Chicken Wings']	$	Greenwood
+97	Blossom	Seattle	5	63	['Japanese', 'Sushi Bars']	$$	Belltown
+98	& More	Seattle	5	58	['Sandwiches', 'Pizza', 'Mediterranean']	$$	Westlake
+99	Chito	Seattle	5	72	['Mexican', 'Food Stands']	$	Cottage Grove
+100	Chicken Supply	Seattle	4.5	62	['Chicken Shop', 'Filipino', 'Chicken Wings']	$	Phinney Ridge
+101	and Broadway Taco Cart	New York	5	8	['Food Trucks', 'Mexican']	$	Harlem
+102	LifeLine	New York	5	12	['Vegan', 'Bakeries']	$	Brooklyn
+103	Famous Pizza & Chicken	New York	5	5	['Pizza']	$	Far Rockaway
+104	& Griddle	New York	5	6	['Sandwiches', 'Breakfast & Brunch', 'Coffee & Tea']	$	
+105	Helper	New York	5	12	['Cafes', 'Delis', 'Vegan']	$	East Williamsburg
+106	Cradle	New York	5	17	['African', 'Juice Bars & Smoothies']	$	Seaside
+107	Of Culture	New York	5	6	['African']	$	Bedford Stuyvesant
+108	Moy kitchen & bar	New York	5	8	['Asian Fusion']	$	Greenwich Village
+109	the Greek	New York	5	7	['Greek']	$	Upper East Side
+110	Charli	New York	5	9	['Pizza']	$	West Village
+111	By Christophe	New York	5	9	['French', 'Wine Bars', 'Desserts']	$	Upper West Side
+112	Seafood Soul	New York	5	6	['Soul Food']	$	Williamsburg - North Side
+113	Restaurant	New York	5	6	['Haitian', 'American (New)']	$	
+114		New York	5	6	['Taiwanese']	$	East Williamsburg
+115	Me Soups	New York	5	5	['Soup']	$	
+116	BBQ	New York	5	5	['Caterers', 'Barbeque', 'Food Trucks']	$	Brooklyn
+117		New York	5	10	['Pubs', 'American (Traditional)']	$$	Maspeth
+118	Polish Deli	New York	5	17	['Delis']	$$	
+119	Bretagne	New York	5	7	['Cafes', 'French', 'Creperies']	$$	
+120	Latticini Deli	New York	5	13	['Delis', 'Salad', 'Sandwiches']	$$	
+121	Latticini Deli	New York	5	13	['Delis', 'Salad', 'Sandwiches']	$$	
+122	Haus	New York	5	9	['Salad', 'Juice Bars & Smoothies', 'Vegetarian']	$$	Crown Heights
+123	Kitchen	New York	5	5	['Breakfast & Brunch', 'Bagels']	$$	
+124	Tavern	New York	5	6	['Pubs', 'Sports Bars', 'Pizza']	$	
+125	Chicken	New York	5	5	['Barbeque']	$	
+126	Residency	New York	5	6	['Cafes']	$	Bedford Stuyvesant
+127	Milk Coffee and Crepe	New York	5	23	['Coffee & Tea', 'Creperies', 'Cafes']	$	Crown Heights
+128	Street Deli	New York	5	7	['Delis', 'Sandwiches']	$	Woodhaven
+129	Market	New York	5	16	['Italian', 'Sandwiches']	$	
+130	Eggies	New York	5	25	['Waffles', 'Food Stands']	$	East Village
+131	Anthony’s Deli	New York	5	7	['Delis']	$	
+132	Taste Of Italy	New York	5	5	['Delis', 'Italian']	$	City Island
+133	125 Street Pizza Of Harlem	New York	5	6	['Pizza']	$	East Harlem
+134	Supermarket & Deli	New York	5	5	['Delis']	$	Bedford Stuyvesant
+135	Gourmet Deli	New York	5	7	['Salad', 'Breakfast & Brunch', 'Sandwiches']	$	
+136	Saloon & Cafe	New York	5	26	['Hair Salons', 'Cafes', 'Cocktail Bars']	$	
+137	Neige Vegan Patisserie	New York	5	5	['Vegan', 'Custom Cakes', 'Patisserie/Cake Shop']	$	East Harlem
+138	Cafe	New York	5	5	['Cafes']	$	Crown Heights
+139	Deli	New York	5	5	['Delis', 'Sandwiches']	$	
+140		New York	5	8	['Japanese']	$	Midtown West
+141		New York	5	8	['Japanese']	$	Midtown West
+142	Local Deli	New York	5	32	['Delis', 'Latin American']	$	
+143	Kosher Wines	New York	5	5	['Kosher', 'Beer, Wine & Spirits']	$	
+144	Sideboard	New York	5	5	['Sandwiches', 'International Grocery', 'Beer, Wine & Spirits']	$	Gowanus
+145	Halal Gyro & Grill	New York	5	5	['Halal', 'Food Trucks']	$	Midwood
+146	Jalapeno taqueria	New York	5	9	['Mexican', 'Food Trucks']	$	West Village
+147	Corner	New York	5	5	['Delis', 'Convenience Stores', 'Pizza']	$	Jackson Heights
+148	Kabab	New York	5	7	['Middle Eastern']	$	Bay Ridge
+149	Paris Dakar restaurant	New York	5	17	['Creperies', 'Cafes']	$	Crown Heights
+150	Meats & Provisions	New York	5	5	['Meat Shops', 'Delis', 'Grocery']	$	
+151	Kosher Pizza	New York	5	5	['Pizza']	$	Borough Park
+152	Milk Tea	New York	5	7	['Coffee & Tea', 'Food Stands']	$	Lower East Side
+153	Marie’s Pizza Restaurant	New York	5	9	['Pizza', 'Italian']	$	
+154	Loui	New York	5	6	['Seafood', 'Cajun/Creole']	$	
+155	Bundtz Pizza	New York	5	8	['Pizza']	$	
+156		New York	5	44	['Juice Bars & Smoothies', 'Acai Bowls', 'Vegan']	$	
+157	NYC	New York	5	7	['Comfort Food']	$	Williamsburg - North Side
+158	Chick	New York	5	5	['Chicken Shop', 'Southern', 'Breakfast & Brunch']	$	Union Square
+159		New York	5	6	['American (Traditional)']	$	Midtown East
+160	Halal Meat & Food Market	New York	5	5	['Delis', 'Sandwiches', 'Meat Shops']	$	
+161	Hot Dogs	New York	5	6	['Hot Dogs', 'Food Trucks']	$	
+162		New York	5	11	['Caterers', 'Bakeries', 'French']	$	Bedford Stuyvesant
+163	Cafe	New York	5	7	['Pizza', 'Sandwiches', 'Breakfast & Brunch']	$	Woodside
+164	Delicatessen	New York	5	6	['Sandwiches']	$	
+165	Food Shop	New York	5	22	['Delis']	$	Douglaston
+166	Vegan Deli	New York	5	8	['Vegan', 'Vegetarian', 'Breakfast & Brunch']	$	Bedford Stuyvesant
+167		New York	5	9	['Mexican', 'Wine Bars', 'Cocktail Bars']	$	Meatpacking District
+168	King	New York	5	6	['Caribbean', 'Italian', 'Mexican']	$	Queens Village
+169	Vitale Truck	New York	5	6	['Food Trucks', 'Pizza']	$	
+170	Bistro & Catering	New York	5	5	['Soul Food', 'American (New)', 'Caribbean']	$	
+171	Gardenias	New York	5	5	['Food Trucks', 'Mexican']	$	
+172	Wine Bar+Food	New York	5	16	['Wine Bars', 'Italian']	$	Lower East Side
+173		New York	5	9	['Mexican', 'Wine Bars', 'Cocktail Bars']	$	Meatpacking District
+174	King	New York	5	6	['Caribbean', 'Italian', 'Mexican']	$	Queens Village
+175	a Mexico	New York	5	5	['Mexican']	$	
+176	Vitale Truck	New York	5	6	['Food Trucks', 'Pizza']	$	
+177	Restaurant	New York	5	5	['Bangladeshi']	$	Jamaica
+178	Deli	New York	5	5	['Delis']	$	Morningside Heights
+179		New York	5	11	['Ramen']	$	
+180		New York	5	5	['Szechuan']	$	Downtown Flushing
+181	Bay	New York	5	6	['Middle Eastern', 'Food Trucks', 'Halal']	$	Theater District
+182	Tea	New York	5	7	['Tea Rooms', 'Coffee & Tea', 'Cafes']	$	Bedford Stuyvesant
+183		New York	5	7	['American (New)', 'Cocktail Bars']	$	Midtown West
+184		New York	5	5	['Coffee & Tea', 'Vegan', 'Sandwiches']	$	Greenpoint
+185	Odyssey	New York	5	5	['Food Trucks', 'Barbeque']	$	Jersey City
+186	Place Omakase	New York	5	20	['Japanese', 'Sushi Bars']	$$$$	Astoria
+187	Michel Cafe and Food Art	New York	5	20	['Cupcakes', 'Custom Cakes', 'Themed Cafes']	$	Bushwick
+188	Mexican Grill - Birria Truck	New York	5	7	['Food Trucks', 'Halal', 'Tacos']	$	Fresh Meadows
+189	Bar	New York	5	6	['Tapas/Small Plates', 'Coffee & Tea', 'Cocktail Bars']	$	Midtown West
+190	Beauty/Fashion Labo	New York	5	5	['Cafes', 'Hair Salons', 'Cosmetics & Beauty Supply']	$	Park Slope
+191	Beauty/Fashion Labo	New York	5	5	['Cafes', 'Hair Salons', 'Cosmetics & Beauty Supply']	$	Park Slope
+192	Deli	New York	5	9	['Delis', 'Coffee & Tea', 'Sandwiches']	$	
+193	Biscochito	New York	5	5	['Bakeries', 'Latin American', 'Mexican']	$	Morrisania
+194	Xochimilco	New York	5	7	['Breakfast & Brunch', 'Cafes', 'Sandwiches']	$	Long Island City
+195	Restaurant	New York	5	6	['Salvadoran', 'Mexican']	$	
+196	International Cafe	New York	5	5	['Cafes']	$	Woodside
+197	E Jobo Corporation	New York	5	5	['Restaurants']	$	Fordham
+198	Querido	New York	5	5	['Bakeries', 'Coffee Roasteries', 'Colombian']	$	Greenpoint
+199	Dog Jay’s	New York	5	11	['Hot Dogs', 'Food Trucks']	$	Little Falls
+200	Gourmet	New York	5	10	['Grocery', 'Greek', 'Mediterranean']	$	
+201	La Carreta	Los Angeles,	5	5	['Seafood', 'Mexican', 'Street Vendors']	$	
+202	Palomos	Los Angeles,	5	5	['Tacos', 'Food Trucks']	$	South Park
+203	Kong Restaurant	Los Angeles,	5	7	['Restaurants']	$	Florence
+204	Ga Neh	Los Angeles,	5	11	['Korean']	$	Pico-Union
+205	Sushi LA	Los Angeles,	5	8	['Personal Chefs', 'Gluten-Free', 'Sushi Bars']	$	Beverly Crest
+206	Saraba	Los Angeles,	5	7	['Caribbean']	$	Historic South Central
+207	Fruit	Los Angeles,	5	23	['Creperies', 'Shaved Ice', 'Ice Cream & Frozen Yogurt']	$	
+208	De Ensenada	Los Angeles,	5	5	['Caterers', 'Food Stands']	$	Atwater Village
+209	Restaurant	Los Angeles,	5	5	['Mexican']	$	
+210	Burger	Los Angeles,	5	5	['Food Trucks', 'Burgers']	$	Fairfax
+211	Cafe & Catering	Los Angeles,	5	8	['Cafes', 'Caterers', 'Sandwiches']	$	
+212	kosher food	Los Angeles,	5	5	['Kosher']	$	Valley Village
+213	Sushi	Los Angeles,	5	20	['Japanese']	$$	Downtown
+214	Elizalde	Los Angeles,	5	6	['Tacos', 'Food Stands']	$$	Historic South Central
+215	J.A.M.	Los Angeles,	5	9	['Vegan', 'Food Delivery Services']	$$	
+216	y Mariscos El Jefe	Los Angeles,	5	6	['Food Trucks', 'Tacos']	$$	Downey 
+217	“viky”	Los Angeles,	5	10	['Mexican']	$	Boyle Heights
+218	Miss Cafe	Los Angeles,	5	12	['Cafes', 'Coffee & Tea', 'Breakfast & Brunch']	$	Mid-Wilshire
+219	Daddy’s Recipes	Los Angeles,	5	6	['Caterers', 'Cooking Classes', 'Pop-Up Restaurants']	$	Hollywood Hills West
+220	Sushi and Roll	Los Angeles,	5	47	['Sushi Bars', 'Food Delivery Services', 'Salad']	$$	Wilshire Center
+221		Los Angeles,	5	27	['Mexican', 'Breakfast & Brunch', 'American (New)']	$$	Boyle Heights
+222	Chee	Los Angeles,	5	28	['Falafel', 'Pop-Up Restaurants']	$$	
+223	Cortes Espresso Bar	Los Angeles,	5	7	['Coffee & Tea', 'Ice Cream & Frozen Yogurt', 'Waffles']	$$	North Hills
+224	Tacos	Los Angeles,	5	5	['Food Stands', 'Mexican']	$$	East Hollywood
+225	Burger Premium Grill	Los Angeles,	5	8	['Japanese', 'Burgers', 'Salad']	$$	
+226	Shawarma	Los Angeles,	5	5	['Food Trucks', 'Mediterranean']	$$	
+227	Bar	Los Angeles,	5	25	['Bakeries', 'Caterers', 'Middle Eastern']	$$	Glendale
+228	Caseras Colombianas	Los Angeles,	5	6	['Colombian']	$$	
+229	Pizza	Los Angeles,	5	5	['Pizza', 'Chicken Wings']	$$	
+230	y Pupuseria Lemus	Los Angeles,	5	5	['Salvadoran']	$$	
+231	Kitchen - South Bay	Los Angeles,	5	7	['Salad', 'American (New)', 'Wraps']	$$	
+232	Sazón de Cuquis	Los Angeles,	5	7	['Tacos']	$$	
+233	pizza party	Los Angeles,	5	5	['Caterers', 'Salad', 'Pizza']	$$	Venice
+234	Zempoal Mixe	Los Angeles,	5	5	['Tacos']	$$	Sawtelle
+235	Bob	Los Angeles,	5	18	['Mexican', 'Food Stands']	$$	Echo Park
+236	Bakery	Los Angeles,	5	11	['Bakeries', 'Vegan', 'Gluten-Free']	$$	Sun Valley
+237	La Chingona	Los Angeles,	5	7	['Tacos']	$$	Florence
+238	Quetzalcoatl	Los Angeles,	5	5	['Mexican', 'Food Trucks']	$$	
+239		Los Angeles,	5	7	['Juice Bars & Smoothies', 'Pop-Up Restaurants']	$$	Pico-Union
+240	Restaurant	Los Angeles,	5	6	['Mexican', 'Salvadoran']	$$	North Hills
+241		Los Angeles,	5	6	['Smokehouse', 'Barbeque']	$$	Downtown
+242	Stand	Los Angeles,	5	5	['Mexican', 'Food Stands']	$$	El Sereno
+243	Los Poblanos	Los Angeles,	5	10	['Food Trucks', 'Tacos']	$$	Florence
+244	Juarez Estilo Tijuana	Los Angeles,	5	10	['Tacos']	$$	South Park
+245	Market	Los Angeles,	5	6	['Grocery', 'International Grocery', 'Delis']	$$	
+246	Y Cocina El Malecon	Los Angeles,	5	5	['Seafood', 'Seafood Markets']	$$	
+247	Teriyaki Grill	Los Angeles,	5	7	['Sushi Bars', 'Japanese', 'Burgers']	$$	Boyle Heights
+248	Chiris Antojitos	Los Angeles,	5	22	['Food Trucks', 'Mexican']	$$	North Hollywood
+249	Felix - Cemitas Poblanas	Los Angeles,	5	12	['Food Trucks', 'Mexican']	$	Venice
+250	Creperie D Andy	Los Angeles,	5	10	['Street Vendors', 'Creperies']	$	
+251		Los Angeles,	5	12	['Coffee & Tea', 'Sandwiches', 'Breakfast & Brunch']	$	Downtown
+252	Cafe	Los Angeles,	5	9	['Cafes']	$	Downtown
+253	kabab	Los Angeles,	5	14	['Mediterranean']	$	
+254	8 Sushi Fusion	Los Angeles,	5	5	['Asian Fusion']	$	Los Feliz
+255	Berlina	Los Angeles,	5	19	['Coffee & Tea', 'Sandwiches', 'Bakeries']	$	
+256	Grain	Los Angeles,	5	5	['Food Trucks', 'Wraps']	$	Los Angeles
+257	Man LA	Los Angeles,	5	7	['Fruits & Veggies', 'Food Delivery Services', 'Live/Raw Food']	$	Pacific Palisades
+258	Pizza	Los Angeles,	5	12	['Pizza', 'Italian', 'Salad']	$	Studio City
+259	La Humadera Estilo Tijuana	Los Angeles,	5	12	['Tacos']	$	Historic South Central
+260	Moody Vegan	Los Angeles,	5	17	['Vegan', 'Desserts', 'Food Trucks']	$	San Fernando Valley
+261	Ju	Los Angeles,	5	27	['Korean', 'Barbeque']	$	Koreatown
+262		Los Angeles,	5	25	['Food Stands', 'Chicken Shop', 'Soul Food']	$	Larchmont
+263	Girl	Los Angeles,	5	12	['Seafood', 'Cocktail Bars', 'Tapas/Small Plates']	$	Hollywood Hills West
+264	Comal De Mexico Catering	Los Angeles,	5	21	['Mexican', 'Caterers']	$	
+265	& Night Cereal Bar	Los Angeles,	5	8	['Breakfast & Brunch', 'Food Trucks']	$	Los Angeles
+266	Tacos	Los Angeles,	5	9	['Food Trucks', 'Tacos']	$	Boyle Heights
+267	Mexican Restaurant	Los Angeles,	5	9	['Mexican']	$$	Broadway-Manchester
+268	5 y 10	Los Angeles,	5	6	['Tacos', 'Breakfast & Brunch']	$$	Mid-City
+269		Los Angeles,	5	22	['Asian Fusion', 'Korean', 'Sandwiches']	$$	Downtown
+270	Los Angeles	Los Angeles,	5	7	['Filipino', 'Asian Fusion', 'Food Trucks']	$$	Los Angeles 
+271	Mariscos	Los Angeles,	5	14	['Seafood', 'Food Trucks']	$$	
+272	Yerevan Restaurant	Los Angeles,	5	6	['Mediterranean']	$$	
+273	Pizza Stix	Los Angeles,	5	8	['Food Trucks', 'Pizza']	$$	Los Angeles
+274		Los Angeles,	5	15	['Thai', 'Specialty Food', 'Food Delivery Services']	$$	Los Angeles
+275	el Rey - Temp. CLOSED	Los Angeles,	5	7	['Creperies']	$$	Historic South Central
+276	Street Market	Los Angeles,	5	9	['Convenience Stores', 'Delis', 'Juice Bars & Smoothies']	$$	Downtown
+277		Los Angeles,	5	12	['Japanese', 'Poke', 'Asian Fusion']	$$	Koreatown
+278		Los Angeles,	5	12	['Japanese', 'Poke', 'Asian Fusion']	$$	Koreatown
+279	Factory	Los Angeles,	5	9	['Sandwiches', 'Donuts', 'Juice Bars & Smoothies']	$$	Eagle Rock
+280	Tacos & Kabob	Los Angeles,	5	9	['Mexican', 'Mediterranean', 'Latin American']	$$	North Hollywood
+281	Mani Pizza	Los Angeles,	5	5	['Pizza', 'Food Trucks']	$$	Historic South Central
+282	Los Musubi	Los Angeles,	5	18	['Hawaiian', 'Pop-Up Restaurants', 'Street Vendors']	$$	Boyle Heights
+283	Bistro Coffee Shop	Los Angeles,	5	11	['Coffee & Tea', 'Fast Food']	$	Encino
+284	& Cheeky	Los Angeles,	5	6	['Desserts', 'Custom Cakes', 'Gluten-Free']	$	Sun Valley
+285	Mia	Los Angeles,	5	11	['Food Delivery Services', 'Mexican']	$	Historic South Central
+286	y Mas Familia Castro	Los Angeles,	5	38	['Breakfast & Brunch', 'Tacos']	$	North Hollywood
+287	2 Go	Los Angeles,	5	6	['Barbeque', 'Korean']	$	Koreatown
+288	Hung	Los Angeles,	5	8	['Tacos', 'Street Vendors']	$	North Hills
+289	Ranas Food Truck	Los Angeles,	5	5	['Food Trucks', 'Mexican']	$$	North Hollywood
+290		Los Angeles,	5	5	['Kebab', 'Mediterranean']	$$	Larchmont
+291	Nom Cafe	Los Angeles,	5	15	['Juice Bars & Smoothies', 'Cafes']	$$	Downtown
+292	Isshoku	Los Angeles,	5	9	['Sushi Bars']	$$	Downtown
+293		Los Angeles,	5	5	['Indonesian', 'Caterers']	$	Toluca Lake
+294	With Dres	Los Angeles,	5	10	['Pop-Up Restaurants']	$	Downtown
+295	at Harlowe	Los Angeles,	5	14	['French', 'Mediterranean', 'Moroccan']	$	
+296	Sazon K-tracho #3	Los Angeles,	5	5	['Honduran']	$	Downtown
+297	El Diablito	Los Angeles,	5	9	['Chicken Wings', 'Food Stands', 'Mexican']	$	
+298	Grange Breakfast Cafe	Chicago	5	4	['Breakfast & Brunch']	$	
+299	Beef Hut	Chicago	5	10	['Cheesesteaks']	$	
+300	restaurant	Chicago	5	8	['African', 'Somali']	$	Near North Side
+301	Morning Delight	Chicago	5	6	['Breakfast & Brunch', 'Mexican']	$	North Center
+302	Kitchen	Chicago	5	5	['Puerto Rican']	$	West Town
+303	Deli	Chicago	5	5	['Mediterranean', 'Delis']	$	Norwood Park
+304	Embassy Public House	Chicago	5	9	['Sports Bars', 'American (Traditional)']	$	University Village
+305	Occasional Restaurant	Chicago	5	7	['Seafood']	$$	Albany Park
+306	Molcajetes	Chicago	5	6	['Tacos', 'Tex-Mex']	$$	Logan Square
+307	Chef	Chicago	5	12	['Chinese', 'Bubble Tea']	$$	
+308	Taco Stop	Chicago	5	6	['Mexican']	$$	Ravenswood
+309	Pizza & Pastry	Chicago	5	6	['Pizza', 'Desserts', 'Coffee & Tea']	$$	River North
+310		Chicago	5	7	['Breakfast & Brunch', 'Latin American']	$$	Irving Park
+311	Restaurant	Chicago	5	5	['Modern European', 'American (Traditional)', 'Breakfast & Brunch']	$$	Edgewater
+312	Crowd Theater	Chicago	5	14	['Comedy Clubs', 'Chicken Wings']	$	Wrigleyville
+313	Latin Cafe	Chicago	5	9	['Latin American', 'Coffee & Tea', 'Sandwiches']	$	Logan Square
+314	Diner	Chicago	5	9	['Chicken Wings', 'Fast Food']	$	
+315	General Bakery Cafe	Chicago	5	9	['Cafes', 'Bakeries']	$	
+316	Kitchen	Chicago	5	7	['Salvadoran']	$	
+317	Vida Catering	Chicago	5	15	['Italian']	$	Irving Park
+318	& fire	Chicago	5	7	['Filipino', 'Pop-Up Restaurants', 'Asian Fusion']	$	East Garfield Park
+319		Chicago	5	8	['Comfort Food', 'Sandwiches', 'Seafood']	$	
+320	Dokku	Chicago	5	5	['Sushi Bars', 'Asian Fusion']	$	The Loop
+321	Ethiopian	Chicago	5	7	['Ethiopian']	$	Edgewater
+322	Oriental Groceries & Foods Market	Chicago	5	8	['Filipino', 'International Grocery']	$	
+323	Michoacán	Chicago	5	6	['Mexican']	$	Marquette Park
+324	Coffee and Custard	Chicago	5	8	['Breakfast & Brunch', 'Ice Cream & Frozen Yogurt', 'Coffee & Tea']	$	Auburn Gresham
+325	Taqueria	Chicago	5	24	['Tacos', 'New Mexican Cuisine']	$	Ravenswood
+326	N Half Kitchen	Chicago	5	6	['Soul Food', 'Soup', 'Wraps']	$	Austin
+327	Fitness Cafe	Chicago	5	5	['Health Markets', 'Juice Bars & Smoothies', 'Restaurants']	$	
+328	Dz House	Chicago	5	8	['Mediterranean', 'Halal', 'Middle Eastern']	$	Belmont Central
+329	Burger Babi	Chicago	5	6	['Burgers', 'Sandwiches']	$	East Side
+330	57	Chicago	5	7	['Seafood', 'Chicken Wings', 'American (Traditional)']	$	Humboldt Park
+331	Antojo	Chicago	5	6	['Creperies', 'Candy Stores', 'Cafes']	$	
+332	Michoacana Moderna	Chicago	5	8	['Ice Cream & Frozen Yogurt', 'Tacos', 'Desserts']	$$	
+333	Bakery & Deli	Chicago	5	16	['Bakeries', 'Delis']	$$	
+334	Life	Chicago	5	15	['Salad', 'Juice Bars & Smoothies', 'Pasta Shops']	$$	
+335	Place Pancake House	Chicago	5	8	['Breakfast & Brunch', 'Coffee & Tea', 'Sandwiches']	$$	Back of the Yards
+336	Aida	Chicago	5	6	['Mexican']	$$	Marquette Park
+337		Chicago	5	8	['Puerto Rican', 'Cuban', 'Latin American']	$$	Logan Square
+338	Sandwich	Chicago	5	5	['Sandwiches', 'Turkish']	$$	
+339	Hearts & Flour Bakery & Cafe	Chicago	5	8	['Breakfast & Brunch', 'Coffee & Tea', 'Bakeries']	$$	West Rogers Park
+340	Nine Nine Asian Bistro	Chicago	5	8	['Seafood', 'Noodles', 'Soup']	$$	Bucktown
+341	Carb Kitchen	Chicago	5	11	['Health Markets', 'Gluten-Free']	$$	
+342		Chicago	5	6	['Barbeque', 'Asian Fusion']	$$	Lincoln Park
+343	Land Kettle Corn	Chicago	5	6	['Food Stands']	$$	
+344	& Shrack	Chicago	5	5	['Middle Eastern', 'Mediterranean']	$$	
+345	Don Sosa	Chicago	5	7	['Mexican']	$$	
+346	Queen Store	Chicago	5	9	['Ice Cream & Frozen Yogurt', 'Fast Food', 'Burgers']	$	
+347	City	Chicago	5	6	['Seafood']	$	Washington Heights
+348	of Dumplings	Chicago	5	6	['Chinese', 'Asian Fusion']	$	Avondale
+349	Coast Market	Chicago	5	19	['Tobacco Shops', 'Beer, Wine & Spirits', 'Delis']	$	Near North Side
+350	Cafe	Chicago	5	6	['Cafes', 'Coffee & Tea', 'Cajun/Creole']	$	Near North Side
+351	Rooster - Chicago	Chicago	5	10	['Latin American', 'Breakfast & Brunch', 'Sandwiches']	$	Ukrainian Village
+352	Mucho	Chicago	5	7	['Mexican']	$	Avondale
+353	Pizza	Chicago	5	8	['Pizza']	$	West Loop
+354	To Your House	Chicago	5	5	['Laotian']	$	East Garfield Park
+355	Shrimpin	Chicago	5	7	['Seafood']	$	Austin
+356	En Brasa	Chicago	5	8	['Chicken Shop']	$	Lincoln Square
+357	Margo	Chicago	5	15	['Sandwiches', 'Juice Bars & Smoothies', 'Delis']	$	
+358	Stop Produce and Market	Chicago	5	32	['Grocery', 'Cupcakes', 'Burgers']	$	Lakeview
+359	Sushi Chicago	Chicago	5	29	['Sushi Bars', 'Poke', 'Ramen']	$	Irving Park
+360	Fleurette	Chicago	5	25	['Bakeries', 'French']	$	
+361	Grill	Chicago	5	23	['Modern European', 'Burgers', 'Pizza']	$	
+362	Y Antojitos Chepis	Chicago	5	20	['Mexican']	$	
+363	Lulu’s Italian Ice	Chicago	5	40	['Soup', 'Sandwiches', 'Juice Bars & Smoothies']	$	Portage Park
+364	Sushi	Chicago	5	17	['Sushi Bars']	$	Logan Square
+365	El Mexicano	Chicago	5	17	['Mexican', 'Breakfast & Brunch']	$$	Cragin
+366	Poké	Chicago	5	33	['Poke', 'Ramen', 'Salad']	$$	West Loop
+367	Deli At 700	Chicago	5	16	['Sandwiches', 'Delis']	$	
+368	& T Steakhouse	Chicago	5	16	['Steakhouses', 'Seafood', 'Sandwiches']	$	Bucktown
+369	Pierogi & Cafe	Chicago	5	16	['Cafes', 'Polish', 'Modern European']	$	Portage Park
+370	Roti & Trini Cuisine	Chicago	5	16	['Trinidadian']	$	Near Southside
+371	Mom’s K Food Togo	Chicago	5	16	['Korean']	$	
+372	Calidá	Chicago	5	15	['Coffee & Tea', 'Cafes']	$	Humboldt Park
+373	Coffee Company	Chicago	5	29	['Coffee Roasteries', 'Coffee & Tea', 'Cafes']	$	
+374	Fenix	Chicago	5	14	['Cafes', 'Juice Bars & Smoothies', 'Sandwiches']	$	Avondale
+375	North American Pizza & Culinary Academy	Chicago	5	14	['Cooking Schools', 'Pizza']	$	
+376	Bistro & Bar	Chicago	5	14	['Bars', 'Gluten-Free']	$	Avondale
+377	Food Company	Chicago	5	73	['Breakfast & Brunch', 'Cafes', 'Juice Bars & Smoothies']	$$	Avondale
+378	Cafe	Chicago	5	24	['Filipino', 'Cafes']	$$	Ravenswood
+379	Café	Chicago	5	131	['Burgers', 'Sandwiches', 'Vegan']	$$	
+380	6050	Chicago	5	371	['Empanadas', 'Creperies', 'Ice Cream & Frozen Yogurt']	$	Dunning
+381	Lindo Cafe	Chicago	5	11	['Breakfast & Brunch', 'Mexican']	$	
+382	Agave Bar & Kitchen	Chicago	5	11	['Beer Bar', 'Mexican']	$	Logan Square
+383	Tacos & Tortas Cocina Mexicana	Chicago	5	55	['Tacos', 'Sandwiches']	$	Irving Park
+384	Cafe	Chicago	5	32	['Breakfast & Brunch', 'Burgers', 'Sandwiches']	$$	Irving Park
+385	Little Pigs Chi - Temp. CLOSED	Chicago	5	185	['Chinese', 'Barbeque', 'Chicken Shop']	$$	Near North Side
+386	Chop	Chicago	5	112	['Chinese', 'Japanese', 'Sushi Bars']	$$	Bucktown
+387	Indian Grill	Chicago	5	11	['Indian']	$$	
+388	Pizza	Chicago	5	38	['Pizza']	$$	
+389	Modern Indian Grill	Chicago	5	95	['Indian']	$$	The Loop
+390	Xangarrito	Chicago	5	75	['Mexican']	$$	Lincoln Square
+391	& Lincoln Venezuelan Cafe	Chicago	5	177	['Cafes', 'Venezuelan']	$$	Lakeview
+392	Express	Chicago	5	18	['Mexican']	$$$	
+393	Bros	Chicago	5	9	['Hawaiian', 'Seafood', 'Poke']	$$$	
+394	To Go	Chicago	5	18	['Italian', 'Salad', 'Chicken Wings']	$$$	
+395	Street Eatery & Market	Chicago	5	9	['Cocktail Bars', 'Italian', 'Sandwiches']	$$$	West Loop
+396	Safa Restaurant	Chicago	5	9	['Breakfast & Brunch', 'Sandwiches', 'Middle Eastern']	$$$	West Rogers Park
+397	Sushi and Thai	Chicago	5	35	['Thai']	$$$	Belmont Central
+398	Karamba	Columbus	5	13	['Food Trucks', 'Mediterranean', 'Mexican']	$$$	Hilltop
+399	Ruby’s Barbecue Company	Columbus	5	6	['Barbeque', 'Food Trucks']	$$$	
+400	Deli No 44	Columbus	5	6	['Street Vendors', 'Delis']	$	University District
+401	O on Lane	Columbus	5	5	['Pizza', 'Sports Bars', 'Music Venues']	$	University District
+402	Hibachi	Columbus	5	8	['Japanese', 'Steakhouses']	$$	
+403	Cafe	Columbus	5	20	['Turkish', 'Desserts']	$$	Northwest
+404	Brothers Sliders	Columbus	5	5	['Burgers', 'Food Trucks', 'American (Traditional)']	$$	
+405	El Catrin	Columbus	5	5	['Food Trucks', 'Tacos']	$$	Downtown
+406	Persian Taste	Columbus	5	25	['Persian/Iranian']	$$	Discovery District
+407	at Little Rock	Columbus	5	5	['American (New)', 'Burgers']	$$	Italian Village
+408	Baxter’s	Columbus	5	10	['Bars', 'American (Traditional)']	$$	Hilltop
+409	Rabbit Ramen	Columbus	5	8	['Ramen']	$$	
+410	Mike’s Subs	Columbus	5	5	['Sandwiches', 'Delis', 'Fast Food']	$$	
+411	CLE bus	Columbus	5	6	['Polish', 'Specialty Food']	$$	
+412	Food Truck	Columbus	5	9	['Food Trucks', 'Mexican']	$$	
+413	Sambusas & Juices	Columbus	5	5	['African', 'Juice Bars & Smoothies', 'Somali']	$$	
+414	Thai Food	Columbus	5	5	['Food Trucks', 'Thai']	$$	Columbus
+415	Asian Kitchen	Columbus	5	5	['Food Trucks', 'Asian Fusion', 'Filipino']	$$	
+416	Happy	Columbus	5	17	['Ice Cream & Frozen Yogurt', 'Coffee & Tea', 'Wraps']	$	
+417	Mexican Cuisine	Columbus	5	5	['Mexican']	$	Linden
+418		Columbus	5	18	['Food Trucks', 'Tacos']	$	Dublin
+419	Street Food	Columbus	5	17	['Tacos', 'Food Trucks']	$	
+420	Tacos	Columbus	5	30	['Food Trucks', 'Tacos']	$	Hilltop
+421	Mess Food Truck	Columbus	5	13	['Food Trucks', 'Burgers', 'Sandwiches']	$	
+422	Smith Subs	Columbus	5	12	['Salad', 'Burgers', 'Delis']	$	
+423	Kitchen	Columbus	5	130	['African', 'Somali']	$	Short North
+424	Kitchen	Columbus	5	101	['Salad', 'Soup', 'Sandwiches']	$	
+425	Side Roots Cafe & Market	Columbus	5	20	['American (Traditional)']	$	
+426	Tasty Good	Columbus	5	20	['Food Trucks', 'Comfort Food']	$	Downtown
+427	New York Gyro	Columbus	5	10	['Food Trucks', 'Halal']	$	Hilltop
+428	Mediterranean	Columbus	5	38	['Mediterranean', 'Greek']	$	
+429	Bunny	Columbus	5	9	['Poke', 'Ramen', 'Bubble Tea']	$	Downtown
+430	Kitchen	Columbus	5	9	['American (New)', 'Burgers', 'Tacos']	$	
+431	Agavez Taqueria	Columbus	5	103	['Mexican', 'Food Trucks']	$	Columbus
+432	& Tea	Columbus	5	24	['Taiwanese', 'Food Trucks']	$	Columbus
+433	Cafe	Columbus	5	533	['Delis', 'Breakfast & Brunch', 'Cafes']	$$	Eastmoor
+434		Columbus	5	7	['American (New)', 'Lounges']	$$	Polaris
+435	Latin Bistro	Columbus	5	28	['Food Trucks', 'Latin American']	$$	Columbus
+436	Smoke	Columbus	5	7	['Food Trucks', 'Seafood']	$$	
+437	Taco Bar	Columbus	5	34	['Mexican', 'Peruvian', 'Cocktail Bars']	$$	Northwest
+438	Swahili Grill	Columbus	5	34	['African']	$$	Northland
+439	Jalisco	Columbus	5	47	['Mexican', 'Food Trucks', 'Fast Food']	$	Northland
+440	Diner	Columbus	5	20	['Breakfast & Brunch', 'American (Traditional)']	$	Eastmoor
+441	- Korean food and sushi	Columbus	5	13	['Korean', 'Sushi Bars']	$	
+442	Believe It’s Vegan	Columbus	5	26	['Vegan']	$	
+443	SoulVeg	Columbus	5	44	['Vegan']	$	Short North
+444	York Style Halal Gyro	Columbus	5	25	['Food Trucks', 'Halal']	$	Northland
+445	Pho	Columbus	5	25	['Vietnamese']	$	Hilltop
+446	Ethiopian Bar & Restaurant	Columbus	5	6	['Ethiopian']	$	
+447		Columbus	5	12	['Food Court', 'Japanese', 'Korean']	$	
+448	Time Curiously Crafted Pops	Columbus	5	18	['Food Stands', 'Ice Cream & Frozen Yogurt']	$	Hilliard
+449	Pizza	Columbus	5	6	['Pizza']	$	
+450	Me Happy	Columbus	5	12	['Bakeries', 'Coffee & Tea', 'Gluten-Free']	$	
+451	Ethiopian Restaurant and Cafe	Columbus	5	6	['Ethiopian', 'Desserts', 'Salad']	$	
+452	Mediterranean Grill	Columbus	5	159	['Middle Eastern', 'Halal', 'Falafel']	$	
+453	and Sand Tavern & Refuge	Columbus	5	26	['Cocktail Bars', 'American (Traditional)']	$	
+454	Air	Columbus	5	46	['Coffee & Tea', 'Bakeries', 'Turkish']	$	
+455	Grill	Columbus	5	81	['African', 'Somali']	$$	
+456	Restaurant & Bar	Columbus	5	5	['Himalayan/Nepalese', 'Breakfast & Brunch', 'Bars']	$$	
+457	Pinos	Columbus	5	5	['Salvadoran', 'Mexican']	$$	
+458	Chicken	Columbus	5	10	['Chicken Shop']	$$	
+459	Breakfast Cafe	Columbus	5	5	['Breakfast & Brunch', 'Sandwiches', 'Food Trucks']	$$	Columbus
+460	Oaxaca	Columbus	5	5	['Mexican']	$$	Northwest
+461	Coneys & Wraps	Columbus	5	5	['Sandwiches', 'Tex-Mex', 'Hot Dogs']	$$	
+462	Sliders	Columbus	5	5	['American (New)', 'Burgers', 'Chicken Wings']	$$	Franklinton
+463	5 BBQ	Columbus	5	5	['Food Trucks', 'Barbeque']	$$	
+464	Sea Cafe & Deli	Columbus	5	5	['Delis', 'Juice Bars & Smoothies', 'Cafes']	$$	Northland
+465	Asian Grill	Columbus	5	5	['Salad', 'Asian Fusion', 'Gluten-Free']	$$	Polaris
+466	Kitchen & Deli	Columbus	5	5	['Salad', 'Delis', 'Pizza']	$$	Linden
+467		Columbus	5	29	['Food Trucks', 'Barbeque']	$$	Columbus
+468	Pizzeria & Bakery	Columbus	5	261	['Bakeries', 'Pizza']	$	
+469	Delicious Dozen	Columbus	5	225	['Donuts', 'Coffee & Tea', 'Breakfast & Brunch']	$	
+470	Club	Columbus	5	9	['Delis', 'Imported Food', 'Russian']	$	Northwest
+471	Eatz	Columbus	5	9	['Juice Bars & Smoothies', 'Burgers', 'Wraps']	$	
+472	Burger	Columbus	5	9	['Burgers']	$	Driving Park
+473	Beef and Pork	Columbus	5	157	['Cheesesteaks', 'Sandwiches']	$$	Arena District
+474		Columbus	5	31	['Cafes', 'Coffee & Tea', 'Breakfast & Brunch']	$$	
+475	Mediterranean Food Imports & Bakery #3	Columbus	5	13	['Halal', 'Vegetarian', 'International Grocery']	$$	
+476	Vegan Kitchen	Columbus	5	17	['Vegan', 'Breakfast & Brunch', 'Burgers']	$$	
+477	Halal	Columbus	5	17	['Halal', 'Pakistani']	$$	Polaris
+478	Dollar Radio Headquarters	Columbus	5	93	['Bookstores', 'Vegan', 'Bars']	$$	
+479	Bowl	Columbus	5	21	['Japanese', 'Food Trucks']	$$	Downtown
+480	Time with Don Carlos	Columbus	5	25	['Food Trucks', 'Tacos']	$	Canal Winchester
+481	Steele BBQ	Columbus	5	41	['Barbeque', 'American (Traditional)', 'Bars']	$	University District
+482	Kitchen	Columbus	5	16	['Falafel', 'Desserts', 'Vegan']	$	
+483	Mia Oh Food Truck	Columbus	5	4	['Cuban', 'Food Trucks']	$	
+484	Cafe + Bakery	Columbus	5	4	['Bakeries', 'Sandwiches', 'Soup']	$	Discovery District
+485	American & Somali Cuisine	Columbus	5	12	['Somali']	$$	Northland
+486	Center Patio & Pub	Columbus	5	4	['Vegan', 'Pubs', 'Pizza']	$$	
+487	Pizza	Columbus	5	4	['Pizza']	$$	
+488	El Guero	Columbus	5	4	['Mexican']	$$	
+489	Pizzeria	Columbus	5	16	['Pizza', 'Salad', 'Sandwiches']	$$	Clintonville
+490	American Deli	Columbus	5	8	['Delis', 'American (New)', 'Food Trucks']	$	Clintonville
+491	Pachucos Tacos	Columbus	5	8	['Food Trucks', 'Mexican']	$	
+492	Restaurant	Columbus	5	4	['Salad', 'Seafood', 'Sandwiches']	$	
+493	Lakes Winery	Columbus	5	12	['Cocktail Bars', 'American (Traditional)', 'Wine Bars']	$	
+494	Ramen	Columbus	5	4	['Japanese', 'Food Delivery Services']	$	Columbus
+495	Bakery	Columbus	4.5	163	['Bakeries', 'Gluten-Free', 'Donuts']	$	
+496	Bakery	Las Vegas	5	5	['Bakeries', 'Armenian']	$	Chinatown
+497	Cupcave	Las Vegas	5	7	['Bakeries', 'Vegan', 'Cupcakes']	$	Southeast
+498	Jumper	Las Vegas	5	19	['Bounce House Rentals', 'Caterers', 'Tacos']	$	
+499	Mama’s House	Las Vegas	5	8	['Vietnamese', 'Comfort Food', 'Asian Fusion']	$	Downtown
+500	Mediterranean Kitchen and Lounge	Las Vegas	5	10	['Hookah Bars', 'Mediterranean', 'Lounges']	$$	
+501	Restaurant	Las Vegas	5	12	['Diners', 'Bars']	$$	
+502	Queso Guero	Las Vegas	5	5	['Food Trucks', 'Tacos']	$$	Henderson
+503	Raw Vegan Healthy Crunch	Las Vegas	5	18	['Food Stands', 'Vegan', 'Fruits & Veggies']	$$	
+504	Pantry	Las Vegas	5	5	['Breakfast & Brunch', 'Sandwiches', 'Pizza']	$$	Northwest
+505	Hut Toasted Subs	Las Vegas	5	7	['Bars', 'Sandwiches']	$$	
+506	Mama Dez	Las Vegas	5	6	['Tacos']	$$	
+507	Juice Social House	Las Vegas	5	5	['Juice Bars & Smoothies', 'Coffee & Tea', 'Ethiopian']	$$	
+508	Nutrition	Las Vegas	5	5	['Juice Bars & Smoothies', 'Donuts', 'Waffles']	$$	Southeast
+509		Las Vegas	5	21	['Vegan']	$$	Eastside
+510	Mamita	Las Vegas	5	7	['Food Trucks', 'Salvadoran']	$$	Westside
+511	Best Pizza And Pasta Downtown	Las Vegas	5	26	['Pizza', 'Italian']	$$	Downtown
+512	Vegan Kitchen	Las Vegas	5	10	['Vegan', 'Food Stands', 'Breakfast & Brunch']	$$	
+513	Skelter	Las Vegas	5	12	['Food Trucks', 'Sandwiches']	$$	Las Vegas
+514	Taco Bar Shop	Las Vegas	5	13	['Tacos']	$$	Eastside
+515	Smoked Shack	Las Vegas	5	7	['Barbeque', 'Food Delivery Services']	$$	
+516	and Treats	Las Vegas	5	7	['Food Trucks', 'Desserts', 'Barbeque']	$$	Henderson
+517	Roadside Grill	Las Vegas	5	12	['Food Trucks', 'Burgers', 'Sandwiches']	$$	Las Vegas
+518	Horizon Cafe	Las Vegas	5	17	['Cafes', 'Desserts', 'Coffee & Tea']	$	
+519	Ten	Las Vegas	5	15	['Sushi Bars']	$	Westside
+520	Express	Las Vegas	5	6	['Mediterranean']	$	Southeast
+521	ando sando	Las Vegas	5	5	['Japanese', 'Sandwiches']	$	Downtown
+522	and Grounds	Las Vegas	5	5	['Coffee & Tea', 'Tapas/Small Plates', 'Breakfast & Brunch']	$	
+523	Sushi Bento - Temp. CLOSED	Las Vegas	5	34	['Asian Fusion', 'Japanese', 'Poke']	$$	
+524	On The Strip	Las Vegas	5	12	['Venues & Event Spaces', 'Dinner Theater']	$$	The Strip
+525	Jalisco	Las Vegas	5	8	['Food Trucks', 'Tacos']	$$	
+526	Peruvian Restaurant	Las Vegas	5	5	['Peruvian']	$$	
+527	Pup Café	Las Vegas	5	17	['Pet Stores', 'Themed Cafes']	$	Downtown
+528	Pam Real Thai Food	Las Vegas	5	18	['Thai', 'Seafood']	$	
+529	Tacos	Las Vegas	5	78	['Caterers', 'Tacos', 'Food Stands']	$	Las Vegas
+530		Las Vegas	5	77	['Mediterranean', 'Tapas Bars', 'Hookah Bars']	$$	
+531	Paleta	Las Vegas	5	107	['Ice Cream & Frozen Yogurt', 'Mexican']	$	
+532	El Frescos	Las Vegas	5	49	['Seafood', 'Mexican']	$$	Eastside
+533	Mong	Las Vegas	5	85	['Desserts', 'Coffee & Tea', 'Creperies']	$$	Chinatown
+534	Rustica	Las Vegas	5	42	['Pizza', 'Italian', 'Pasta Shops']	$$	
+535	Paiza Club	Las Vegas	5	18	['Casinos', 'Asian Fusion']	$$$$	The Strip
+536	Sushi	Las Vegas	5	18	['Sushi Bars', 'Pop-Up Restaurants', 'Vegan']	$$$$	Southeast
+537	Latin American Cocina	Las Vegas	5	120	['Latin American']	$$$$	
+538		Las Vegas	5	17	['Mediterranean', 'Vegan', 'Vegetarian']	$$$$	Chinatown
+539	Daily Bread	Las Vegas	5	66	['Bakeries', 'Breakfast & Brunch', 'Pizza']	$$$$	Summerlin
+540	Yuzu	Las Vegas	5	421	['Japanese', 'Korean', 'Asian Fusion']	$$	Southwest
+541	Veggie-Vegan Eatery	Las Vegas	5	133	['Mexican', 'Vegan']	$	Eastside
+542	Kim’s Kitchen	Las Vegas	5	12	['Caterers', 'American (Traditional)']	$	Eastside
+543	Pizza	Las Vegas	5	36	['Pizza']	$	Downtown
+544	Yuzu	Las Vegas	5	69	['Japanese']	$$$$	Chinatown
+545	Sushi	Las Vegas	5	103	['Sushi Bars', 'Japanese', 'Seafood']	$$	Southwest
+546	Cafe	Las Vegas	5	11	['Persian/Iranian', 'Food Stands', 'Donuts']	$$	Westside
+547	Gemi Italian Restaurant & Putia - Temp. CLOSED	Las Vegas	5	22	['Sicilian']	$$	Chinatown
+548	Hot-Dogs	Las Vegas	5	11	['Hot Dogs', 'Food Trucks']	$	Downtown
+549	Vegan Sushi Bar & Izakaya - Temp. CLOSED	Las Vegas	5	355	['Sushi Bars', 'Izakaya', 'Ramen']	$$	Southeast
+550	Zero	Las Vegas	5	91	['Ramen', 'Noodles', 'Soup']	$$	
+551	Pie	Las Vegas	5	10	['Pizza', 'Food Trucks']	$$	Henderson
+552	Foods Cafe	Las Vegas	5	10	['Cafes']	$$	Westside
+553	Colombian Bakery	Las Vegas	5	39	['Colombian', 'Bakeries']	$	Eastside
+554	fresh food fast	Las Vegas	5	36	['Soup', 'Coffee & Tea', 'Health Markets']	$	
+555	Creole	Las Vegas	5	9	['Food Trucks', 'Cajun/Creole']	$	Las Vegas
+556	Mexican Kitchen	Las Vegas	5	9	['Food Trucks', 'Mexican']	$$	Northwest
+557	Mexican Cocina	Las Vegas	5	18	['Mexican', 'Bars', 'Breakfast & Brunch']	$$	The Strip
+558	Katsu House	Las Vegas	5	34	['Japanese Curry', 'Chicken Shop']	$$	Anthem
+559		Las Vegas	5	8	['Convenience Stores', 'Gas Stations', 'Fast Food']	$	
+560	si senor	Las Vegas	5	8	['Mexican']	$	
+561	Kitchen	Las Vegas	5	8	['Burgers', 'Colombian', 'Food Trucks']	$	Downtown
+562	Together	Las Vegas	5	8	['Korean']	$	Westside
+563	Greek Grill - Centennial Center	Las Vegas	5	167	['Greek', 'Mediterranean', 'Salad']	$$	Centennial
+564	Club	Las Vegas	5	83	['Pubs', 'Sandwiches', 'Burgers']	$$	Chinatown
+565	Loui	Las Vegas	5	200	['Seafood', 'Cajun/Creole']	$$$	Westside
+566	bbq pit	Las Vegas	5	7	['Food Trucks', 'Southern', 'Barbeque']	$$$	Eastside
+567	To Go	Las Vegas	5	7	['Barbeque', 'Salad', 'Sandwiches']	$$$	The Strip
+568	Hills Cafe	Las Vegas	5	7	['Juice Bars & Smoothies', 'Cafes']	$	
+569	Sake & Robata Grill	Las Vegas	5	7	['Japanese', 'Sushi Bars', 'Cocktail Bars']	$	Eastside
+570	Sabor Cafe	Las Vegas	5	96	['Creperies', 'Cafes']	$$	
+571	Pizza	Las Vegas	5	86	['Pizza', 'Italian']	$$	
+572	Japanese BBQ	Las Vegas	5	2476	['Barbeque', 'Japanese']	$$$	Chinatown
+573	Cafe	Las Vegas	5	6	['Cafes']	$$$	South Summerlin
+574	Greek Gyros	Las Vegas	5	6	['Greek', 'Food Trucks']	$$$	Southwest
+575	Family Secret	Las Vegas	5	6	['Food Trucks', 'Sandwiches']	$$$	
+576	Street Barbecue & Catering	Las Vegas	5	6	['Food Trucks', 'Barbeque', 'Caterers']	$$$	
+577	Hunt Family Sandwich Shop	Las Vegas	5	30	['Sandwiches']	$$$	Eastside
+578	Cafe	Las Vegas	5	113	['Breakfast & Brunch', 'Sandwiches', 'Coffee & Tea']	$$	Anthem
+579	Codfather - Temp. CLOSED	Las Vegas	5	400	['Fish & Chips']	$$	
+580	Nori	Las Vegas	5	35	['Japanese', 'Asian Fusion', 'Sushi Bars']	$$	
+581		Las Vegas	5	198	['Breakfast & Brunch', 'Tacos']	$$	
+582	Diner - Temp. CLOSED	Las Vegas	5	122	['Diners', 'Breakfast & Brunch', 'Burgers']	$$	Southwest
+583	Ahogadas y Birria El Chacho	Las Vegas	5	61	['Mexican']	$$	Eastside
+584	La Chata	Las Vegas	5	11	['Street Vendors', 'Food Stands']	$	Downtown
+585	Iggy’s	Las Vegas	5	22	['Waffles']	$	Southeast
+586	Street Food	Las Vegas	5	22	['Thai']	$	Chinatown
+587	Express	Las Vegas	5	60	['Cafes', 'Breakfast & Brunch', 'Kosher']	$$	The Lakes
+588	Avalon	Las Vegas	5	49	['Cafes', 'Coffee & Tea', 'Juice Bars & Smoothies']	$$	Westside
+589	Joe’s	Las Vegas	5	242	['Sushi Bars', 'Japanese', 'Asian Fusion']	$$	University
+590	by Chef Beni - Temp. CLOSED	Las Vegas	5	172	['Latin American', 'Asian Fusion', 'Chinese']	$$	Eastside
+591	Greek Grill - Blue Diamond/Buffalo	Las Vegas	5	181	['Greek', 'Mediterranean', 'Salad']	$$	Southwest
+592	Express	Las Vegas	5	761	['Hawaiian', 'Poke']	$$	
+593	D’s Bar-B-Que	Las Vegas	5	37	['Barbeque', 'Food Trucks']	$$	
+594	Sanga	Las Vegas	5	21	['Japanese']	$$$$	Chinatown
+595	El Mezcal	Oklahoma City	5	8	['Food Trucks', 'Tacos']	$$$$	
+596	Pizza	Oklahoma City	5	6	['Pizza', 'Italian', 'Sandwiches']	$$$$	
+597	Bakery & Deli	Oklahoma City	5	10	['Bakeries', 'Delis']	$$$$	
+598	Coffee	Oklahoma City	5	8	['Coffee & Tea', 'Cafes']	$$$$	Deep Deuce
+599	Plate	Oklahoma City	5	6	['Cafes', 'Mediterranean']	$$$$	
+600	Donuts	Oklahoma City	5	10	['Donuts', 'Breakfast & Brunch', 'Coffee & Tea']	$$$$	
+601	D Cuisine	Oklahoma City	5	11	['Thai', 'Noodles']	$$$$	
+602	Buzz Coffee & Cafe	Oklahoma City	5	6	['Coffee & Tea', 'Cafes']	$$$$	CBD
+603	Tapatio #2	Oklahoma City	5	6	['Tacos', 'Food Trucks']	$$$$	
+604	Emmanuel	Oklahoma City	5	5	['Food Trucks', 'Mexican']	$$$$	
+605	Reina De Los Tacos	Oklahoma City	5	15	['Breakfast & Brunch', 'Tacos']	$$$$	
+606	and Coffee	Oklahoma City	5	14	['Coffee & Tea', 'Desserts', 'Breakfast & Brunch']	$	
+607	Grain Kitchen + Cellar	Oklahoma City	5	14	['American (New)', 'Wine Bars', 'Cocktail Bars']	$	
+608	Nine Restaurant	Oklahoma City	5	24	['American (New)', 'Wine Bars', 'Breakfast & Brunch']	$	
+609	Mediterranean Restaurant	Oklahoma City	5	45	['Mediterranean', 'Middle Eastern']	$	
+610	Bakery Cafe	Oklahoma City	5	22	['Bakeries', 'Cafes']	$	
+611	Utzil	Oklahoma City	5	10	['Food Trucks', 'Tacos']	$	
+612	Iz It	Oklahoma City	5	10	['Waffles', 'Burgers', 'Chicken Wings']	$	
+613	Thai Cuisine - OK Thai Food	Oklahoma City	5	59	['Thai', 'Asian Fusion']	$	
+614	Breakfast & Sushi	Oklahoma City	5	29	['Breakfast & Brunch', 'Sushi Bars', 'Desserts']	$	
+615	Peruvian Cuisine	Oklahoma City	5	67	['Peruvian']	$$	
+616	Nation	Oklahoma City	5	47	['Food Trucks', 'Tacos']	$$	
+617	Street Eats	Oklahoma City	5	24	['Thai', 'Salad', 'Noodles']	$$	
+618	Mule Edmond	Oklahoma City	5	8	['Sandwiches', 'Barbeque', 'Soup']	$$	
+619	Donuts	Oklahoma City	5	8	['Breakfast & Brunch', 'Donuts']	$$	
+620	Bar & Grill	Oklahoma City	5	8	['Bars', 'American (New)']	$$	
+621		Oklahoma City	5	8	['Fast Food', 'Sandwiches']	$	
+622	Mi Chalateca	Oklahoma City	5	15	['Salvadoran']	$	
+623	Provisions	Oklahoma City	5	37	['Vegan', 'Food Trucks', 'Burgers']	$	
+624	Donuts	Oklahoma City	5	14	['Donuts', 'Coffee & Tea', 'Sandwiches']	$	
+625	9	Oklahoma City	5	7	['Thai']	$	
+626	133	Oklahoma City	5	7	['Convenience Stores', 'Gas Stations', 'Fast Food']	$	
+627	Craft Kitchen	Oklahoma City	5	33	['Salad', 'Bars']	$$	
+628	Beet Box	Oklahoma City	5	7	['Food Trucks', 'Comfort Food', 'Vegan']	$$	
+629	Coffee	Oklahoma City	5	7	['Coffee & Tea', 'Cafes', 'Bookstores']	$$	
+630	Healthy Cafe	Oklahoma City	5	26	['Wraps', 'Juice Bars & Smoothies', 'Breakfast & Brunch']	$$	
+631	Day Donuts	Oklahoma City	5	12	['Donuts', 'Breakfast & Brunch', 'Coffee & Tea']	$$	
+632	Huasteca	Oklahoma City	5	6	['Food Trucks', 'Tacos']	$$	
+633		Oklahoma City	5	36	['Tacos', 'New Mexican Cuisine']	$$	
+634	Nut Cafe	Oklahoma City	5	6	['Sandwiches', 'Juice Bars & Smoothies', 'Health Markets']	$	
+635	Bar-B-Que	Oklahoma City	5	6	['Food Trucks', 'Barbeque']	$	
+636	Rose Dinner Theater	Oklahoma City	5	12	['Dinner Theater']	$	
+637	Anne’s	Oklahoma City	5	6	['Pretzels', 'Fast Food', 'Desserts']	$	
+638	Smoked BBQ	Oklahoma City	5	6	['Food Trucks', 'Barbeque']	$	Oklahoma City
+639	Los Artesanos	Oklahoma City	5	17	['Mexican']	$	Capitol Hill
+640	Noodle House 东北面馆	Oklahoma City	5	59	['Noodles', 'Szechuan']	$	Asia District
+641	Hot Dogs & More	Oklahoma City	5	16	['American (New)', 'Specialty Food', 'Hot Dogs']	$	
+642	El Dolar	Oklahoma City	5	42	['Mexican', 'Food Trucks']	$	
+643	Cocina De Doña Nena	Oklahoma City	5	93	['Mexican']	$$	
+644	taco express	Oklahoma City	5	5	['Tacos', 'Food Trucks', 'Fast Food']	$$	
+645	El Rincon	Oklahoma City	5	5	['Food Trucks', 'Mexican']	$$	
+646	Cafe	Oklahoma City	5	20	['Cafes', 'Farmers Market', 'Bakeries']	$$	
+647	Top Dogs	Oklahoma City	5	5	['Hot Dogs', 'Street Vendors']	$$	
+648		Oklahoma City	5	5	['Latin American']	$$	
+649	Mr Dollar	Oklahoma City	5	5	['Food Trucks', 'Mexican']	$$	Capitol Hill
+650	Delight	Oklahoma City	5	5	['Food Trucks', 'Turkish']	$$	
+651	Daiquiri Lounge	Oklahoma City	5	10	['Cocktail Bars', 'Lounges', 'Chicken Wings']	$$	Jefferson Park
+652	J’s Laotian & Thai Cuisine	Oklahoma City	5	302	['Laotian', 'Thai']	$	
+653	D’s Pizzaria	Oklahoma City	5	14	['Pizza', 'Chicken Wings']	$	
+654	Coffee	Oklahoma City	5	23	['Coffee & Tea', 'Desserts', 'Sandwiches']	$	John F Kennedy
+655	Bayou - Temp. CLOSED	Oklahoma City	5	9	['Food Stands']	$	
+656	& Roll Express	Oklahoma City	5	31	['Vietnamese']	$	
+657	Fish and Seafood	Oklahoma City	5	37	['Seafood', 'Fish & Chips']	$$	
+658	& Mari’s Pizza Joint	Oklahoma City	5	4	['Pizza', 'Cocktail Bars']	$$	
+659	Thai Cuisine	Oklahoma City	5	8	['Thai']	$$	
+660	Gilded Acorn	Oklahoma City	5	4	['Salad', 'Soup', 'Sandwiches']	$$	CBD
+661	Monk	Oklahoma City	5	4	['Bars', 'Dance Clubs', 'American (New)']	$$	
+662	Train	Oklahoma City	5	4	['Burgers', 'Food Trucks', 'Sandwiches']	$$	Oklahoma City
+663	BBQ	Oklahoma City	4.5	130	['Barbeque']	$$	
+664	Grill	Oklahoma City	4.5	175	['Seafood', 'American (Traditional)']	$$$	
+665	Bakery & Burgers	Oklahoma City	4.5	31	['Donuts', 'Burgers']	$$	
+666	Pizza	Oklahoma City	4.5	56	['Pizza']	$$	
+667	de L’asie	Oklahoma City	4.5	63	['Asian Fusion', 'Comfort Food', 'Cafes']	$$	CBD
+668	Der Lao Kitchen	Oklahoma City	4.5	114	['Laotian']	$$	Plaza District
+669	Michoacana Ng	Oklahoma City	4.5	11	['Ice Cream & Frozen Yogurt', 'Mexican']	$$	
+670	Korean Fried Chicken	Oklahoma City	4.5	51	['Chicken Wings']	$$	
+671	Potosino	Oklahoma City	4.5	25	['Mexican']	$	Capitol Hill
+672	El Rey - Food Truck	Oklahoma City	4.5	7	['Food Trucks', 'Mexican']	$	Reed Park
+673	El Rincon	Oklahoma City	4.5	7	['Food Trucks', 'Mexican']	$	
+674	Country Cooking	Oklahoma City	4.5	7	['American (New)', 'Breakfast & Brunch', 'Sandwiches']	$	
+675	Caliente	Oklahoma City	4.5	7	['Mexican']	$	
+676	Asian Cuisine	Oklahoma City	4.5	31	['Chinese']	$$	
+677	of Noodles and Dumplings	Oklahoma City	4.5	41	['Noodles', 'Chinese']	$$	
+678	Loco	Oklahoma City	4.5	34	['Mexican', 'Food Trucks']	$	
+679	The Alkaline Plant Based Stop	Oklahoma City	4.5	34	['Vegan', 'Juice Bars & Smoothies', 'Cafes']	$$	The Paseo
+680	Station Coffee Cafe	Oklahoma City	4.5	17	['Coffee & Tea', 'Bakeries', 'Breakfast & Brunch']	$$	
+681	Empire OKC	Oklahoma City	4.5	17	['Tacos', 'Food Trucks']	$$	
+682	Main St Grill	Oklahoma City	4.5	10	['Breakfast & Brunch', 'American (Traditional)']	$$	
+683	Express La Villita	Oklahoma City	4.5	10	['Food Trucks', 'Mexican']	$$	
+684	And Play	Oklahoma City	4.5	13	['Cajun/Creole', 'Chicken Wings', 'Bars']	$$	Asia District
+685	Bettahs Hawaiian Style Food	Oklahoma City	4.5	16	['Hawaiian']	$$	
+686	Bites	Oklahoma City	4.5	70	['Pakistani', 'Indian']	$$	
+687	Star Pizza	Oklahoma City	4.5	35	['Pizza']	$$	
+688	La Fuente De Michoacán	Oklahoma City	4.5	19	['Ice Cream & Frozen Yogurt', 'Mexican']	$	
+689	B’s Culinary + Krafted	Oklahoma City	4.5	123	['Sushi Bars', 'Cocktail Bars']	$$	Automobile Alley
+690	Territory Creamery & Coffeehouse	Oklahoma City	4.5	94	['Coffee & Tea', 'Breakfast & Brunch', 'Ice Cream & Frozen Yogurt']	$	
+691	Italian Restaurant	Oklahoma City	4.5	93	['Italian', 'Pizza', 'Pasta Shops']	$	
+692	Dicho	Oklahoma City	4.5	31	['Mexican']	$	
+693	& European Cafe	Oklahoma City	4.5	135	['Creperies']	$	
+694	Mun Gai	Oklahoma City	4.5	76	['Thai', 'Bubble Tea']	$	38th Street Preservation
+695	Pizza Palace	Portland	4.5	14	['Pizza']	$	
+696	Pizzeria	Portland	4.5	13	['Pizza', 'Italian', 'Sandwiches']	$	
+697	Place	Portland	4.5	12	['American (New)', 'Burgers', 'Breakfast & Brunch']	$	
+698	Pizza	Portland	4.5	4	['Pizza']	$	
+699	Camino Real Restaurant	Portland	4	25	['Mexican']	$	
+700	Pickle	Portland	4	20	['Bars', 'American (Traditional)', 'Barbeque']	$	
+701		Portland	4	3	['Fast Food', 'Sandwiches']	$	
+702	and Rings	Portland	3.5	31	['Chicken Wings', 'Sandwiches', 'American (New)']	$$	
+703	Hut	Portland	3	6	['Pizza', 'Chicken Wings', 'Fast Food']	$	
+704	Bell	Portland	3	8	['Fast Food', 'Mexican']	$	
+705	Wall Chinese Restaurant	Portland	2.5	5	['Chinese']	$$	
+706	Queen Store	Portland	3	3	['Ice Cream & Frozen Yogurt', 'Fast Food', 'Burgers']	$	
+707	King	Portland	2.5	12	['Pizza']	$$	
+708	Restaurant	Portland	2.5	16	['Breakfast & Brunch', 'American (Traditional)', 'Seafood']	$	
+709	King	Portland	2	7	['Burgers', 'Fast Food']	$	
+710		Portland	1.5	12	['Burgers', 'Fast Food', 'Coffee & Tea']	$	
+711		Portland	2	2	['Sandwiches']	$	
+712	Bello Pizza	Portland	2	2	['Sandwiches']	$	
+713	Cafe & Studio	Portland	2	2	['Sandwiches']	$	
+714	Pantry	Portland	2	2	['Sandwiches']	$	
+715	Service Station	Nashville-Davidson	5	5	['Ice Cream & Frozen Yogurt', 'Themed Cafes', 'Coffee & Tea']	$	Eastwood
+716	El Dollar	Nashville-Davidson	5	11	['Food Trucks', 'Mexican']	$	
+717	Pizza Truck	Nashville-Davidson	5	5	['Pizza', 'Food Trucks', 'Desserts']	$	Downtown
+718		Nashville-Davidson	5	5	['Juice Bars & Smoothies', 'Live/Raw Food', 'Acai Bowls']	$	East Hill
+719	Kind Cake	Nashville-Davidson	5	6	['Cupcakes', 'Bakeries', 'Gluten-Free']	$	Nashville
+720	Acai Addiction	Nashville-Davidson	5	5	['Delis', 'Juice Bars & Smoothies', 'Acai Bowls']	$	
+721	Cocina	Nashville-Davidson	5	8	['Mexican', 'Honduran', 'Salvadoran']	$	
+722	Pizza	Nashville-Davidson	5	6	['Pizza']	$	
+723	Co-Op Frosé & Eatery	Nashville-Davidson	5	7	['Breakfast & Brunch', 'Sandwiches', 'Coffee & Tea']	$	Hillsboro West End
+724	Pit BBQ	Nashville-Davidson	5	9	['Food Trucks', 'Barbeque', 'Southern']	$	Nashville
+725	Holiday Hootenanny: El Paseo Cantina	Nashville-Davidson	5	19	['Mexican']	$	The Nations
+726	Bee Ice Cream Shop	Nashville-Davidson	5	9	['Mexican', 'Ice Cream & Frozen Yogurt']	$	South Nashville
+727	& Lavender	Nashville-Davidson	5	5	['Bakeries', 'Patisserie/Cake Shop', 'Breakfast & Brunch']	$	Inglewood
+728	City Kitchen	Nashville-Davidson	5	5	['Cocktail Bars', 'Southern', 'Chicken Wings']	$	Downtown
+729	Kitchen	Nashville-Davidson	5	7	['Soul Food']	$	Downtown
+730	Sprout - Temp. CLOSED	Nashville-Davidson	5	15	['Cafes', 'Bakeries', 'Salad']	$$	Cleveland Park
+731	Sugar Wagon	Nashville-Davidson	5	5	['Pop-Up Restaurants']	$	Downtown
+732	Bakeshop	Nashville-Davidson	5	69	['Bakeries', 'Coffee & Tea', 'Breakfast & Brunch']	$	
+733	Babe Tacos	Nashville-Davidson	5	32	['Tacos', 'Food Trucks']	$$	Nashville 
+734	your Grub on	Nashville-Davidson	5	26	['Fast Food']	$$	
+735	Creamery	Nashville-Davidson	5	50	['Coffee & Tea', 'Ice Cream & Frozen Yogurt', 'Waffles']	$$	Midtown
+736	Yang and Daughter	Nashville-Davidson	5	21	['Taiwanese', 'Bubble Tea', 'Specialty Food']	$$	
+737	Sea Vegan	Nashville-Davidson	5	15	['Vegan']	$$	
+738	Cubano	Nashville-Davidson	5	40	['Cuban', 'Salad', 'Sandwiches']	$$	
+739	Ground	Nashville-Davidson	5	13	['Diners', 'Breakfast & Brunch', 'Cocktail Bars']	$$	Sylvan Heights
+740	From the Oven	Nashville-Davidson	5	12	['Food Stands']	$$	
+741	Point	Nashville-Davidson	5	35	['Cafes', 'Tabletop Games', 'Sandwiches']	$	East End
+742	Dogs	Nashville-Davidson	5	11	['Hot Dogs', 'Street Vendors']	$	Donelson
+743	El Millon	Nashville-Davidson	5	11	['Food Trucks', 'Mexican']	$	
+744	Horn	Nashville-Davidson	5	152	['Coffee & Tea', 'Somali']	$	South Nashville
+745	La Mina	Nashville-Davidson	5	32	['Food Trucks', 'Mexican']	$	Woodbine
+746	+ Fauna Cafe and Roaster	Nashville-Davidson	5	27	['Coffee Roasteries', 'Cafes']	$$	
+747	Da Gio	Nashville-Davidson	5	66	['Sicilian', 'Pizza']	$$	
+748	Ring Pizza	Nashville-Davidson	5	8	['Pizza', 'Beer Bar']	$$	
+749		Nashville-Davidson	5	40	['Breakfast & Brunch', 'Sandwiches']	$$	Edgehill
+750	Tacos	Nashville-Davidson	5	64	['Mexican', 'Breakfast & Brunch']	$$	
+751	Pepper Pott	Nashville-Davidson	5	23	['Food Trucks', 'Caribbean', 'Caterers']	$$	
+752	Sliders	Nashville-Davidson	5	174	['Burgers', 'Food Stands']	$	Donelson
+753	Grill	Nashville-Davidson	5	94	['American (Traditional)', 'Mediterranean', 'Middle Eastern']	$	South Nashville
+754	Smoke Shack	Nashville-Davidson	5	7	['Barbeque']	$	
+755	Cubilete	Nashville-Davidson	5	7	['Mexican']	$	
+756	Luna’s	Nashville-Davidson	5	41	['Mexican']	$	
+757	Sandwich & Grill	Nashville-Davidson	5	34	['Desserts', 'Sandwiches', 'Venezuelan']	$	
+758	Oaxacan Cuisine	Nashville-Davidson	5	13	['Mexican', 'Coffee & Tea', 'Breakfast & Brunch']	$	South Nashville
+759	Sandwich Palace	Nashville-Davidson	5	12	['Sandwiches', 'Pop-Up Restaurants']	$	Inglewood
+760	Market	Nashville-Davidson	5	6	['Southern', 'Convenience Stores']	$	Music Row
+761	Al’s Deli	Nashville-Davidson	5	441	['Southern', 'Delis', 'Burgers']	$	Salemtown
+762	Fries and Burgers	Nashville-Davidson	5	54	['Burgers', 'Chicken Wings', 'Fast Food']	$	Salemtown
+763	Tuts	Nashville-Davidson	5	68	['Food Trucks', 'Egyptian']	$	Nashville
+764	Perch	Nashville-Davidson	5	150	['Australian', 'Seafood', 'Fish & Chips']	$$	Sylvan Park
+765	Coffee House	Nashville-Davidson	5	77	['Coffee & Tea', 'Ethiopian']	$	
+766	Restaurant Kurdish Turkish Cuisine	Nashville-Davidson	5	300	['Middle Eastern', 'Kebab', 'Turkish']	$$	
+767	Y Taqueria Andrea	Nashville-Davidson	5	25	['Food Trucks', 'Tacos']	$$	
+768	Don Carbon Express	Nashville-Davidson	5	54	['Mexican']	$$	
+769	y Birrieria Arandas	Nashville-Davidson	5	25	['Mexican']	$$	
+770	Little Italian	Nashville-Davidson	5	5	['Food Trucks', 'Italian']	$$	South Nashville
+771		Nashville-Davidson	5	5	['Japanese']	$$	Music Row
+772	Restaurant	Nashville-Davidson	5	10	['African']	$$	South Nashville
+773	City Brisket	Nashville-Davidson	5	29	['Food Trucks', 'Barbeque', 'Sandwiches']	$$	Demonbreun Hill
+774	Holiday Hootenanny: Ladybird Taco	Nashville-Davidson	5	14	['Yelp Events', 'Tacos', 'Breakfast & Brunch']	$$	12 South
+775	Vegan Tacos	Nashville-Davidson	5	28	['Tacos']	$$	Downtown
+776		Nashville-Davidson	5	23	['American (New)']	$$	
+777	LoCal Distro	Nashville-Davidson	5	46	['Grocery', 'Beer, Wine & Spirits', 'Cafes']	$$	Salemtown
+778	Poki	Nashville-Davidson	5	209	['Poke', 'Hawaiian']	$$	
+779	Restaurant	Nashville-Davidson	5	9	['Middle Eastern', 'Somali']	$$	South Nashville
+780	+ Co.	Nashville-Davidson	5	63	['Wine Bars', 'American (Traditional)']	$$	
+781	Metapaneca	Nashville-Davidson	5	9	['Salvadoran']	$$	
+782	Café at Thistle Farms	Nashville-Davidson	5	233	['Cafes']	$$	
+783	El Dolar	Nashville-Davidson	5	22	['Food Trucks', 'Mexican']	$	
+784	El Gym	Nashville-Davidson	5	13	['Food Trucks', 'Tacos']	$	Woodbine
+785	Village	Nashville-Davidson	5	116	['Caribbean']	$$	Germantown
+786	Plant Based Ice Cream	Nashville-Davidson	5	106	['Ice Cream & Frozen Yogurt', 'Vegan']	$	Midtown
+787	Original Hot Chicken Shack	Nashville-Davidson	5	25	['Seafood', 'Burgers', 'Chicken Wings']	$	
+788	Coffee House	Nashville-Davidson	5	25	['Cafes', 'Coffee & Tea']	$	Wedgewood-Houston
+789	615 Kitchen	Nashville-Davidson	5	87	['Southern', 'Sandwiches', 'Chicken Shop']	$$	Midtown
+790	Banh Mi & Pho	Nashville-Davidson	5	24	['Vietnamese', 'Bubble Tea']	$$	
+791	Metapaneca Restaurant Y Pupuseria	Nashville-Davidson	5	4	['Salvadoran']	$	South Nashville
+792	Mexico Tipico	Nashville-Davidson	5	4	['Food Trucks', 'Mexican']	$	
+793	Corner	Nashville-Davidson	5	4	['Burgers', 'Pizza']	$	
+794	Kabob Grill and Seafood	Nashville-Davidson	5	4	['Seafood', 'Mediterranean', 'Sandwiches']	$	
+795	Gourmand	Nashville-Davidson	5	84	['Specialty Food', 'Bakeries', 'French']	$$	Green Hills
+796	Charlies Taco Shop	Nashville-Davidson	5	84	['Food Trucks', 'Tacos']	$	Lockeland Springs
+797	Salvadorena #2	Nashville-Davidson	5	4	['Salvadoran']	$	
+798	El Bolillo	Nashville-Davidson	5	4	['Tacos', 'Food Trucks']	$	Eastwood
+799	Rover	Nashville-Davidson	5	4	['Music Venues', 'Tex-Mex']	$	East Germantown
+800	Lou’s Tacos	Nashville-Davidson	5	8	['Tacos']	$	Eastwood
+801	el Pollito Express	Nashville-Davidson	5	8	['Food Trucks', 'Mexican']	$	
+802	Body’s Nutrition	Nashville-Davidson	5	4	['Juice Bars & Smoothies', 'Cafes']	$	
+803	Wellness Bodega of Wedgewood - Houston	Nashville-Davidson	5	24	['Vegan', 'Juice Bars & Smoothies', 'Health Markets']	$	Wedgewood-Houston
+804		Nashville-Davidson	5	4	['American (New)']	$	
+805	El Paraiso	Nashville-Davidson	5	4	['Mexican']	$	South Nashville
+806	THAI	Nashville-Davidson	4.5	110	['Sushi Bars', 'Thai']	$$	
+807	Soups and Sandwiches	Nashville-Davidson	4.5	54	['Soup', 'Sandwiches', 'Salad']	$	Downtown
+808	Willie’s BBQ	Nashville-Davidson	4.5	105	['Barbeque', 'Desserts', 'Sandwiches']	$$	Inglewood
+809	& Company - Nashville - Temp. CLOSED	Nashville-Davidson	4.5	45	['Burgers', 'Desserts', 'Sandwiches']	$$	East End
+810	Thai Cafe	Nashville-Davidson	4.5	45	['Thai']	$$	
+811	Vallarta Mexican Grill	Nashville-Davidson	4.5	15	['Mexican']	$$	
+812	Meat Service	Nashville-Davidson	4.5	41	['Meat Shops', 'Butcher', 'Sandwiches']	$	Shelby Hills
+813	Coffee	Nashville-Davidson	4.5	22	['Coffee & Tea', 'Sandwiches']	$	
+814	Cuban Cuisine	Nashville-Davidson	4.5	44	['Cuban']	$	Donelson
+815	Y Tacos Mollo Y Rifle	Denver	5	10	['Mexican', 'Food Trucks']	$	Southeast
+816	Savage Beet	Denver	5	5	['Food Trucks', 'Vegan']	$	Northeast
+817		Denver	5	9	['Food Trucks', 'Tacos', 'Pizza']	$	
+818	Pizza	Denver	5	6	['Pizza', 'Food Delivery Services']	$	Southwest
+819	Block	Denver	5	5	['Food Trucks', 'Tacos', 'Caterers']	$	Wheat Ridge
+820	Y Tortas La Reyna Azteca	Denver	5	7	['Food Trucks', 'Mexican']	$	
+821	Translation	Denver	5	9	['Asian Fusion', 'Vegan', 'Vegetarian']	$	Capitol Hill
+822	Sauced Pizza	Denver	5	10	['Italian', 'Pizza', 'Food Delivery Services']	$	
+823	Y Sal	Denver	5	28	['Mexican']	$	
+824	Latte	Denver	5	6	['Coffee & Tea', 'Food Stands']	$	Lodo
+825	Latte	Denver	5	6	['Coffee & Tea', 'Food Stands']	$	Lodo
+826	tacos	Denver	5	6	['Food Trucks', 'Tacos']	$	Southwest
+827	More	Denver	5	7	['Tacos', 'Food Trucks']	$	Southwest
+828	Chapala	Denver	5	9	['Mexican', 'Food Trucks']	$	
+829	Smokin NOLA - Restaurant	Denver	5	10	['Cajun/Creole', 'Seafood']	$	
+830	Rico To Go	Denver	5	12	['Food Trucks', 'Tacos']	$	Northeast
+831	Walking Waffles	Denver	5	5	['Caterers', 'Food Stands']	$	Congress Park
+832	Cuban Kitchen	Denver	5	6	['Food Trucks', 'Cuban']	$	Denver
+833	El Herradero	Denver	5	6	['Mexican']	$	Southwest
+834	Nuan Thai Private Chef & Catering Services	Denver	5	12	['Caterers', 'Personal Chefs', 'Pop-Up Restaurants']	$	
+835	Tasty Eats	Denver	5	5	['Burgers', 'American (Traditional)', 'Food Trucks']	$	Southeast
+836	Rio Grande Restaurant & Cantina	Denver	5	12	['Mexican']	$	Southwest
+837	Time	Denver	5	6	['Food Trucks', 'Mexican']	$	
+838	Bones BBQ	Denver	5	5	['Food Trucks', 'Barbeque']	$	Northeast
+839	Greenwood Village	Denver	5	8	['Breakfast & Brunch', 'Coffee & Tea', 'Acai Bowls']	$	
+840	Casa de Café	Denver	5	12	['Coffee & Tea', 'Latin American', 'Breakfast & Brunch']	$	Lincoln Park
+841	Texas Tacos & BBQ	Denver	5	13	['Breakfast & Brunch', 'Tacos', 'Barbeque']	$	
+842	Tavern	Denver	5	6	['American (Traditional)', 'Cocktail Bars']	$	
+843	Cafe	Denver	5	13	['Vegan', 'Bubble Tea', 'Asian Fusion']	$	
+844	- Federal Heights	Denver	5	16	['Poke', 'Fast Food']	$	
+845	Asian Street Food	Denver	5	7	['Asian Fusion']	$	Lincoln Park
+846	La Pili	Denver	5	8	['Mexican']	$	Southwest
+847	Estilo Michoacan	Denver	5	5	['Mexican']	$	Southwest
+848	Lark Farm Dinners	Denver	5	6	['Italian']	$$$$	Capitol Hill
+849	Kowboi	Denver	5	13	['Burgers', 'Hot Dogs', 'Asian Fusion']	$$$$	Five Points
+850	Tapas	Denver	5	23	['Food Trucks', 'Caterers', 'Tapas/Small Plates']	$$$$	
+851	Food	Denver	5	15	['Food Stands', 'Sandwiches', 'Hot Dogs']	$	Lodo
+852	Consome de Morelos restaurant	Denver	5	7	['Tacos']	$	Southwest
+853	Ri Korean Restaurant	Denver	5	37	['Korean']	$	
+854	Pikine Grill Food Truck	Denver	5	35	['Senegalese', 'Food Trucks']	$	Aurora
+855	Mama’s	Denver	5	20	['Soup', 'Sandwiches', 'Breakfast & Brunch']	$$	
+856	Juice + Kitchen	Denver	5	18	['Juice Bars & Smoothies', 'Salad', 'Acai Bowls']	$$	Five Points
+857	Sushi	Denver	5	52	['Vegan', 'Ramen', 'Sushi Bars']	$$	City Park
+858	We	Denver	5	50	['Poke', 'Seafood', 'Hawaiian']	$$	
+859		Denver	5	33	['Coffee & Tea', 'Sandwiches', 'Breakfast & Brunch']	$$	Northwest
+860	Tai Japanese	Denver	5	16	['Japanese', 'Sushi Bars', 'Poke']	$$	Southeast
+861	Sweet	Denver	5	14	['Bakeries', 'Syrian']	$$	Southeast
+862	Ciders + Coffee	Denver	5	66	['Cideries', 'Coffee & Tea', 'Modern European']	$$	Northwest
+863	Soondae	Denver	5	13	['Korean']	$$	
+864	One Dtc	Denver	5	12	['Delis', 'Sandwiches']	$$	
+865	Portales Mexican Restaurant	Denver	5	12	['Mexican']	$$	
+866	Syrian Food	Denver	5	102	['Middle Eastern', 'Syrian']	$$	
+867	Poke	Denver	5	56	['Poke', 'Sushi Bars', 'Seafood']	$$	
+868	Ramen Mobile	Denver	5	11	['Food Trucks', 'Ramen']	$$	Baker
+869	los Guerreros	Denver	5	11	['Street Vendors', 'Tacos']	$$	
+870	Mexican	Denver	5	10	['Mexican']	$$	
+871	Apple Bodega - Temp. CLOSED	Denver	5	10	['Food Trucks', 'American (Traditional)', 'Sandwiches']	$$	Lodo
+872	by the Pound BBQ	Denver	5	19	['Barbeque', 'Caterers']	$$	
+873	Rico	Denver	5	28	['Mexican', 'Seafood']	$$	
+874	consome de morelos	Denver	5	46	['Mexican', 'Food Trucks']	$$	Northwest
+875		Denver	5	18	['Korean', 'Chicken Shop']	$$	
+876	& Eat Bistro	Denver	5	9	['Chinese']	$$	Southeast
+877	Hong	Denver	5	26	['Chinese', 'Vietnamese', 'Juice Bars & Smoothies']	$$	Southwest
+878	Cafe And Bakery	Denver	5	143	['Desserts', 'Turkish', 'Coffee & Tea']	$$	Southeast
+879	Smokehouse BBQ & Cajun Cuisine	Denver	5	33	['Cajun/Creole', 'Barbeque', 'Food Trucks']	$$	
+880	Cocina	Denver	5	16	['New Mexican Cuisine']	$$	Highland
+881	Tacos Y Quesadillas	Denver	5	8	['Mexican']	$$	Northeast
+882	Star Hotlink Company	Denver	5	8	['Meat Shops', 'Hot Dogs']	$$	Park Hill
+883	Bakery	Denver	5	16	['Bakeries', 'Breakfast & Brunch', 'Patisserie/Cake Shop']	$$	Lodo
+884	Easy	Denver	5	8	['American (New)', 'Noodles', 'Cocktail Bars']	$$	Northeast
+885	Park Delicatessen - Cherry Creek	Denver	5	113	['Sandwiches', 'Delis', 'Coffee & Tea']	$$	Congress Park
+886	Community Cafe	Denver	5	75	['Cafes', 'Coffee & Tea', 'Breakfast & Brunch']	$	
+887	Zo’s	Denver	5	7	['Barbeque', 'Food Trucks', 'Caterers']	$	
+888		Denver	5	105	['Tacos', 'New Mexican Cuisine']	$	
+889	Organics	Denver	5	7	['Vegan', 'Salad', 'Food Delivery Services']	$	Lodo
+890	Alley Boucherie	Denver	5	7	['Sandwiches', 'Tapas/Small Plates', 'Delis']	$	Lodo
+891	Bar	Denver	5	7	['Food Stands']	$	Northeast
+892	Flow	Denver	5	7	['Food Trucks', 'Sandwiches']	$	
+893	& Pizzability	Denver	5	89	['Breweries', 'Special Education', 'Pizza']	$	
+894	Cafe	Denver	5	93	['Cafes', 'Vietnamese']	$	Speer
+895		Denver	5	86	['Food Trucks', 'Vegan']	$	Lodo
+896	Turkito	Denver	5	26	['Food Trucks', 'Turkish', 'Mexican']	$	
+897	Gourmet	Denver	5	13	['Food Trucks', 'Peruvian']	$	
+898	& Humboldt	Denver	5	52	['Food Trucks', 'Burgers', 'Greek']	$	Greenwood Village
+899	Juicy 88	Denver	5	13	['Korean', 'Hot Dogs', 'Juice Bars & Smoothies']	$	
+900	Miner’s Meat and Cheese	Denver	5	26	['American (New)', 'Sandwiches', 'Cheese Shops']	$	Southeast
+901	Of Brazil	Denver	5	96	['Brazilian']	$$	
+902	Miriam	Denver	5	269	['Coffee & Tea', 'Breakfast & Brunch', 'Creperies']	$$	City Park
+903	Taco Connection	Denver	5	31	['Tacos', 'Food Stands']	$$	CBD
+904	Market	Denver	5	132	['Delis', 'Sandwiches', 'International Grocery']	$	
+905	El Malecon	Denver	5	6	['Food Trucks', 'Seafood']	$	Southwest
+906	Market	Denver	5	6	['Trinidadian', 'International Grocery']	$	
+907	Choi	Denver	5	60	['Asian Fusion', 'Tacos', 'Caterers']	$	
+908	& Pop’s	Denver	5	71	['Polish', 'Beer, Wine & Spirits']	$	
+909	Creamery	Denver	5	47	['Ice Cream & Frozen Yogurt', 'Ethiopian']	$	Southeast
+910	Cafe and Bakery	Denver	5	23	['Turkish', 'Bakeries', 'Breakfast & Brunch']	$	University Park
+911	Chicken	Denver	5	91	['Comfort Food', 'Southern', 'Chicken Wings']	$	Southwest
+912	Pasta Villa	Denver	5	17	['Pasta Shops', 'Pizza', 'Italian']	$	Southwest
+913	Santa Fe Mexican Grille	Denver	5	17	['Mexican', 'Salad', 'Breakfast & Brunch']	$	
+914	Market	Denver	5	22	['Coffee & Tea', 'Breakfast & Brunch', 'Delis']	$	Baker
+915	Mike’s Subs	Fort Worth	5	7	['Fast Food', 'Delis', 'Sandwiches']	$	
+916	El Barrio	Fort Worth	5	9	['Tacos']	$	Northeast
+917	kitchen	Fort Worth	5	6	['Honduran']	$	
+918	El Pueblo	Fort Worth	5	5	['Tacos']	$	
+919	burgers N stuff	Fort Worth	5	7	['Burgers']	$	Arlington Heights
+920	Food Court - Lewisville	Fort Worth	5	5	['Fast Food', 'Food Court']	$	
+921	O’s Cookies & Ice Cream Roanoke	Fort Worth	5	6	['Desserts', 'Food Trucks', 'Food Court']	$	
+922	Cozy Catfe	Fort Worth	5	5	['Themed Cafes', 'Pet Adoption']	$	
+923	Me Coffee Co	Fort Worth	5	5	['Coffee & Tea', 'Waffles', 'Sandwiches']	$	
+924	Sweets and Gelato	Fort Worth	5	13	['Gelato', 'Desserts', 'Italian']	$	
+925	Gaek	Fort Worth	5	5	['Noodles']	$$	
+926	Coyote Cojo	Fort Worth	5	13	['Tacos']	$$	Eastside
+927	Royale	Fort Worth	5	8	['Chicken Shop', 'Sandwiches', 'Chicken Wings']	$$	
+928	y Lilia Tacos & Antojitos	Fort Worth	5	10	['Mexican', 'Food Trucks']	$	
+929	La Mexicana	Fort Worth	5	9	['Mexican', 'Ice Cream & Frozen Yogurt', 'Latin American']	$	Northside
+930	Banchannara	Fort Worth	5	6	['Korean', 'Specialty Food']	$	
+931	of India	Fort Worth	5	17	['Indian']	$	
+932	Brazilian Steakhouse	Fort Worth	5	25	['Steakhouses', 'Brazilian', 'Cocktail Bars']	$	
+933	Snow	Fort Worth	5	6	['Shaved Ice', 'Food Stands']	$	Sycamore
+934	Blanca Panaderia y Restaurante Guatemalteco	Fort Worth	5	5	['Latin American', 'Bakeries']	$	
+935		Fort Worth	5	5	['Convenience Stores', 'Gas Stations', 'Fast Food']	$	Far North
+936	Eats	Fort Worth	5	5	['American (New)']	$	
+937	Time Mexican Grill	Fort Worth	5	5	['Mexican', 'Burgers']	$	
+938	El Refugio	Fort Worth	5	12	['Tacos']	$	
+939	Chef Partner Food Truck	Fort Worth	5	11	['Food Trucks', 'Puerto Rican']	$	
+940	Zapasta	Fort Worth	5	7	['Pizza', 'Salad', 'Italian']	$$	Northside
+941	Go	Fort Worth	5	35	['Sushi Bars', 'Asian Fusion', 'Japanese']	$$	
+942	Taco	Fort Worth	5	33	['Tacos']	$	Northeast
+943	Bakery	Fort Worth	5	33	['Vegan', 'Bakeries']	$	Wedgwood
+944	Los Pinos	Fort Worth	5	19	['Mexican']	$	
+945	Texans Food Truck	Fort Worth	5	18	['Food Trucks', 'Turkish', 'Caterers']	$	
+946	Joe Coffee	Fort Worth	5	84	['Coffee & Tea', 'Breakfast & Brunch']	$	
+947	Shot Food Store	Fort Worth	5	15	['Convenience Stores', 'Burgers']	$	South East
+948	Philly	Fort Worth	5	14	['Cheesesteaks', 'Burgers', 'Chicken Wings']	$	South East
+949	Azul Coffee	Fort Worth	5	27	['Coffee & Tea', 'Internet Cafes', 'Cafes']	$	Northside
+950	Kitchen	Fort Worth	5	38	['Food Trucks', 'Tacos', 'Burgers']	$	
+951	BBQ	Fort Worth	5	38	['Barbeque', 'Caterers', 'Sandwiches']	$$	
+952	Kike	Fort Worth	5	12	['Mexican']	$$	
+953	Padaek	Fort Worth	5	11	['Laotian', 'Thai', 'Noodles']	$$	
+954	Texas Bbq	Fort Worth	5	32	['Food Trucks', 'Barbeque']	$$	
+955	Pizza	Fort Worth	5	32	['Pizza', 'Chicken Wings', 'Wraps']	$$	
+956	Craft Hawaiian Grindz	Fort Worth	5	96	['Barbeque', 'Hawaiian', 'Food Trucks']	$$	
+957	Burger	Fort Worth	5	31	['Vegan', 'Salad', 'Burgers']	$$	Northeast
+958	Grill & Bar	Fort Worth	5	10	['American (Traditional)', 'Bars', 'Venues & Event Spaces']	$$	
+959	Green Bean	Fort Worth	5	10	['Donuts', 'Delis', 'Coffee & Tea']	$	
+960	Mex food	Fort Worth	5	10	['Mexican', 'Mediterranean', 'Burgers']	$	Arlington Heights
+961	Eats	Fort Worth	5	49	['Gluten-Free', 'Cafes', 'Organic Stores']	$$	
+962	Falafel And Swarma	Fort Worth	5	38	['Middle Eastern', 'Mediterranean']	$$	Far West
+963	City Pizza	Fort Worth	5	103	['Salad', 'Pizza', 'Chicken Wings']	$$	
+964	Rollin’	Fort Worth	5	28	['Sushi Bars']	$$	
+965	A Cafe	Fort Worth	5	37	['Breakfast & Brunch']	$$	Eastside
+966	Los Coyotes	Fort Worth	5	9	['Mexican']	$$	
+967	Kitchen	Fort Worth	5	9	['American (New)']	$$	TCU/West Cliff
+968	Indian Cuisine	Fort Worth	5	61	['Indian', 'Himalayan/Nepalese', 'Buffets']	$$	
+969	Naeng Myeon	Fort Worth	5	26	['Noodles', 'Korean']	$$	
+970	Stop	Fort Worth	5	41	['Hot Dogs', 'Cocktail Bars']	$$	
+971	Cafe & Catering	Fort Worth	5	16	['Southern', 'Comfort Food']	$$	Southside
+972	Mediterranean Grill	Fort Worth	5	8	['Mediterranean']	$$	
+973		Fort Worth	5	8	['Gas Stations', 'Convenience Stores', 'Fast Food']	$	Western Hills/Ridglea
+974	Here	Fort Worth	5	95	['Filipino']	$$	Southside
+975	Texas BBQ	Fort Worth	5	158	['Barbeque']	$$	
+976	+ Savor	Fort Worth	5	39	['Wine Bars', 'American (New)']	$$	
+977	Cafe - Midlothian	Fort Worth	5	61	['Breakfast & Brunch', 'American (Traditional)', 'Sandwiches']	$$	
+978		Fort Worth	5	98	['Pizza']	$$	
+979	Grill	Fort Worth	5	15	['Afghan']	$$	Sycamore
+980	Chako	Fort Worth	5	15	['Food Trucks', 'Tacos']	$$	
+981	Chicken Joint	Fort Worth	5	15	['Chicken Shop', 'Southern']	$$	
+982	Burgers	Fort Worth	5	15	['Burgers']	$$	Southside
+983	& Poke	Fort Worth	5	88	['Hawaiian', 'Poke', 'Sushi Bars']	$$	
+984	Dojo	Fort Worth	5	176	['Sushi Bars', 'Food Trucks', 'Tacos']	$$	
+985	Mami	Fort Worth	5	131	['Acai Bowls', 'Juice Bars & Smoothies', 'Vegan']	$	
+986	Town Bakery	Fort Worth	5	7	['Bakeries', 'Mexican']	$	
+987		Fort Worth	5	7	['Food Trucks', 'Chicken Wings']	$	Southside
+988	Pedir De Boca	Fort Worth	5	28	['Desserts', 'Mexican', 'Ice Cream & Frozen Yogurt']	$	Northside
+989	Catracha	Fort Worth	5	7	['Honduran']	$	Eastside
+990	Dona Tere	Fort Worth	5	7	['Mexican']	$	South East
+991	Philly	Fort Worth	5	28	['Cheesesteaks', 'Chicken Wings']	$	
+992		Fort Worth	5	7	['Health Markets', 'Gluten-Free', 'Vegan']	$	Southside
+993	Dumpling House	Fort Worth	5	14	['Korean']	$	
+994	Taco Express	Fort Worth	5	7	['Tacos', 'Burgers']	$	
+995	& K	Fort Worth	5	7	['Cheesesteaks', 'Fast Food', 'Gas Stations']	$	Eastside
+996	Warriors	Fort Worth	5	7	['Chicken Shop', 'Comfort Food', 'Gastropubs']	$	
+997	Lao-Thai Cuisine & Bar	Fort Worth	5	138	['Laotian', 'Thai', 'Bars']	$$	Northeast
+998	Cuisine Southlake	Fort Worth	5	67	['Turkish', 'Greek', 'Mediterranean']	$$	
+999	& Bake Bagels	Fort Worth	5	140	['Sandwiches', 'Bakeries', 'Bagels']	$	
+1000	Campo Empanadas	Fort Worth	5	233	['Argentine']	$	Far North
+1001	Grill	Fort Worth	5	33	['Mediterranean']	$	Eastside
+1002	Burgers and Fries	Fort Worth	5	50	['Burgers']	$	
+1003		Fort Worth	5	25	['Cajun/Creole']	$	
+1004	Taco Spot	Fort Worth	5	31	['Tacos']	$	
+1005	State Deli	Fort Worth	5	12	['Burgers', 'Cheesesteaks', 'Chicken Wings']	$	Eastside
+1006	Sushi	Fort Worth	5	6	['Sushi Bars']	$	Wedgwood
+1007	Cafe & Boba	Fort Worth	5	18	['Sri Lankan', 'Herbs & Spices', 'Buffets']	$$	
+1008	BBQ	Fort Worth	5	6	['Food Stands', 'Pop-up Shops', 'Caterers']	$$	
+1009	Ethiopian cuisine	Fort Worth	5	12	['Ethiopian', 'African', 'Barbeque']	$$	
+1010	Meat Board	Fort Worth	5	66	['Butcher', 'Sandwiches', 'Meat Shops']	$$	Western Hills/Ridglea
+1011	Bayou	Fort Worth	5	6	['Cajun/Creole', 'Food Trucks', 'Southern']	$$	Fort Worth
+1012	Madina	Fort Worth	5	30	['Halal', 'Somali']	$	Eastside
+1013	Community Restaurant	Fort Worth	5	195	['American (New)', 'Community Service/Non-Profit', 'Breakfast & Brunch']	$$	Southside
+1014	II	Fort Worth	5	46	['Noodles', 'Korean']	$$	
+1015		El Paso	5	7	['Mexican']	$$	
+1016	Taquero Comer	El Paso	5	8	['Food Trucks', 'Mexican']	$$	
+1017	Coqui Restaurant	El Paso	5	5	['Puerto Rican']	$$	
+1018	Philly Steaks	El Paso	5	12	['Sandwiches']	$$	
+1019	Pizzeria Pebble Hills, El Paso, TX	El Paso	5	7	['Fast Food', 'Pizza', 'Chicken Wings']	$$	
+1020	Playa Seafood Restaurant	El Paso	5	7	['Mexican', 'Seafood']	$$	
+1021	Kitchen	El Paso	5	5	['Mexican']	$$	
+1022	de Nogal	El Paso	5	5	['Mexican', 'Cocktail Bars']	$$	
+1023		El Paso	5	7	['Beer, Wine & Spirits', 'Sandwiches', 'Wine Bars']	$$	
+1024	Badlands Bar and Grill	El Paso	5	5	['Bars', 'Mexican']	$$	
+1025	Botanero Mariscos	El Paso	5	8	['Mexican', 'Seafood', 'Food Trucks']	$$	
+1026	Churros	El Paso	5	6	['Sandwiches', 'Coffee & Tea', 'Desserts']	$$	
+1027	Specialty Products-El Loco	El Paso	5	6	['Mexican']	$$	
+1028	Pila	El Paso	5	6	['Mexican']	$	
+1029	Michoacan & Finisima Barbacoa	El Paso	5	6	['Mexican']	$	
+1030	Burgers & Fries	El Paso	5	8	['Food Trucks', 'Burgers']	$	El Paso
+1031	4tacos 4tacos	El Paso	5	33	['Tacos', 'Food Trucks']	$	
+1032	& Rolls	El Paso	5	16	['Vietnamese']	$	
+1033	Vault	El Paso	5	14	['Tabletop Games', 'Video Game Stores', 'Cafes']	$	
+1034	Estilo Villa Ahumada 2	El Paso	5	20	['Mexican']	$	
+1035	Pupusa Queen	El Paso	5	36	['Salvadoran', 'Breakfast & Brunch', 'Ice Cream & Frozen Yogurt']	$	
+1036	Seed Cafe	El Paso	5	21	['Cafes']	$	
+1037	Food Group	El Paso	5	19	['Sandwiches', 'Salad']	$	
+1038	Taquito Loco	El Paso	5	6	['Mexican']	$	
+1039	Estrella Meat Market & Kitchen	El Paso	5	6	['Meat Shops', 'Mexican']	$	
+1040	Burgers	El Paso	5	6	['Burgers']	$	
+1041	Curb	El Paso	5	6	['Vietnamese', 'Food Trucks', 'Sandwiches']	$$	
+1042		El Paso	5	6	['Mexican']	$$	
+1043	Charlatan	El Paso	5	29	['Ramen']	$$	
+1044	Time	El Paso	5	17	['Mexican']	$	
+1045		El Paso	5	17	['Bakeries', 'Puerto Rican']	$	
+1046	Churros, Coffee, & Beer	El Paso	5	83	['Mexican', 'Breakfast & Brunch', 'Beer Bar']	$	
+1047	Grub Community Diner	El Paso	5	33	['Farmers Market', 'Vegan', 'Community Service/Non-Profit']	$	El Paso
+1048	Giorno Caffe	El Paso	5	102	['Italian']	$	
+1049	Fountain	El Paso	5	5	['Mexican']	$	
+1050	Grill Shack	El Paso	5	5	['Food Trucks', 'Filipino']	$	
+1051	Together	El Paso	5	5	['Tacos', 'Sandwiches', 'Desserts']	$	
+1052	Fogon	El Paso	5	5	['Mexican']	$	
+1053	Taco Estrella Cantina	El Paso	5	10	['Mexican']	$	
+1054	Hijas del Màis	El Paso	5	5	['Mexican']	$	
+1055	White & Chew	El Paso	5	5	['Food Trucks', 'Pizza']	$	
+1056	La Vida	El Paso	5	5	['Vegetarian']	$	
+1057	Drafthouse Cinema East El Paso	El Paso	5	14	['Cinema', 'Dinner Theater', 'Bars']	$$	
+1058	the Grill	El Paso	5	41	['American (Traditional)']	$$	
+1059	Taquito	El Paso	5	385	['Mexican']	$	
+1060	Finish Sport Boutique & Cafe	El Paso	5	17	['Bike Repair/Maintenance', 'Cafes', 'Sports Wear']	$	
+1061	Bakery	El Paso	5	16	['Bakeries', 'Mexican']	$	
+1062	Jackson	El Paso	5	4	['Food Trucks', 'Vegan']	$	
+1063	Tenders Dogs & Custard - Zaragoza	El Paso	5	8	['Chicken Shop', 'Hot Dogs', 'American (Traditional)']	$	
+1064		El Paso	5	4	['Tacos', 'Food Trucks']	$	
+1065	Reina	El Paso	5	4	['Mexican']	$	
+1066	Los Mariachis	El Paso	5	24	['Mexican', 'Seafood']	$	
+1067		El Paso	5	4	['Mexican']	$	
+1068	Cane’s Chicken Fingers	El Paso	5	8	['Fast Food', 'Chicken Wings']	$	
+1069	De Los Pescados	El Paso	4.5	58	['Food Trucks', 'Seafood', 'Tacos']	$	El Paso
+1070	Cattle	El Paso	4.5	23	['Meat Shops', 'Burgers']	$	
+1071	Toscana	El Paso	4.5	11	['Pizza']	$	
+1072	Arcos	El Paso	4.5	18	['Seafood', 'Mexican', 'Soup']	$$	
+1073	El Capitan	El Paso	4.5	7	['Food Trucks', 'Mexican']	$$	
+1074	Girasol Mexican Kitchen	El Paso	4.5	17	['Mexican']	$$	
+1075	Runner Pizza	El Paso	4.5	20	['Pizza', 'Chicken Wings']	$$	
+1076	Cottage	El Paso	4.5	10	['Mexican']	$	
+1077	Toro Bronco	El Paso	4.5	60	['Mexican']	$$	
+1078	Hacienda Del Amigo	El Paso	4.5	50	['Mexican', 'Cheesesteaks']	$	
+1079	Cafe	El Paso	4.5	13	['Cafes']	$	
+1080	Y Mas	El Paso	4.5	35	['Mexican']	$	
+1081	y Sabor	El Paso	4.5	110	['Sandwiches', 'Puerto Rican', 'Cuban']	$	
+1082	Cafe	El Paso	4.5	22	['Mexican']	$	
+1083	Benjos	El Paso	4.5	9	['Mexican']	$	
+1084	Lapa Seafood & Drinks	El Paso	4.5	24	['Seafood', 'Tacos', 'Cocktail Bars']	$$	
+1085	Hot Chicken	El Paso	4.5	12	['Food Trucks', 'Sandwiches']	$$	
+1086	Nile Foods	El Paso	4.5	6	['Mediterranean', 'Food Trucks']	$	
+1087	Plus	El Paso	4.5	29	['Acai Bowls', 'Juice Bars & Smoothies', 'American (Traditional)']	$$	
+1088	Del Sol	El Paso	4.5	20	['Mexican', 'Breakfast & Brunch']	$$	
+1089	Sushi	El Paso	4.5	20	['Sushi Bars', 'Japanese']	$$	
+1090	México	El Paso	4.5	17	['Mexican']	$$	
+1091	Sazon de Mi Abuela	El Paso	4.5	11	['Mexican', 'Breakfast & Brunch']	$$	
+1092	Kabob	El Paso	4.5	167	['Persian/Iranian']	$$	
+1093	Doggy Kitchen	El Paso	4.5	62	['Hot Dogs', 'Burgers']	$$	
+1094	Pueblo Nuevo	El Paso	4.5	16	['Mexican']	$	
+1095	Pueblo Nuevo	El Paso	4.5	16	['Mexican']	$	
+1096	Restaurant	El Paso	4.5	37	['Mexican']	$$	
+1097	Chicken Grill	El Paso	4.5	26	['Chicken Shop', 'Mexican']	$$	
+1098	Vallarta Grill	El Paso	4.5	26	['Seafood']	$	
+1099	Point Coffee	El Paso	4.5	13	['Cocktail Bars', 'Coffee & Tea', 'Cafes']	$	
+1100	Bar N Kitchen	El Paso	4.5	36	['American (Traditional)', 'Sports Bars', 'Karaoke']	$	
+1101	Quintaco	El Paso	4.5	5	['Steakhouses', 'Mexican']	$	
+1102	N Roll Express	El Paso	4.5	5	['Mexican']	$	
+1103	El Paso Club	El Paso	4.5	10	['Diners', 'Bars']	$$$	
+1104	Aguacatona Food Truck	El Paso	4.5	5	['Food Trucks', 'Mexican']	$$$	El Paso
+1105	JN	El Paso	4.5	5	['Seafood', 'Mexican', 'Cocktail Bars']	$	
+1106	Cafe	El Paso	4.5	17	['Cafes', 'Salad', 'Breakfast & Brunch']	$	
+1107	Jacalito Restaurante	El Paso	4.5	63	['Mexican', 'Breakfast & Brunch']	$	
+1108	Coffee Roasters	El Paso	4.5	19	['Coffee & Tea', 'Breakfast & Brunch', 'American (Traditional)']	$	
+1109		El Paso	4.5	26	['Mexican']	$$	
+1110	AF 915	El Paso	4.5	7	['Food Stands']	$$	
+1111	Diana	El Paso	4.5	21	['Mexican', 'Breakfast & Brunch', 'International']	$$$$	
+1112	Goods	El Paso	4.5	198	['Cafes', 'Breakfast & Brunch', 'Donuts']	$$	
+1113	Sandwich Shop	El Paso	4.5	50	['Sandwiches', 'Salad', 'Cheesesteaks']	$$	
+1114		El Paso	4.5	36	['Juice Bars & Smoothies', 'Desserts', 'Breakfast & Brunch']	$	
+1115	Runninz Food Truck	Charlotte	5	6	['Caribbean', 'Food Trucks']	$	Biddleville
+1116	Burger Vegan Cuisine	Charlotte	5	8	['Vegan', 'Caribbean', 'Burgers']	$	Elizabeth
+1117	Cafe	Charlotte	5	13	['Cafes', 'Waffles', 'Salad']	$	
+1118	El PotosinO	Charlotte	5	11	['Mexican']	$	
+1119		Charlotte	5	6	['Coffee & Tea', 'Coffee Roasteries', 'Themed Cafes']	$	Biddleville
+1120	Chamos	Charlotte	5	6	['Venezuelan']	$	Starmount
+1121	Express	Charlotte	5	6	['Hawaiian', 'Desserts', 'Salad']	$	Ballantyne
+1122	Coffee & Italian Market	Charlotte	5	6	['Coffee & Tea', 'Cafes', 'Italian']	$	
+1123	Cafe and Wine Bar	Charlotte	5	27	['Coffee & Tea', 'Wine Bars', 'Sandwiches']	$$	Dilworth
+1124	Ethiopian Restaurant	Charlotte	5	22	['Ethiopian', 'Vegan', 'African']	$$	NoDa
+1125	Pearls	Charlotte	5	22	['Seafood', 'Fish & Chips', 'Sandwiches']	$$	First Ward
+1126	One Tapas & Bar	Charlotte	5	19	['Tapas/Small Plates', 'Tapas Bars']	$$	
+1127	Culinary Cart	Charlotte	5	15	['Hot Dogs', 'Street Vendors']	$$	South End
+1128	Tamale	Charlotte	5	13	['Food Trucks', 'Tacos']	$$	Eastland
+1129	D’s Pizza	Charlotte	5	86	['Pizza']	$$	First Ward
+1130		Charlotte	5	12	['Cocktail Bars', 'Beer, Wine & Spirits', 'Seafood']	$$	NoDa
+1131	& Kitchen	Charlotte	5	11	['Asian Fusion', 'Thai', 'Chinese']	$$	
+1132	Salad Chick	Charlotte	5	21	['Southern', 'Salad', 'Sandwiches']	$$	Steele Creek
+1133	Village Grill	Charlotte	5	20	['Greek', 'Mediterranean']	$	Uptown
+1134	BBQ	Charlotte	5	9	['Food Trucks', 'Barbeque', 'Sandwiches']	$	Charlotte
+1135	Masala	Charlotte	5	9	['Food Trucks', 'Indian']	$	Matthews
+1136	Gee’s Takeout Restaurant	Charlotte	5	26	['African']	$	Biddleville
+1137		Charlotte	5	8	['Salad', 'Soup']	$	
+1138	Ethiopian Restaurant & Grocery	Charlotte	5	39	['Ethiopian', 'Grocery']	$	Eastland
+1139	Crunch Waffles	Charlotte	5	35	['Waffles', 'Desserts', 'Chocolatiers & Shops']	$	First Ward
+1140	Ethiopian Restaurant	Charlotte	5	152	['Ethiopian', 'Vegetarian', 'Vegan']	$$	
+1141	Fusion Cafe	Charlotte	5	13	['Donuts', 'Sandwiches', 'Coffee & Tea']	$$	Steele Creek
+1142	loco’s Tacos	Charlotte	5	13	['Tacos', 'Food Trucks']	$$	
+1143	Tabby Cat Cafe	Charlotte	5	115	['Themed Cafes']	$	NoDa
+1144	Bistro	Charlotte	5	98	['Vegan', 'Breakfast & Brunch', 'Gluten-Free']	$$	
+1145	Shack Sweets	Charlotte	5	6	['Ice Cream & Frozen Yogurt', 'Food Trucks', 'Chicken Wings']	$$	
+1146	Fresh Grille	Charlotte	5	6	['Greek', 'Mediterranean', 'Burgers']	$$	SouthPark
+1147	Buffalo	Charlotte	5	6	['Sports Bars', 'Barbeque']	$$	
+1148	Fusion Food	Charlotte	5	6	['Food Trucks', 'Caribbean']	$$	University City
+1149	Bistro	Charlotte	5	18	['American (New)', 'Breakfast & Brunch', 'Vegetarian']	$$	
+1150	Antojitos Chapines	Charlotte	5	6	['Latin American']	$$	Eastland
+1151	Med Mediterranean Fusion Food Truck	Charlotte	5	18	['Mediterranean', 'Food Trucks']	$	Charlotte
+1152	Seconds Yunnan Rice Noodle	Charlotte	5	18	['Noodles']	$$	Ballantyne
+1153	& Provisions	Charlotte	5	36	['Delis', 'Pasta Shops']	$$	
+1154	Eats & Treats	Charlotte	5	6	['Bakeries', 'Brazilian', 'Sandwiches']	$$	Ballantyne
+1155	Tasty Bowl Subs N Such	Charlotte	5	163	['Indian', 'Mexican', 'Thai']	$	Steele Creek
+1156	Bowlz	Charlotte	5	81	['Poke', 'Hawaiian']	$$	
+1157		Charlotte	5	28	['American (New)']	$$	
+1158	Latin Cuisine	Charlotte	5	11	['Latin American']	$$	Cotswold
+1159	Deli & Catering	Charlotte	5	55	['Delis', 'Sandwiches', 'Wraps']	$$	Steele Creek
+1160	Poke	Charlotte	5	38	['Hawaiian', 'Poke']	$$	Uptown
+1161	Matters Cafe	Charlotte	5	119	['Breakfast & Brunch', 'Sandwiches', 'Cafes']	$$	Uptown
+1162	Mulligan Brewing	Charlotte	5	26	['Breweries', 'Breakfast & Brunch']	$$	
+1163	Savor	Charlotte	5	5	['Puerto Rican', 'Dominican', 'Food Trucks']	$$	Charlotte
+1164	Bake & Deli	Charlotte	5	105	['Venezuelan', 'Sandwiches', 'Bakeries']	$	
+1165	Gate	Charlotte	5	191	['Indian', 'Himalayan/Nepalese']	$$	North Charlotte
+1166	Indian & Nepali Cuisine	Charlotte	5	59	['Indian', 'Himalayan/Nepalese', 'Chicken Wings']	$$	University City
+1167	Tierra Restaurant 2	Charlotte	5	9	['Colombian']	$$	Eastland
+1168	N’ Curry	Charlotte	5	18	['Indian']	$$	Eastland
+1169	Eatery	Charlotte	5	9	['Cafes', 'Coffee & Tea', 'Breakfast & Brunch']	$$	Uptown
+1170	Ramen	Charlotte	5	22	['Bubble Tea', 'Poke', 'Ramen']	$$	
+1171		Charlotte	5	57	['Ramen']	$$	
+1172	503	Charlotte	5	35	['Salvadoran']	$$	University City
+1173	Korean Food	Charlotte	5	35	['Korean']	$$	Arboretum
+1174	Beer Shop	Charlotte	5	131	['Beer, Wine & Spirits', 'Pizza']	$$	NoDa
+1175	Ethiopian Cafe & Restaurant	Charlotte	5	220	['Ethiopian']	$$	Plaza Midwood
+1176	Orchid	Charlotte	5	159	['Sushi Bars', 'Asian Fusion']	$$	Steele Creek
+1177	Tana Empanada	Charlotte	5	4	['Food Trucks', 'Empanadas', 'Latin American']	$$	Uptown
+1178	People’s Market	Charlotte	5	12	['Coffee & Tea', 'Breakfast & Brunch', 'Burgers']	$$	Elizabeth
+1179	Marina Restaurant	Charlotte	5	4	['Seafood', 'Latin American', 'Caribbean']	$$	Starmount
+1180	Donuts	Charlotte	5	16	['Coffee & Tea', 'Donuts', 'Breakfast & Brunch']	$	
+1181	Wingz & Thingz	Charlotte	5	4	['Food Stands', 'Chicken Wings', 'Hot Dogs']	$	
+1182	Food Wagon	Charlotte	5	4	['Food Trucks', 'Dominican']	$	Sedgefield
+1183	Les Jours	Charlotte	4.5	67	['Coffee & Tea', 'Bakeries', 'Sandwiches']	$	SouthPark
+1184	Food Truck Bakery	Charlotte	4.5	19	['Modern European', 'Bakeries', 'Food Trucks']	$	
+1185	Nikkei	Charlotte	4.5	172	['Peruvian', 'Bars', 'Japanese']	$	South End
+1186	Grill & Cafe	Charlotte	4.5	107	['Modern European']	$$	Plaza Midwood
+1187	Culinary Experience	Charlotte	4.5	33	['American (Traditional)']	$$	
+1188	Mews Cat Cafe	Charlotte	4.5	29	['Themed Cafes', 'Pet Adoption']	$$	Elizabeth
+1189	Chicken	Charlotte	4.5	203	['Colombian', 'Salad', 'Chicken Shop']	$	
+1190	Crafted Greek - Baxter Village	Charlotte	4.5	39	['Greek']	$	
+1191	Taco	Charlotte	4.5	7	['Latin American', 'Mexican']	$	Eastland
+1192	Betty	Charlotte	4.5	14	['Cajun/Creole', 'Food Trucks']	$	University City
+1193	Famous Hot Dogs	Charlotte	4.5	28	['Street Vendors', 'Hot Dogs']	$	Derita
+1194	Grill & Kebab	Charlotte	4.5	50	['Mediterranean']	$	Plaza Midwood
+1195	Didi’s Caribbean Kitchen	Charlotte	4.5	10	['Food Trucks', 'Haitian']	$	Charlotte
+1196	Cilantro Restaurant	Charlotte	4.5	30	['Brazilian', 'Desserts', 'Sandwiches']	$$	Eastland
+1197	Bistro	Charlotte	4.5	123	['Thai', 'Himalayan/Nepalese', 'Asian Fusion']	$$	
+1198	Crust Pizza - ParkTowne Village	Charlotte	4.5	13	['Pizza', 'Sandwiches']	$$	
+1199	Coffee	Charlotte	4.5	37	['Coffee & Tea', 'Macarons', 'Sandwiches']	$	SouthPark
+1200	Hamburgers	Charlotte	4.5	203	['Burgers']	$$	NoDa
+1201	& Main	Charlotte	4.5	6	['Seafood', 'Salad']	$$	
+1202	Bag	Charlotte	4.5	63	['American (New)']	$	
+1203	Lounge	Charlotte	4.5	6	['Mediterranean']	$	Uptown
+1204	PokéRito	Charlotte	4.5	204	['Poke', 'Japanese', 'Sushi Bars']	$$	
+1205	Fish Poke	Charlotte	4.5	208	['Japanese', 'Poke', 'Sushi Bars']	$$	University City
+1206	Joy	Charlotte	4.5	32	['Breakfast & Brunch', 'Vegetarian']	$$	North Charlotte
+1207		Charlotte	4.5	139	['Mediterranean', 'Wraps', 'Salad']	$	University City
+1208	Beer Temple - RENOVATED	Charlotte	4.5	107	['Beer Bar', 'Breweries', 'Sandwiches']	$$	
+1209	Banh Mi and Sweets	Charlotte	4.5	26	['Sandwiches', 'Coffee & Tea', 'Bakeries']	$$	
+1210	Mexican Bar & Grill	Charlotte	4.5	23	['Mexican']	$$	
+1211	La Pasadita	Charlotte	4.5	92	['Tacos', 'Latin American']	$	
+1212	Grille & Tavern	Charlotte	4.5	40	['Bars', 'Steakhouses', 'American (Traditional)']	$	
+1213	Ice Cream Paletas - South End	Charlotte	4.5	81	['Gelato', 'Ice Cream & Frozen Yogurt', 'Kosher']	$	South End
+1214	Dash	Charlotte	4.5	25	['Sandwiches', 'Tacos']	$	First Ward
+1215	Dhaba	Boston	5	26	['Indian']	$	Central Square
+1216	Rinconcito	Boston	5	5	['Colombian']	$	East Boston
+1217	Nepali Cuisine	Boston	5	6	['Himalayan/Nepalese']	$	
+1218	Cooking	Boston	5	8	['Filipino', 'Pop-Up Restaurants']	$	
+1219		Boston	5	11	['Italian']	$	Coolidge Corner
+1220	Kitchen & Bar	Boston	5	13	['Cocktail Bars', 'Breakfast & Brunch', 'Tapas/Small Plates']	$	Charlestown
+1221	Baking Supplies	Boston	5	48	['Cafes', 'Specialty Food', 'Hobby Shops']	$	East Cambridge
+1222	Market	Boston	5	40	['Thai', 'International Grocery']	$	East Arlington
+1223	Cafe	Boston	5	29	['Pizza', 'Sandwiches']	$	
+1224	Kushari	Boston	5	9	['Egyptian', 'Halal', 'Food Trucks']	$	Fenway
+1225	Sister’s Crawfish III	Boston	5	9	['Vietnamese', 'Seafood', 'Soup']	$	Fields Corner
+1226	Greek	Boston	5	9	['Greek']	$	Downtown
+1227	22	Boston	5	72	['Peruvian', 'Seafood', 'Cocktail Bars']	$	
+1228	Casa Del Pandebono	Boston	5	43	['Bakeries', 'Salvadoran', 'Mexican']	$	East Boston
+1229	Bar & Grille	Boston	5	8	['Turkish']	$	
+1230	Milk Bottle	Boston	5	8	['Hot Dogs']	$	Waterfront
+1231		Boston	5	8	['American (Traditional)']	$	Davis Square
+1232	Cheese and Cold Cuts	Boston	5	63	['Delis', 'Cheese Shops']	$	
+1233	Tikka	Boston	5	7	['Indian']	$	Fenway
+1234	118	Boston	5	7	['Health Markets', 'Vegan', 'Gluten-Free']	$$	North Cambridge
+1235	Alarm Wood Fired Pizza	Boston	5	7	['Food Trucks', 'Pizza']	$$	Revere
+1236	Market	Boston	5	58	['Grocery', 'Delis', 'Butcher']	$$	Roslindale
+1237	Coffee & Roasterie	Boston	5	153	['Coffee & Tea', 'Coffee Roasteries', 'Cafes']	$	West Roxbury Center
+1238	Taste	Boston	5	25	['Peruvian', 'Desserts', 'Breakfast & Brunch']	$	Charlestown
+1239		Boston	5	43	['Pizza', 'Salad', 'Sandwiches']	$	
+1240	Yama	Boston	5	18	['Ramen']	$	
+1241	Q Cafe	Boston	5	47	['Cafes', 'Desserts', 'Sandwiches']	$	Charlestown
+1242		Boston	5	16	['Italian']	$	
+1243	Palmar Restaurant	Boston	5	11	['Latin American']	$	East Boston
+1244	Fusion	Boston	5	70	['Moroccan', 'Mediterranean', 'Fast Food']	$	Downtown
+1245	Pizza & Pasta	Boston	5	970	['Italian', 'Pizza']	$$	
+1246	Power Restaurant	Boston	5	5	['Dominican']	$$	
+1247	Latin	Boston	5	10	['Latin American']	$$	
+1248	Underground Cafe + Lounge	Boston	5	5	['Breakfast & Brunch', 'Venues & Event Spaces', 'American (Traditional)']	$$	Mission Hill
+1249	Republik	Boston	5	5	['Beer Bar', 'Sandwiches', 'American (Traditional)']	$$	Inman Square
+1250		Boston	5	5	['Coffee & Tea', 'Cafes', 'Pizza']	$$	West End
+1251	Pecan Bistro	Boston	5	93	['Asian Fusion', 'Latin American', 'Juice Bars & Smoothies']	$$	
+1252	Bites Bakery	Boston	5	122	['Bakeries', 'Middle Eastern', 'Mediterranean']	$	Arlington Center
+1253		Boston	5	19	['Seafood', 'Desserts', 'Cocktail Bars']	$	
+1254	Sport Club	Boston	5	19	['Portuguese']	$$	Inman Square
+1255	Sophia	Boston	5	19	['American (New)']	$$	South Boston
+1256	Pies	Boston	5	42	['Bakeries', 'Coffee & Tea', 'Sandwiches']	$$	
+1257		Boston	5	28	['Wine Bars', 'Breakfast & Brunch', 'Cafes']	$$	Kendall Square/MIT
+1258	Ravioli	Boston	5	37	['Italian']	$	
+1259	Viejo Cafe	Boston	5	9	['Cafes']	$	East Boston
+1260	of Paradise	Boston	5	9	['Cocktail Bars', 'Sushi Bars']	$	
+1261	Salvadoreño	Boston	5	9	['Latin American', 'Mexican']	$$	
+1262	Bakery	Boston	5	89	['Cafes', 'Breakfast & Brunch', 'Bakeries']	$	
+1263	Halal Cafe	Boston	5	149	['African', 'Halal', 'Somali']	$$	East Boston
+1264	Chiquito	Boston	5	35	['Mexican']	$$	
+1265	A La Brasa Betos	Boston	5	13	['Peruvian', 'Latin American']	$$	East Boston
+1266	Crave	Boston	5	78	['Asian Fusion', 'Desserts', 'Noodles']	$$	Huron Village
+1267	Lazuri Cafe	Boston	5	64	['Turkish', 'Mediterranean', 'Breakfast & Brunch']	$$	Allston/Brighton
+1268	Tequeno & Dona Arepa	Boston	5	8	['Venezuelan']	$$	
+1269	Grill	Boston	5	4	['Burgers', 'American (Traditional)', 'Sandwiches']	$$	
+1270	Coffee & Roasterie	Boston	5	4	['Coffee & Tea', 'Sandwiches', 'Breakfast & Brunch']	$$	Downtown
+1271	Brasil	Boston	5	4	['Bakeries', 'Brazilian']	$$	Allston/Brighton
+1272	Mei Dumplings	Boston	5	4	['Asian Fusion']	$$	South Boston
+1273	Burger	Boston	5	8	['Burgers', 'Vegetarian', 'Fast Food']	$$	South End
+1274	Tamole	Boston	5	4	['Mexican', 'Food Stands']	$$	Boston
+1275	Handroll Bar	Boston	5	4	['Japanese', 'Seafood', 'Sushi Bars']	$$	
+1276	Caribbean Cuisine	Boston	5	4	['Haitian', 'Seafood']	$$	
+1277		Boston	4.5	138	['Juice Bars & Smoothies', 'Salad', 'Wraps']	$	
+1278	Vanak	Boston	4.5	23	['Afghan', 'Halal']	$	
+1279	Cliff Bakery	Boston	4.5	53	['Cafes', 'Coffee & Tea', 'Bakeries']	$	Jamaica Plain
+1280	Hill Cafe	Boston	4.5	30	['Coffee & Tea', 'Breakfast & Brunch', 'Juice Bars & Smoothies']	$	East Boston
+1281	Que	Boston	4.5	26	['Vietnamese', 'Salad', 'Seafood']	$$	Dorchester
+1282	and Grill	Boston	4.5	11	['Egyptian', 'Salad', 'Kebab']	$$	
+1283	Green	Boston	4.5	80	['Vegan', 'Juice Bars & Smoothies', 'Cafes']	$$	South Boston
+1284	Little Crepe Cafe	Boston	4.5	36	['Creperies', 'Coffee & Tea', 'Cafes']	$$	
+1285	Mi Ok	Boston	4.5	90	['Vietnamese', 'Sandwiches', 'Juice Bars & Smoothies']	$$	Downtown
+1286		Boston	4.5	121	['Juice Bars & Smoothies', 'Vegan', 'Organic Stores']	$	
+1287	Coffee House	Boston	4.5	124	['Vietnamese', 'Coffee & Tea', 'Sandwiches']	$	Financial District
+1288	Cafe	Boston	4.5	132	['Indian', 'Himalayan/Nepalese', 'American (Traditional)']	$	Inman Square
+1289	Coffee	Boston	4.5	245	['Coffee & Tea', 'Waffles', 'Wine Bars']	$	East Cambridge
+1290	Bonjour	Boston	4.5	608	['Breakfast & Brunch', 'Coffee & Tea', 'Sandwiches']	$$	Downtown
+1291	& K Delicatessen	Boston	4.5	40	['Delis']	$	
+1292		Boston	4.5	125	['Mediterranean', 'Bakeries']	$	West Roxbury
+1293	La Reina	Boston	4.5	23	['Salvadoran']	$	East Boston
+1294	to Taste	Boston	4.5	220	['American (New)']	$$$$	North Cambridge
+1295	Oishi - Boston	Boston	4.5	26	['Thai', 'Japanese']	$$$$	Dorchester
+1296	Vegan Veggie Parlor	Boston	4.5	117	['Vegan', 'Vegetarian']	$	Dorchester
+1297	Thai Cuisine	Boston	4.5	48	['Thai']	$	Roslindale
+1298	dough	Boston	4.5	16	['Brazilian', 'Coffee & Tea', 'Breakfast & Brunch']	$$	Inman Square
+1299	Mama	Boston	4.5	67	['Egyptian', 'Kosher', 'Sandwiches']	$$	
+1300	Kitchen	Boston	4.5	295	['Indian', 'Himalayan/Nepalese']	$$	
+1301		Boston	4.5	183	['Sushi Bars', 'Ramen', 'Noodles']	$$	
+1302	Ground Cafe	Boston	4.5	86	['Coffee & Tea', 'Cafes', 'Sandwiches']	$$	
+1303	Susu by Suitsupply	Boston	4.5	107	['Coffee & Tea', 'Sandwiches', 'Desserts']	$$	Back Bay
+1304	Juice Cafe	Boston	4.5	64	['Juice Bars & Smoothies', 'Vegan', 'Breakfast & Brunch']	$$	East Arlington
+1305	Public Market	Boston	4.5	6	['Food Court']	$$	East Boston
+1306	Cuts Deli	Boston	4.5	12	['Delis', 'Breweries', 'Sandwiches']	$$	
+1307	Farber Cancer Institute Cafeteria	Boston	4.5	12	['Cafeteria']	$	
+1308	Diner Cafe	Boston	4.5	138	['Halal', 'Turkish', 'Mediterranean']	$$	
+1309		Boston	4.5	30	['Wraps', 'Irish Pub', 'Sandwiches']	$$	
+1310	Cafe	Boston	4.5	62	['Ethiopian', 'Vegetarian']	$$	Jamaica Plain
+1311	- Inspired Mediterranean	Boston	4.5	59	['Mediterranean', 'Persian/Iranian', 'Greek']	$$	West Roxbury Center
+1312	Zone	Boston	4.5	44	['Szechuan']	$$	
+1313		Boston	4.5	44	['American (New)', 'Cooking Classes']	$$$$	South End
+1314	Cycle	Milwaukee	5	6	['Cafes', 'Sandwiches']	$$$$	Harambee
+1315	Taco Feliz	Milwaukee	5	14	['Food Trucks', 'Tacos']	$$$$	
+1316	Lafayette Place	Milwaukee	5	18	['Cafes', 'Breakfast & Brunch', 'Juice Bars & Smoothies']	$$	Lower East Side
+1317	Ribs Place - Milwaukee	Milwaukee	5	9	['Barbeque', 'Southern']	$$	Historic Third Ward
+1318	E Fromage	Milwaukee	5	19	['Beer Bar', 'Wine Bars', 'Salad']	$$	Hawthorne Glen
+1319	Bar MKE Public Market	Milwaukee	5	11	['Bars', 'Seafood']	$$	Historic Third Ward
+1320	Plus Two Restaurant & Bar	Milwaukee	5	17	['Coffee & Tea', 'Breakfast & Brunch', 'Cocktail Bars']	$$	
+1321	Smokin’ Barbecue	Milwaukee	5	14	['Barbeque', 'Food Trucks']	$$	
+1322	Cafe	Milwaukee	5	13	['Cafes', 'Venues & Event Spaces', 'Wine Bars']	$$	Walker's Point
+1323	Dark Room at Saint Kate	Milwaukee	5	12	['Wine Bars', 'Steakhouses', 'American (New)']	$$	Downtown
+1324		Milwaukee	5	54	['Spanish', 'Wine Bars']	$$	Historic Third Ward
+1325	King	Milwaukee	5	18	['Arabic', 'Halal', 'Sandwiches']	$$	Riverwest
+1326	Cheesesteaks	Milwaukee	5	8	['Sandwiches', 'Cheesesteaks', 'Fast Food']	$	
+1327	Taco Feliz	Milwaukee	5	24	['Mexican', 'Food Trucks']	$	
+1328	on Blue Mound	Milwaukee	5	7	['Breakfast & Brunch']	$	
+1329	Smokehouse	Milwaukee	5	14	['Food Trucks', 'Smokehouse', 'Barbeque']	$	
+1330	Them While They’re Hot Tamales	Milwaukee	5	14	['Mexican', 'Street Vendors']	$	Morgan Heights
+1331	Coffee Bar - Wauwatosa	Milwaukee	5	42	['Coffee & Tea', 'Cafes', 'Beer Bar']	$	
+1332	by Maranta	Milwaukee	5	6	['Mexican', 'Food Trucks', 'Vegetarian']	$	Bronzeville
+1333	Orenda	Milwaukee	5	6	['Food Trucks', 'American (Traditional)', 'Mexican']	$	
+1334	Pizza	Milwaukee	5	18	['Pizza']	$	Historic Third Ward
+1335	7 Estrellas	Milwaukee	5	18	['Food Trucks', 'Tacos']	$	Morgandale
+1336	Creek Factory Cafe	Milwaukee	5	6	['Cafes', 'Coffee & Tea']	$	Menomonee River Valley
+1337	Pizzeria	Milwaukee	5	12	['Pizza', 'Pasta Shops', 'Sandwiches']	$	
+1338	Foods	Milwaukee	5	35	['Indian']	$	
+1339	Star Cafe	Milwaukee	5	189	['Halal', 'Somali']	$	Lower East Side
+1340	Bubble Waffle Café	Milwaukee	5	33	['Desserts', 'Waffles']	$	Bay View
+1341	& Momo Himalayan Restaurant	Milwaukee	5	11	['Himalayan/Nepalese', 'Indian']	$	
+1342	Gyros & Pizza	Milwaukee	5	107	['Greek', 'American (New)', 'Pizza']	$	
+1343	Arepa	Milwaukee	5	31	['Food Trucks', 'Venezuelan']	$	Walker's Point
+1344	Xpert	Milwaukee	5	67	['Taiwanese', 'Chinese']	$	Westown
+1345	At 225	Milwaukee	5	46	['Food Trucks', 'Barbeque']	$	Menomonee Falls
+1346	Subs & Deli Shop	Milwaukee	5	5	['Sandwiches', 'Cafes', 'Delis']	$	Enderis Park
+1347	Bakery & Cafe	Milwaukee	5	30	['Gluten-Free', 'Bakeries', 'Cafes']	$	Bay View
+1348	At Large	Milwaukee	5	5	['Cafes', 'Art Galleries', 'Coffee & Tea']	$	Walker's Point
+1349	Cafe	Milwaukee	5	10	['Coffee & Tea', 'Breakfast & Brunch', 'Hookah Bars']	$	Riverside Park
+1350	MKE	Milwaukee	5	20	['Food Trucks', 'Burgers']	$	
+1351	Bakery & Cafe	Milwaukee	5	79	['Bakeries', 'Soup', 'Cafes']	$	Walnut Hill
+1352	Meat Market	Milwaukee	5	184	['Meat Shops', 'Delis', 'Butcher']	$$	
+1353	La Sierrita	Milwaukee	5	13	['Mexican']	$$	Lincoln Village
+1354	Cafe	Milwaukee	5	29	['Cafes', 'Sandwiches', 'Breakfast & Brunch']	$	Walker's Point
+1355	Signature Cuisine	Milwaukee	5	106	['New Mexican Cuisine', 'Latin American']	$$	
+1356	& Grind Cafe	Milwaukee	5	4	['Coffee & Tea', 'Breakfast & Brunch']	$$	Harambee
+1357	Coffee Bar	Milwaukee	5	4	['Coffee & Tea', 'Food Trucks', 'Breakfast & Brunch']	$$	Milwaukee
+1358	Dogs	Milwaukee	5	20	['Hot Dogs', 'Street Vendors']	$	Downtown
+1359	Farm Bowls	Milwaukee	5	4	['Wraps', 'Falafel']	$	Uptown Crossing
+1360	Basil	Milwaukee	4.5	106	['Thai', 'Laotian', 'Asian Fusion']	$$	
+1361	Tlaxcalteca Restaurant	Milwaukee	4.5	27	['Mexican']	$$	Historic Mitchell Street
+1362		Milwaukee	4.5	23	['Comfort Food']	$$	Westown
+1363	Bazzar Restaurant	Milwaukee	4.5	15	['Middle Eastern', 'Mediterranean']	$$	Town of Lake
+1364	Waffles	Milwaukee	4.5	26	['Food Trucks', 'Waffles', 'Caterers']	$	Milwaukee
+1365	Pizza	Milwaukee	4.5	11	['Pizza', 'Italian']	$	
+1366	Sandwich & Social House	Milwaukee	4.5	44	['Sandwiches']	$$	Historic Third Ward
+1367	Deli	Milwaukee	4.5	18	['American (Traditional)', 'Diners', 'Breakfast & Brunch']	$$	
+1368	Fresh Spring Rolls	Milwaukee	4.5	28	['American (Traditional)']	$$	Roosevelt Grove
+1369	and Bowl	Milwaukee	4.5	21	['Sports Bars', 'Venues & Event Spaces', 'Pizza']	$	
+1370		Milwaukee	4.5	14	['Bars', 'Burgers', 'American (New)']	$	
+1371	Boba Tea	Milwaukee	4.5	7	['Coffee & Tea', 'Bubble Tea', 'Sandwiches']	$	Uptown Crossing
+1372	Cocina	Milwaukee	4.5	44	['Italian', 'Pizza', 'Sandwiches']	$$	Lower East Side
+1373	Pleasures Eatery	Milwaukee	4.5	10	['Southern']	$$	
+1374	Plants	Milwaukee	4.5	100	['Vegan', 'Vegetarian']	$$	Mitchell Field
+1375	Gate Restaurant	Milwaukee	4.5	119	['Middle Eastern', 'Syrian', 'Falafel']	$$	Historic Mitchell Street
+1376	Café	Milwaukee	4.5	13	['Cafes']	$	Uptown Crossing
+1377	Grill	Milwaukee	4.5	118	['Mexican']	$	St. Armellians
+1378	Tuna	Milwaukee	4.5	143	['Sushi Bars', 'Poke', 'Ramen']	$$	
+1379	Place Cafe	Milwaukee	4.5	98	['Breakfast & Brunch', 'Sandwiches', 'Coffee & Tea']	$$	Park Place
+1380	- Bayshore	Milwaukee	4.5	22	['Poke', 'Salad', 'Asian Fusion']	$$	
+1381		Milwaukee	4.5	34	['Wine Bars', 'Tapas/Small Plates', 'Cocktail Bars']	$$	Menomonee River Valley
+1382	Place	Milwaukee	4.5	40	['Venezuelan']	$$	
+1383	Sandwich	Milwaukee	4.5	43	['Sandwiches', 'Salad']	$$	
+1384	Little Italy	Milwaukee	4.5	285	['Italian', 'Pizza', 'Wine Bars']	$$	Bay View
+1385	- Brookfield	Milwaukee	4.5	106	['Poke', 'Salad', 'Asian Fusion']	$$	
+1386	Cafe	Milwaukee	4.5	9	['Bakeries', 'Puerto Rican', 'Cafes']	$$	Clarke Square
+1387	Chef’s Table	Milwaukee	4.5	24	['Venues & Event Spaces', 'Diners', 'American (New)']	$$	Walker's Point
+1388	Fondita De Milwaukee	Milwaukee	4.5	12	['Mexican']	$$	Muskego Way
+1389	Chinampa	Milwaukee	4.5	6	['Mexican']	$$	Root Creek
+1390	Crema	Milwaukee	4.5	24	['Pancakes', 'Sandwiches']	$$	
+1391	Pasta	Milwaukee	4.5	38	['Pasta Shops', 'Italian', 'Gelato']	$$	Downtown
+1392	Café	Milwaukee	4.5	288	['Greek', 'Mediterranean']	$	
+1393	2 Go	Milwaukee	4.5	29	['Chinese']	$$	
+1394	by Rice n Roll	Milwaukee	4.5	129	['Sushi Bars', 'Asian Fusion', 'Ramen']	$$	
+1395	World Deli	Milwaukee	4.5	20	['Delis', 'Sandwiches', 'Imported Food']	$	
+1396	Irish Pub	Milwaukee	4.5	20	['Irish Pub', 'Irish']	$	Burnham Park
+1397	Cold-Pressed Juicery	Milwaukee	4.5	34	['Juice Bars & Smoothies', 'Vegan', 'Vegetarian']	$$	Walker's Point
+1398	Original	Milwaukee	4.5	144	['Cocktail Bars', 'American (New)', 'Breakfast & Brunch']	$$	Riverside Park
+1399	- Third Ward	Milwaukee	4.5	53	['Poke', 'Salad', 'Asian Fusion']	$$	Historic Third Ward
+1400	Italian Market	Milwaukee	4.5	528	['Delis', 'Italian', 'International Grocery']	$$	Lower East Side
+1401	Kitchen & Grill	Milwaukee	4.5	11	['Food Trucks', 'Caribbean', 'African']	$	Riverwest
+1402	Kine Grindz	Milwaukee	4.5	552	['Hawaiian', 'Barbeque', 'Delis']	$$	
+1403	Plane View	Milwaukee	4.5	16	['American (Traditional)', 'Salad', 'Pizza']	$$	Mitchell Field
+1404	Cafe	Milwaukee	4.5	8	['Himalayan/Nepalese']	$$	
+1405	Coffee Roasters	Milwaukee	4.5	16	['Cafes', 'Coffee & Tea']	$	Historic Third Ward
+1406	Poke	Milwaukee	4.5	85	['Sushi Bars', 'Juice Bars & Smoothies', 'Poke']	$$	
+1407	Cafe	Milwaukee	4.5	45	['Cafes', 'Beer Bar', 'Caribbean']	$$	Walker's Point
+1408	Schulz Delicatessen and Pastry Shoppe	Milwaukee	4.5	50	['Delis', 'Sandwiches', 'Patisserie/Cake Shop']	$	
+1409		Milwaukee	4.5	254	['American (New)']	$$$	Walker's Point
+1410	Coffee Roasting Co	Milwaukee	4.5	34	['Coffee Roasteries', 'Cafes']	$	
+1411	Cafe	Milwaukee	4.5	177	['American (New)', 'Burgers']	$	
+1412	Shack	Milwaukee	4.5	26	['Middle Eastern', 'Pizza', 'Chicken Shop']	$	
+1413	Allis Cheese & Sausage Shoppe	Milwaukee	4.5	279	['Cheese Shops', 'Breakfast & Brunch', 'Desserts']	$$	
+1414	Kitchen	Baltimore	4.5	24	['Seafood']	$$	
+1415	Pint House	Baltimore	4.5	42	['American (Traditional)', 'Bars']	$$	
+1416	& Harold’s Pizza	Baltimore	4.5	6	['Pizza']	$$	
+1417	Corner 2	Baltimore	4.5	12	['Bars', 'Diners']	$$	
+1418	Pizza	Baltimore	4.5	12	['Pizza', 'Salad', 'Sandwiches']	$	
+1419	Chubby Hawaiian	Baltimore	5	2	['Hawaiian', 'Food Trucks']	$	Baltimore 
+1420	Farmhouse Cafe	Baltimore	5	2	['American (Traditional)', 'Breakfast & Brunch', 'Diners']	$	
+1421	Drive In	Baltimore	4	22	['Ice Cream & Frozen Yogurt', 'Fast Food']	$	
+1422		Baltimore	2.5	3	['Sandwiches']	$	
+1423	Queen Grill & Chill	Baltimore	1	1	['Fast Food', 'Ice Cream & Frozen Yogurt', 'Burgers']	$	
+1424	Locker Plant	Baltimore	1	1	['Fast Food', 'Ice Cream & Frozen Yogurt', 'Burgers']	$	
+1425	Cafe	Baltimore	1	1	['Fast Food', 'Ice Cream & Frozen Yogurt', 'Burgers']	$	
+1426	Diner	Baltimore	1	1	['Fast Food', 'Ice Cream & Frozen Yogurt', 'Burgers']	$	
+1427	Choo Cafe	Atlanta	4.5	23	['Bakeries', 'Breakfast & Brunch', 'Cafes']	$	
+1428	Pub & Package Store	Atlanta	1	1	['Beer, Wine & Spirits', 'Pizza']	$	
+1429	Smurf Concessions	Atlanta	1	1	['Beer, Wine & Spirits', 'Pizza']	$	
+1430	Cafe	Atlanta	1	1	['Beer, Wine & Spirits', 'Pizza']	$	
+1431	Eagle Stop	Austin	4.5	4	['Coffee & Tea', 'Ice Cream & Frozen Yogurt', 'Pizza']	$	
+1432	Queen Store	Austin	3.5	5	['Ice Cream & Frozen Yogurt', 'Burgers', 'Fast Food']	$	
+1433	Pizza & Sub	Austin	3	9	['Pizza']	$$	
+1434	House	Austin	3	9	['Diners', 'Breakfast & Brunch', 'American (Traditional)']	$$	
+1435	Pizza	Austin	3	9	['Diners', 'Breakfast & Brunch', 'American (Traditional)']	$$	
+1436	Diner	Austin	3	9	['Diners', 'Breakfast & Brunch', 'American (Traditional)']	$$	
+1437	Nine	Jacksonville	5	16	['Thai', 'Salad', 'Noodles']	$$	Northside
+1438	Z Grill	Jacksonville	5	9	['Mediterranean', 'American (Traditional)']	$$	Greater Arlington
+1439	Joe’s Cafe By Akel’s	Jacksonville	5	8	['Delis', 'Sandwiches']	$	Riverside
+1440	Cucina	Jacksonville	5	5	['Food Trucks', 'Italian', 'Pizza']	$	
+1441		Jacksonville	5	6	['Seafood', 'Sandwiches']	$	Northside
+1442	Dream Food Truck	Jacksonville	5	10	['Mediterranean', 'Halal', 'Food Trucks']	$	Jacksonville
+1443	J’s Cafe	Jacksonville	5	6	['Cafes']	$	Southside
+1444	By Liz Grenamyer	Jacksonville	5	7	['Desserts', 'Wine Bars', 'Seafood']	$$	Westside
+1445	Slava Cafe	Jacksonville	5	6	['Ukrainian', 'Breakfast & Brunch', 'Coffee & Tea']	$$	Riverside
+1446		Jacksonville	5	8	['Juice Bars & Smoothies', 'Salad', 'Acai Bowls']	$$	Riverside
+1447	Snack Bar	Jacksonville	5	5	['Desserts', 'Pop-Up Restaurants', 'Cupcakes']	$$	Avondale
+1448	Me Hotdogs and More	Jacksonville	5	5	['Hot Dogs', 'Food Trucks']	$$	Westside
+1449	Lily Pad	Jacksonville	5	18	['Cafes']	$$	Northside
+1450	Kitchen & Catering	Jacksonville	5	37	['Southern', 'German', 'Puerto Rican']	$$	St. Nicholas
+1451	Pizza & Grocery	Jacksonville	5	17	['Pizza', 'Halal', 'International Grocery']	$$	Greater Arlington
+1452	& Spice	Jacksonville	5	15	['Food Trucks', 'Indian']	$$	Northside
+1453	Sea Aquatics	Jacksonville	5	25	['Aquarium Services', 'Themed Cafes', 'Reptile Shops']	$$	Southside
+1454		Jacksonville	5	60	['Indian']	$$	Westside
+1455	Walrus	Jacksonville	5	12	['Vegan', 'Juice Bars & Smoothies']	$$	Westside
+1456	Cafe	Jacksonville	5	11	['American (Traditional)', 'Breakfast & Brunch', 'Cafes']	$$	St. Nicholas
+1457	Can Smoked Meats	Jacksonville	5	11	['Barbeque', 'Food Trucks']	$$	Orange Park
+1458	Irish Pub	Jacksonville	5	10	['Irish Pub', 'American (Traditional)', 'Fish & Chips']	$$	Westside
+1459	Due Leoni	Jacksonville	5	10	['Pizza']	$$	Southside
+1460	Molino	Jacksonville	5	29	['Tapas/Small Plates', 'Wine Bars']	$$	Southbank
+1461		Jacksonville	5	19	['Food Trucks', 'Puerto Rican']	$$	Jacksonville
+1462	Cafe	Jacksonville	5	104	['Modern European']	$	Greater Arlington
+1463	BBQ	Jacksonville	5	9	['Food Trucks', 'Barbeque', 'Sandwiches']	$	Jacksonville
+1464	21 Bistro	Jacksonville	5	18	['Brazilian']	$	Southside
+1465	Japanese Restaurant	Jacksonville	5	9	['Sushi Bars', 'Japanese']	$	Southside
+1466	Kitchen	Jacksonville	5	8	['Breakfast & Brunch', 'Burgers', 'Sandwiches']	$	Eastside
+1467	Conch Shell	Jacksonville	5	8	['Caribbean', 'Seafood']	$	Northside
+1468	Deli	Jacksonville	5	8	['Food Trucks', 'Delis']	$	Jacksonville
+1469	mix ceviche.&. grill	Jacksonville	5	8	['Peruvian']	$	Southside
+1470	Miles from Cuba	Jacksonville	5	16	['Cuban']	$	Greater Arlington
+1471	Taco Feliz	Jacksonville	5	50	['Food Trucks', 'Mexican']	$	Jacksonville
+1472	Dog Party	Jacksonville	5	14	['Hot Dogs', 'Street Vendors', 'Vegan']	$	Riverside
+1473	Social House	Jacksonville	5	13	['Cafes', 'Breakfast & Brunch', 'Tacos']	$	Westside
+1474	Donuts	Jacksonville	5	50	['Bubble Tea', 'Donuts', 'Sandwiches']	$	Westside
+1475	Boss	Jacksonville	5	6	['Food Stands', 'Tacos']	$	Greater Arlington
+1476	China Box	Jacksonville	5	6	['Chinese', 'Halal', 'Seafood']	$	Greater Arlington
+1477	Ramen	Jacksonville	5	18	['Ramen']	$$	Southside
+1478	Blue’s Bistro	Jacksonville	5	6	['Food Trucks', 'American (Traditional)']	$$	Northside
+1479		Jacksonville	5	6	['Sandwiches', 'Fast Food']	$	Westside
+1480	Eddy’s Quick Mideast	Jacksonville	5	187	['Middle Eastern', 'Sandwiches', 'Soup']	$$	Southside
+1481	Palms Cafe and Catering	Jacksonville	5	11	['Breakfast & Brunch', 'Mediterranean', 'American (Traditional)']	$$	St. Nicholas
+1482	Sushi & Grill	Jacksonville	5	99	['Japanese', 'Salad', 'Soup']	$$	Southside
+1483	Crab Company	Jacksonville	5	48	['Seafood', 'Seafood Markets']	$$	Westside
+1484	Water Bar & Grill	Jacksonville	5	5	['American (Traditional)', 'Burgers']	$$	
+1485	Meat Smokers	Jacksonville	5	5	['Barbeque', 'Smokehouse', 'Food Trucks']	$$	Downtown
+1486	Level Coffee	Jacksonville	5	5	['Coffee & Tea', 'Breakfast & Brunch', 'Bagels']	$$	LaVilla
+1487	Agava Azul	Jacksonville	5	10	['Food Trucks', 'Mexican']	$	Greater Arlington
+1488	lounge Bar and Grill	Jacksonville	5	5	['Caribbean', 'Lounges']	$	Northside
+1489	Soul Grille	Jacksonville	5	38	['Food Trucks', 'Latin American', 'Barbeque']	$	Southside
+1490	Butt Hutt Smokehouse	Jacksonville	5	77	['Food Trucks', 'Barbeque', 'Smokehouse']	$$	Jacksonville
+1491	Cafe Jax	Jacksonville	5	40	['Vegan', 'Desserts']	$$	St. Nicholas
+1492		Jacksonville	5	13	['Salad', 'Mediterranean']	$$	Riverside
+1493	Taphouse & Kitchen	Jacksonville	5	25	['American (Traditional)', 'Beer Bar', 'Desserts']	$$	Westside
+1494	x bar	Jacksonville	5	57	['Wine Bars', 'Falafel', 'Acai Bowls']	$$	Westside
+1495	Moon Sushi	Jacksonville	5	173	['Sushi Bars', 'Ramen']	$$	Southside
+1496	Curry	Jacksonville	5	120	['Japanese Curry', 'Ramen']	$$	Southside
+1497	Grill	Jacksonville	5	4	['Mediterranean', 'American (New)', 'Burgers']	$$	Southside
+1498	Bodega Original	Jacksonville	5	48	['Latin American', 'Cuban']	$$	Westside
+1499		Jacksonville	5	4	['Sandwiches']	$	St. Nicholas
+1500	South	Jacksonville	5	8	['Breakfast & Brunch']	$	Southside
+1501	King	Jacksonville	5	12	['Barbeque', 'Latin American', 'Sandwiches']	$	Westside
+1502	Cemi Puerto Rican Cuisine	Jacksonville	5	4	['Puerto Rican']	$	Southside
+1503	Chamo Criollo	Jacksonville	5	36	['Venezuelan', 'Food Trucks']	$	Greater Arlington
+1504	Bakery Cafe	Jacksonville	4.5	35	['Bakeries', 'Breakfast & Brunch', 'Burgers']	$	Southbank
+1505	Cuban Bistro	Jacksonville	4.5	31	['Bakeries', 'Cuban', 'Salad']	$$	Westside
+1506		Jacksonville	4.5	22	['Mediterranean', 'Salad']	$$	Southside
+1507	Mediterranean Kitchen	Jacksonville	4.5	232	['Mediterranean', 'Salad', 'Greek']	$$	Westside
+1508	Munchies	Jacksonville	4.5	7	['Food Trucks', 'Filipino']	$$	Westside
+1509	Bukahari Afghan Cuisine	Jacksonville	4.5	7	['Afghan']	$$	Southside
+1510	Kitchen	Jacksonville	4.5	42	['Falafel', 'Food Trucks']	$	Southside
+1511	Touchdown Grill	Jacksonville	4.5	7	['Breakfast & Brunch', 'Burgers', 'American (Traditional)']	$	Downtown
+1512	Dash	Jacksonville	4.5	7	['Convenience Stores', 'Sandwiches']	$$	
+1513	Sabrosa Grocery & Restaurant	Jacksonville	4.5	69	['Mexican', 'International Grocery', 'Latin American']	$	Westside
+1514	and Noodles	Jacksonville	4.5	124	['Korean', 'Noodles', 'Ramen']	$	Greater Arlington
+1515	In the City BBQ	Jacksonville	4.5	46	['Barbeque', 'Food Trucks']	$$	Jacksonville
+1516	el Paso	Jacksonville	4.5	13	['Food Trucks', 'Mexican']	$$	Greater Arlington
+1517	Fish Fry	Jacksonville	4.5	204	['Fish & Chips', 'Desserts']	$$	Southside
+1518	Gaucha Brazilian Steakhouse	Jacksonville	4.5	822	['Brazilian', 'Steakhouses', 'Buffets']	$$$	Southside
+1519	Pinoy Express	Jacksonville	4.5	16	['Filipino']	$$$	Westside
+1520	Petit Paris	Jacksonville	4.5	470	['French', 'Breakfast & Brunch', 'Cafes']	$$	Southside
+1521	Tacos	Jacksonville	4.5	35	['Tacos', 'Food Trucks']	$$	Orange Park
+1522		Jacksonville	4.5	44	['Mediterranean', 'Greek']	$$	Greater Arlington
+1523	Bear Sushi & Grill	Jacksonville	4.5	489	['Sushi Bars', 'Japanese', 'Seafood']	$$	Westside
+1524	Saffron	Jacksonville	4.5	75	['Mediterranean', 'Food Trucks']	$$	Jacksonville
+1525	Italian	Jacksonville	4.5	462	['Wine Bars', 'Italian', 'Coffee & Tea']	$$	Greater Arlington
+1526	On Que	Jacksonville	4.5	24	['Caterers', 'Food Trucks', 'Barbeque']	$	Westside
+1527	& Sub	Jacksonville	4.5	15	['Sushi Bars']	$	Southside
+1528	Mideast Market	Jacksonville	4.5	6	['Bakeries', 'Imported Food', 'Middle Eastern']	$	Southside
+1529		Jacksonville	4.5	30	['Food Trucks', 'Vegan']	$	Jacksonville
+1530	Bakehouse	Jacksonville	4.5	108	['Bakeries', 'Coffee & Tea', 'Breakfast & Brunch']	$	Downtown
+1531	Vista	Jacksonville	4.5	42	['Italian', 'Pizza', 'Sandwiches']	$	
+1532	Cubano Jax	Jacksonville	4.5	9	['Cuban']	$	Northside
+1533	Juice Bar	Jacksonville	4.5	12	['Wraps', 'Juice Bars & Smoothies', 'Acai Bowls']	$	Greater Arlington
+1534		Jacksonville	4.5	15	['Cafes']	$	Downtown
+1535	Five Points	Jacksonville	4.5	111	['Tapas/Small Plates', 'American (Traditional)', 'Wine Bars']	$$	Riverside
+1536	On The Sugar Bakery Café	Jacksonville	4.5	15	['Bakeries', 'Cafes']	$$	Southside
+1537	Linda Taco Truck	San Francisco	5	10	['Tacos', 'Food Trucks']	$$	
+1538	A-1 Cafe Restaurant	San Francisco	5	11	['Chinese']	$$	Chinatown
+1539	Japanese Bistro	San Francisco	5	6	['Japanese']	$$	SoMa
+1540	Rancho Nuevo	San Francisco	5	7	['Food Trucks', 'Tacos']	$$	Ingleside Heights
+1541		San Francisco	5	67	['Japanese', 'Sushi Bars']	$$$$	Lower Haight
+1542	Aurora	San Francisco	5	23	['Specialty Food', 'Delis']	$$$$	Potrero Hill
+1543	Cooperative Cafe	San Francisco	5	13	['Coffee & Tea', 'Cafes', 'Venues & Event Spaces']	$$$$	Civic Center
+1544	Tacos	San Francisco	5	8	['Tacos']	$$$$	Mission
+1545		San Francisco	5	9	['Soup', 'Salad', 'Gluten-Free']	$$$$	Russian Hill
+1546	& Black	San Francisco	5	15	['Caterers', 'Wine Bars', 'Sandwiches']	$$$$	Civic Center
+1547	kitchen	San Francisco	5	8	['Food Trucks', 'Italian', 'Soul Food']	$$$$	Bayview-Hunters Point
+1548		San Francisco	5	6	['Kombucha', 'Vegan', 'Mediterranean']	$$$$	SoMa
+1549	Kitchen	San Francisco	5	10	['Japanese', 'Asian Fusion']	$$$$	Bernal Heights
+1550	- Temp. CLOSED	San Francisco	5	53	['Sandwiches']	$$	The Haight
+1551	Vegana SF	San Francisco	5	8	['Vegan', 'Desserts', 'Food Trucks']	$$	Lakeshore
+1552	Pollaio	San Francisco	5	39	['Italian', 'Salad', 'Wine Bars']	$$	Mission
+1553	Delivery	San Francisco	5	5	['Korean', 'Barbeque', 'Food Delivery Services']	$$	San Francisco
+1554	4 Madeleines	San Francisco	5	5	['Desserts', 'Food Stands']	$	Potrero Hill
+1555	SHUKA	San Francisco	5	14	['Pop-Up Restaurants']	$	SoMa
+1556		San Francisco	5	7	['Caterers', 'Italian', 'Cooking Classes']	$	Bayview-Hunters Point
+1557	Pastaio Fresh Pasta	San Francisco	5	5	['Italian']	$	Bernal Heights
+1558	Check-In Wine Lounge	San Francisco	5	21	['Wine Bars', 'Lounges', 'Tapas/Small Plates']	$	Outer Mission
+1559	Pizza	San Francisco	5	16	['Pizza', 'Italian', 'Ice Cream & Frozen Yogurt']	$	Mission
+1560	Iggy’s Restaurant	San Francisco	5	5	['Modern European', 'Ukrainian', 'Russian']	$	Bayview-Hunters Point
+1561	it!	San Francisco	5	5	['Desserts', 'American (New)']	$$	Bayview-Hunters Point
+1562	Cafe	San Francisco	5	8	['Pizza', 'Coffee & Tea', 'Sandwiches']	$$	Lower Nob Hill
+1563	Latin Asian Rotisserie	San Francisco	5	7	['Chinese', 'Venezuelan', 'Asian Fusion']	$$	Tenderloin
+1564	Marcha Express	San Francisco	5	5	['Spanish', 'Tapas/Small Plates']	$$	Mission Bay
+1565	Gate Farmer’s Market & Deli	San Francisco	5	6	['Farmers Market', 'Delis']	$$	Outer Richmond
+1566		San Francisco	5	9	['Georgian', 'Food Delivery Services']	$$	Daly City
+1567		San Francisco	5	10	['Mediterranean']	$$	North Beach/Telegraph Hill
+1568	& Cos	San Francisco	5	6	['Spanish', 'Personal Chefs']	$$	Civic Center
+1569	Bakeshoppe	San Francisco	5	6	['Desserts', 'Gluten-Free']	$$	Outer Mission
+1570	City Taqueria 2	San Francisco	5	5	['Mexican', 'Desserts', 'Breakfast & Brunch']	$$	Bernal Heights
+1571		San Francisco	5	6	['Sandwiches']	$$	Mission
+1572	French Club	San Francisco	5	5	['Social Clubs', 'French']	$$	Union Square
+1573		San Francisco	5	44	['Beer Bar', 'Salad', 'Wine Bars']	$$	Lower Nob Hill
+1574	15 Pop-Up	San Francisco	5	7	['Pop-Up Restaurants', 'Caterers']	$$	Mission
+1575	BBQ	San Francisco	5	50	['Barbeque', 'Caterers']	$$	Parkside
+1576	the Bold	San Francisco	5	36	['Thai', 'Vegan', 'Chicken Shop']	$$	Potrero Hill
+1577	Mercado	San Francisco	5	35	['Beer, Wine & Spirits', 'Mexican']	$$	Nob Hill
+1578	Bar	San Francisco	5	33	['Seafood', 'Japanese']	$$	Mission
+1579	Fig Cafe	San Francisco	5	74	['Cafes']	$$	Russian Hill
+1580	Carajo	San Francisco	5	41	['Mexican']	$$	Mission
+1581	in a Haystack	San Francisco	5	58	['Ramen', 'American (New)']	$$$$	Inner Richmond
+1582	Cuisine SF	San Francisco	5	19	['Indian', 'Himalayan/Nepalese']	$$$$	Nob Hill
+1583	Loft	San Francisco	5	19	['Cocktail Bars', 'Breakfast & Brunch', 'Coffee & Tea']	$$	Union Square
+1584	Market & Deli	San Francisco	5	75	['Grocery', 'Beer, Wine & Spirits', 'Sandwiches']	$$	NoPa
+1585	& Tiger	San Francisco	5	55	['Filipino', 'Japanese']	$$	Tenderloin
+1586	Bento Guys - Temp. CLOSED	San Francisco	5	36	['Japanese', 'Food Delivery Services', 'Comfort Food']	$$	SoMa
+1587	Gonzalez	San Francisco	5	17	['Breakfast & Brunch', 'Cafes', 'Coffee & Tea']	$	Bernal Heights
+1588		San Francisco	5	17	['Italian']	$	Nob Hill
+1589	Magic Theater	San Francisco	5	1259	['Comedy Clubs', 'Magicians', 'Dinner Theater']	$$	San Francisco
+1590	Restaurant	San Francisco	5	16	['Indian', 'Pakistani', 'Halal']	$$	Inner Richmond
+1591	Hearts - Temp. CLOSED	San Francisco	5	26	['Caterers', 'Food Trucks', 'Vegan']	$$	San Francisco
+1592	Eatery	San Francisco	5	12	['Breakfast & Brunch', 'Burgers', 'American (Traditional)']	$$	North Beach/Telegraph Hill
+1593	Hot Wings	San Francisco	5	12	['Chicken Wings']	$$	Mission Bay
+1594	Cafe	San Francisco	5	34	['Cafes', 'Empanadas']	$$	Noe Valley
+1595	Greens	San Francisco	5	33	['Salad', 'Wraps', 'Vegetarian']	$$	Russian Hill
+1596	Modern SF	San Francisco	5	83	['Turkish', 'Middle Eastern', 'Pop-Up Restaurants']	$$$	North Beach/Telegraph Hill
+1597	Omakase	San Francisco	5	50	['Sushi Bars']	$$$$	Lower Nob Hill
+1598	Harmony Cafe	San Francisco	5	10	['Cafes']	$$$$	Mission
+1599	Fatma	San Francisco	5	10	['Salad', 'Burgers', 'Halal']	$$$$	Financial District
+1600	Bistro SF	San Francisco	5	10	['Food Trucks', 'Pop-Up Restaurants']	$$$$	Bayview-Hunters Point
+1601		San Francisco	5	29	['Sandwiches', 'Pizza', 'Wine Bars']	$$	Mission
+1602	Pies	San Francisco	5	28	['Desserts', 'Food Stands']	$$	Outer Mission
+1603	Fresh Cup	San Francisco	5	9	['Coffee & Tea', 'Juice Bars & Smoothies', 'Sandwiches']	$$	Mission
+1604		San Francisco	5	43	['Tapas/Small Plates', 'Burgers', 'Tacos']	$$	Lower Nob Hill
+1605	Kitchen	San Francisco	5	17	['Chinese', 'Soup', 'Chicken Wings']	$$	Mission Bay
+1606	Republic	San Francisco	5	17	['Korean', 'Thai']	$$	Inner Sunset
+1607	Josephine	San Francisco	5	24	['Coffee & Tea', 'Breakfast & Brunch', 'Sandwiches']	$$	Corona Heights
+1608		San Francisco	5	16	['Pop-Up Restaurants', 'Colombian']	$$	Mission
+1609	Classic	San Francisco	5	8	['Burmese']	$$	Bayview-Hunters Point
+1610	on Wheels	San Francisco	5	8	['Food Trucks', 'Greek']	$$	San Francisco
+1611	M Stop Market And Deli	San Francisco	5	8	['Grocery', 'Sandwiches', 'Delis']	$$	Ingleside
+1612	Cafe	San Francisco	5	31	['Internet Cafes', 'Coffee & Tea', 'Sandwiches']	$$	Hayes Valley
+1613	My Jam	San Francisco	5	38	['Salad', 'Breakfast & Brunch', 'Tapas/Small Plates']	$$	Lower Haight
+1614	Petit Paris 75	San Francisco	5	60	['Lounges', 'Tapas/Small Plates', 'Wine Bars']	$$	Chinatown
+1615	Woori - Temp. CLOSED	San Francisco	5	60	['Caterers', 'Korean']	$$	Western Addition
+1616	- Temp. CLOSED	San Francisco	5	29	['Pop-Up Restaurants', 'Mexican']	$$	Russian Hill
+1617	Ra Thai Esan	San Francisco	5	14	['Thai']	$$	Marina/Cow Hollow
+1618	Food Market	San Francisco	5	27	['Salad', 'Food Delivery Services', 'Sandwiches']	$$	Bayview-Hunters Point
+1619	Halal Food Pakistani Restaurant	San Francisco	5	175	['Halal', 'Food Trucks', 'Indian']	$$	SoMa
+1620	Francisco Wine & Cheese	San Francisco	5	174	['Cheese Shops', 'Wine Bars', 'Sandwiches']	$$	Hayes Valley
+1621	Sight Pizza	San Francisco	5	40	['Pizza']	$$	Civic Center
+1622	Singapore	San Francisco	5	73	['Singaporean', 'Desserts', 'Pop-Up Restaurants']	$$	Potrero Hill
+1623	Koji Kitchen	San Francisco	5	13	['Japanese', 'Specialty Food']	$$	Mission
+1624	Salad Place & Rotisserie	San Francisco	5	97	['Sandwiches', 'Salad', 'Breakfast & Brunch']	$$	Outer Mission
+1625	Banquet Hall	San Francisco	5	32	['Russian', 'Venues & Event Spaces', 'Music Venues']	$$	Outer Richmond
+1626	Alfajores	San Francisco	5	56	['Desserts', 'Empanadas', 'Peruvian']	$	
+1627	& Cheese Deli	San Francisco	5	98	['Sandwiches', 'Breakfast & Brunch', 'Delis']	$$	Inner Richmond
+1628	SF	San Francisco	5	97	['Pizza', 'Wine Bars', 'American (Traditional)']	$$	Mission
+1629	Plate	San Francisco	5	42	['Breakfast & Brunch', 'Sandwiches', 'Desserts']	$$	South Beach
+1630		San Francisco	5	30	['Creperies', 'Ice Cream & Frozen Yogurt', 'Mexican']	$$	Excelsior
+1631	Opening Bakery	San Francisco	5	12	['Desserts', 'Patisserie/Cake Shop', 'Food Stands']	$$	Chinatown
+1632	- Temp. CLOSED	San Francisco	5	18	['Pop-Up Restaurants', 'Caterers', 'Indonesian']	$$	SoMa
+1633	Wiches Cafe	San Francisco	5	6	['Cafes', 'Delis']	$$	Tenderloin
+1634	Lu Ruo Fan	San Francisco	5	30	['Taiwanese', 'Food Delivery Services']	$$	
+1635	Bowls	San Francisco	5	72	['Thai', 'Asian Fusion']	$$	Bayview-Hunters Point
+1636	Tacos	San Francisco	5	6	['Tacos', 'Food Trucks']	$$	Mission Terrace
+1637	Place Coffee	Indianapolis	5	5	['Coffee & Tea', 'Breakfast & Brunch']	$$	
+1638		Indianapolis	5	24	['Italian']	$$	
+1639	Burrito	Indianapolis	5	14	['Breakfast & Brunch']	$$	
+1640	Y Panaderia Guatemalteca	Indianapolis	5	9	['Bakeries', 'Latin American']	$$	
+1641	Free Creations	Indianapolis	5	7	['Bakeries', 'Gluten-Free', 'Farmers Market']	$	
+1642	Macaron French Pastries	Indianapolis	5	5	['Macarons', 'French', 'Desserts']	$	
+1643	Chino Mex	Indianapolis	5	8	['Mexican', 'Chinese']	$	
+1644	Ramen	Indianapolis	5	6	['Ramen']	$	
+1645	Injera and Cafe	Indianapolis	5	17	['Eritrean', 'Ethiopian', 'Coffee & Tea']	$	
+1646	City Kitchen	Indianapolis	5	17	['Mexican']	$	
+1647	Garage Tap	Indianapolis	5	5	['Beer Bar', 'American (Traditional)']	$	Chatham Arch
+1648		Indianapolis	5	5	['Sandwiches']	$	
+1649	Poke Zionsville	Indianapolis	5	31	['Poke', 'Seafood', 'Shaved Ice']	$$	
+1650	Dhaba	Indianapolis	5	15	['Indian']	$$	
+1651	Carmen Restaurante Y Taqueria	Indianapolis	5	12	['Mexican']	$$	
+1652	Barrel BBQ	Indianapolis	5	36	['Barbeque']	$$	
+1653	Japanese Fine Dining	Indianapolis	5	45	['Japanese']	$$	Mile Square
+1654	Mexican Grill	Indianapolis	5	11	['Mexican']	$$	
+1655	Groovy Cat Cafe	Indianapolis	5	11	['Desserts', 'Coffee & Tea', 'Cafes']	$$	
+1656	Hot Dog	Indianapolis	5	65	['Street Vendors', 'Hot Dogs']	$	
+1657	Don Quezadillas Belinda	Indianapolis	5	16	['Mexican']	$	
+1658		Indianapolis	5	8	['Mexican']	$	
+1659	la salvadoreña	Indianapolis	5	8	['Salvadoran']	$	
+1660		Indianapolis	5	231	['Soup', 'Sandwiches', 'Salad']	$$	Mile Square
+1661	Garden Deli	Indianapolis	5	15	['Delis', 'Sandwiches', 'Juice Bars & Smoothies']	$$	
+1662	Express Cafe	Indianapolis	5	15	['Asian Fusion']	$$	
+1663	sabor mexican and chinese food	Indianapolis	5	29	['Mexican', 'Chinese']	$$	
+1664	Poke Fishers	Indianapolis	5	151	['Poke', 'Seafood', 'Hawaiian']	$$	
+1665	Savory & Sweet	Indianapolis	5	86	['Beer Bar', 'Wine Bars', 'Wraps']	$	SoBro
+1666	Gardens	Indianapolis	5	7	['Specialty Food', 'Food Stands', 'Farmers Market']	$	
+1667	Radish	Indianapolis	5	7	['Food Trucks', 'Vegan']	$	
+1668	Got Tips	Indianapolis	5	7	['Barbeque', 'Caterers']	$	
+1669	Chivo Jaliciense Taqueria y Birrieria	Indianapolis	5	7	['Mexican']	$	
+1670	Northside Nutrition Bar	Indianapolis	5	7	['Salad', 'Organic Stores', 'Sandwiches']	$	
+1671	- AMP	Indianapolis	5	41	['Burgers']	$$	
+1672	Brewing Company	Indianapolis	5	13	['Pizza', 'Brewpubs', 'Sports Bars']	$$	
+1673		Indianapolis	5	6	['Cajun/Creole']	$$	
+1674	gusto es VIP food	Indianapolis	5	6	['Seafood', 'Mexican']	$$	
+1675		Indianapolis	5	6	['Italian', 'Latin American']	$$	
+1676	Sweet & Savory Café	Indianapolis	5	36	['Breakfast & Brunch', 'Cafes', 'Sandwiches']	$$	
+1677	Gold Barbecue	Indianapolis	5	70	['Barbeque', 'Food Trucks']	$$	Indianapolis
+1678	Bros	Indianapolis	5	33	['Poke', 'Seafood', 'Hawaiian']	$$	
+1679	house	Indianapolis	5	11	['Haitian']	$$	
+1680	Teaching Kitchen	Indianapolis	5	27	['Cooking Classes', 'Sushi Bars', 'Japanese']	$$	
+1681	in 1 Restaurant	Indianapolis	5	232	['Mexican', 'Salvadoran', 'Vegan']	$	
+1682	Kitchen Restaurant - Temp. CLOSED	Indianapolis	5	42	['Breakfast & Brunch', 'American (Traditional)', 'Diners']	$	
+1683	Lunch House	Indianapolis	5	185	['Sandwiches']	$	
+1684	Golden Gyros	Indianapolis	5	112	['Salad', 'Chicken Wings', 'Greek']	$	
+1685	Fridge	Indianapolis	5	5	['Salad', 'Breakfast & Brunch', 'Sandwiches']	$	
+1686	Chori Foods	Indianapolis	5	105	['Argentine', 'Burgers', 'Empanadas']	$	
+1687	Garnacha Spot	Indianapolis	5	5	['Food Trucks', 'Mexican']	$	
+1688	Tierra Caliente	Indianapolis	5	5	['Mexican']	$	
+1689	Like Sunday	Indianapolis	5	5	['Soul Food']	$	Lafayette Square
+1690	Rosales	Indianapolis	5	6	['New Mexican Cuisine']	$	
+1691	Poke Indy	Indianapolis	5	246	['Hawaiian', 'Seafood', 'Poke']	$$	
+1692	Taqueria	Indianapolis	5	19	['Mexican']	$$	
+1693	Rider Diner	Indianapolis	5	56	['Comfort Food', 'Diners', 'Breakfast & Brunch']	$$	Fountain Square
+1694	Love Butta	Indianapolis	5	9	['Seafood']	$$	Saint Joseph
+1695		Indianapolis	5	235	['Mexican', 'Vegan', 'Vegetarian']	$$	
+1696	Rust Belt Tacos & Tortas	Indianapolis	5	31	['Tacos']	$$	
+1697	Juan V’s Sandwiches	Indianapolis	5	167	['Peruvian', 'Sandwiches']	$	
+1698	Jamaican Grill	Indianapolis	5	140	['Caribbean']	$$	Fountain Square
+1699	de Sac Kitchen	Indianapolis	5	65	['Vegan']	$$	
+1700	Costa Azul	Indianapolis	5	13	['Salvadoran', 'Mexican']	$$	
+1701	Soul Indy	Indianapolis	5	17	['Food Delivery Services', 'American (New)', 'Seafood']	$$	
+1702	Coney Island	Indianapolis	5	59	['Burgers', 'Hot Dogs', 'Chicken Wings']	$$	
+1703	Delicatessen	Indianapolis	5	12	['Salad', 'Soup', 'Sandwiches']	$$	
+1704	Familia Food Truck	Indianapolis	5	4	['Food Trucks', 'Tacos']	$$	
+1705	Garden	Indianapolis	5	4	['Breakfast & Brunch']	$$	
+1706	Sammich Shop	Indianapolis	5	8	['Sandwiches', 'Breakfast & Brunch']	$$	Mile Square
+1707	Of Manila	Indianapolis	5	8	['Filipino', 'Food Trucks']	$$	
+1708	Tortas	Indianapolis	5	4	['Mexican', 'Sandwiches']	$$	Broad Ripple
+1709	Fried Chicken	Indianapolis	5	4	['Comfort Food', 'Soul Food']	$$	
+1710	Villa Cuisine	Indianapolis	5	4	['Thai', 'Noodles']	$$	
+1711		Indianapolis	4.5	407	['American (New)', 'Seafood']	$$$$	Lockerbie Square
+1712	Pizzeria- Indianapolis	Indianapolis	4.5	94	['Pizza', 'Italian']	$$$$	
+1713	Snack	Indianapolis	4.5	93	['Chinese', 'Asian Fusion', 'Seafood']	$	
+1714	5th av tacos	Indianapolis	4.5	38	['Mexican']	$	
+1715	Tacos	Indianapolis	4.5	15	['Tacos']	$	
+1716	Michoacana - Paleteria	Indianapolis	4.5	30	['Ice Cream & Frozen Yogurt', 'Desserts', 'Sandwiches']	$	
+1717	Mexican Cuisine	Indianapolis	4.5	200	['Mexican']	$$	
+1718	Ice Cream	Indianapolis	4.5	274	['Ice Cream & Frozen Yogurt', 'Tacos']	$	
+1719	Books & Bread	Indianapolis	4.5	146	['Sandwiches', 'Bookstores', 'Coffee & Tea']	$$	
+1720	Tre Mori	Indianapolis	4.5	175	['Pizza', 'Wine Bars', 'Italian']	$$	
+1721	Iturbidense	Indianapolis	4.5	29	['Food Trucks', 'Tacos']	$$	
+1722		Indianapolis	4.5	54	['Vegan', 'Burgers', 'Breakfast & Brunch']	$$	
+1723		Indianapolis	4.5	151	['Pizza']	$$	Holy Cross
+1724	Sandwich Shop	Indianapolis	4.5	7	['Sandwiches', 'Cheesesteaks']	$$	
+1725	Christkindlmarkt	Indianapolis	4.5	7	['German', 'Festivals']	$$	Mile Square
+1726	Bates-Hendricks HouseBar	Indianapolis	4.5	49	['Bars', 'Delis', 'Breakfast & Brunch']	$$	Bates Hendricks
+1727	Chance Pizza	Indianapolis	4.5	7	['Pizza']	$$	
+1728	Meat Market	Indianapolis	4.5	70	['Meat Shops', 'Delis']	$$	
+1729	Market & Juice Bar	Indianapolis	4.5	87	['Fruits & Veggies', 'Juice Bars & Smoothies', 'Tacos']	$$	Fletcher Place
+1730	Asian Grill	Indianapolis	4.5	41	['Asian Fusion', 'Salad', 'Gluten-Free']	$$	
+1731	Sushi & Hibachi Express	Indianapolis	4.5	17	['Sushi Bars', 'Japanese', 'Juice Bars & Smoothies']	$$	
+1732	Eskina Indy	Indianapolis	4.5	51	['Mexican', 'Bars']	$$	Fletcher Place
+1733	Hibachi Express & Sushi	Indianapolis	4.5	37	['Sushi Bars']	$$	Old Northside
+1734	Out Cafe	Indianapolis	4.5	40	['Coffee & Tea', 'Juice Bars & Smoothies', 'Restaurants']	$$	
+1735	Pizzeria	Indianapolis	4.5	20	['Pizza']	$$	Fletcher Place
+1736	Pawon Asian Indonesian Cuisine	Indianapolis	4.5	10	['Asian Fusion', 'Indonesian']	$$	Saint Joseph
+1737	Moreno	San Jose	5	13	['Mexican']	$	Buena Vista
+1738	Los Juanes	San Jose	5	6	['Street Vendors', 'Tacos']	$	Blossom Valley
+1739	Food Truck Catering	San Jose	5	11	['Food Trucks', 'Asian Fusion']	$	San Jose
+1740	Wings El Buen Sabor	San Jose	5	16	['Pizza', 'Salad', 'Sandwiches']	$	North Valley
+1741	Tacos	San Jose	5	8	['Food Trucks', 'Mexican']	$	North Valley
+1742	Wine House	San Jose	5	14	['Wine Bars', 'Beer Bar', 'Tapas Bars']	$$	Downtown
+1743	Familia Taqueria	San Jose	5	15	['Food Trucks', 'Mexican']	$$	
+1744	Taco Catering	San Jose	5	39	['Caterers', 'Tacos']	$$	Blossom Valley
+1745	Lolly Catering - Temp. CLOSED	San Jose	5	32	['Caterers', 'Persian/Iranian', 'Mediterranean']	$$	Blossom Valley
+1746	Cuisine	San Jose	5	6	['Lebanese']	$$	
+1747	Brazil	San Jose	5	5	['Caterers', 'Brazilian']	$$	Downtown
+1748	Lumpias	San Jose	5	9	['Food Trucks', 'Comfort Food']	$$	
+1749	United MIX	San Jose	5	6	['Food Delivery Services', 'Fast Food']	$$	West San Jose
+1750	Cocina and Pupuseria	San Jose	5	12	['Salvadoran']	$$	
+1751	juquilita	San Jose	5	6	['Food Trucks', 'Mexican']	$$	Alum Rock/East Foothills
+1752	Chicken - San Jose	San Jose	5	18	['Korean', 'Chicken Wings']	$$	North San Jose
+1753	Brazuca	San Jose	5	18	['Brazilian']	$$	
+1754	Cheese	San Jose	5	11	['Desserts', 'Middle Eastern', 'Bakeries']	$$	Downtown
+1755	Molina	San Jose	5	10	['Tacos']	$$	Cambrian Park
+1756	Taqueria	San Jose	5	5	['Tacos', 'Food Trucks']	$$	East San Jose
+1757	Family Barbecue	San Jose	5	9	['Barbeque', 'Food Trucks', 'Sandwiches']	$$	
+1758	Carreta Tacos	San Jose	5	6	['Food Trucks', 'Mexican', 'Caterers']	$$	San Jose
+1759	Compa Cali	San Jose	5	8	['Tacos', 'Caterers']	$$	Evergreen
+1760	Cuñaos Food Truck	San Jose	5	7	['Food Trucks', 'Mexican']	$$	North Valley
+1761	Kitchen	San Jose	5	15	['Indian', 'Vegetarian', 'Food Delivery Services']	$	
+1762	Healthy Treats	San Jose	5	9	['Vegan', 'Custom Cakes']	$	Evergreen
+1763	Tacos	San Jose	5	8	['Tacos']	$	Downtown
+1764	Fire Bistro	San Jose	5	48	['Tacos', 'Caterers']	$	North Valley
+1765	Taqueria	San Jose	5	13	['Food Trucks', 'Tacos']	$	Santa Clara 
+1766	Paddy	San Jose	5	44	['Asian Fusion', 'Chicken Shop', 'Comfort Food']	$$	Downtown
+1767	Cantina & Kitchen	San Jose	5	28	['Cocktail Bars', 'Mexican']	$$	West San Jose
+1768	Generaciones Taqueria	San Jose	5	25	['Tacos', 'Food Trucks']	$$	West San Jose
+1769	Hot Chicken	San Jose	5	43	['Food Trucks', 'Chicken Shop']	$$	Cambrian Park
+1770	Kitchen	San Jose	5	38	['Indian']	$$	North Valley
+1771	Little Cakes	San Jose	5	122	['Gluten-Free', 'Desserts', 'Cupcakes']	$$	
+1772	Costeñita	San Jose	5	17	['Mexican', 'Food Trucks']	$	Downtown
+1773	Eden	San Jose	5	31	['Cafes', 'Mediterranean', 'Breakfast & Brunch']	$	Downtown
+1774	Pot Truck	San Jose	5	13	['Food Trucks', 'Vietnamese']	$	
+1775	Picosita Mexican Food Truck	San Jose	5	13	['Food Trucks', 'Mexican']	$	North Valley
+1776		San Jose	5	63	['Gluten-Free', 'Italian', 'Breakfast & Brunch']	$$$	
+1777	San Jose Bean Pies	San Jose	5	50	['Bakeries', 'Food Stands', 'Desserts']	$$	San Jose
+1778		San Jose	5	12	['Desserts', 'Puerto Rican', 'Cupcakes']	$$	North Valley
+1779	Sandwiches	San Jose	5	11	['Coffee & Tea', 'Sandwiches', 'Juice Bars & Smoothies']	$$	Downtown
+1780	Camaleon Mobile Kitchen	San Jose	5	21	['Food Trucks', 'Mexican']	$$	San Jose
+1781	Magui	San Jose	5	10	['Food Trucks', 'Food Stands']	$$	North Valley
+1782	Mexican Food	San Jose	5	10	['Mexican', 'Food Trucks']	$$	North Valley
+1783		San Jose	5	29	['Filipino', 'Desserts', 'Barbeque']	$$	Blossom Valley
+1784	Oaxaquense	San Jose	5	18	['Tacos', 'Food Trucks']	$$	North Valley
+1785	Mexican cuisine	San Jose	5	33	['Food Trucks', 'Mexican']	$$	North San Jose
+1786	Dog	San Jose	5	40	['Hot Dogs', 'Street Vendors']	$	
+1787		San Jose	5	8	['Japanese', 'Sushi Bars']	$	
+1788	Taqueria	San Jose	5	23	['Tacos']	$	Downtown
+1789	Jose	San Jose	5	15	['Korean', 'Asian Fusion']	$	North San Jose
+1790	Arcoiris	San Jose	5	15	['Food Stands']	$	Fairgrounds
+1791	Lab	San Jose	5	7	['Burgers', 'Food Trucks']	$	
+1792	Kitchen	San Jose	5	7	['Food Trucks', 'Tacos']	$	
+1793	y Sol Mexican Food	San Jose	5	28	['Mexican']	$	Downtown
+1794	La Guadalupana	San Jose	5	27	['Desserts', 'Spanish']	$	North Valley
+1795	Roc’s Rockin Catering Puerto Rican Food	San Jose	5	32	['Caterers', 'Puerto Rican', 'Cuban']	$	Evergreen
+1796	Taqueria	San Jose	5	38	['Food Trucks', 'Tacos']	$	
+1797	- Fresh Sourdough Deli	San Jose	5	82	['Sandwiches', 'Delis']	$$	
+1798	Good Salad	San Jose	5	252	['Salad', 'Vegetarian', 'Halal']	$$	North San Jose
+1799	Pizza	San Jose	5	98	['Salad', 'Sandwiches', 'Pizza']	$$	Blossom Valley
+1800	Ranchero Del Sur	San Jose	5	6	['Mexican', 'Food Trucks']	$$	
+1801	La Tierra Plant Based Vegan Food	San Jose	5	24	['Caterers', 'Vegan', 'Mexican']	$$	Downtown
+1802		San Jose	5	6	['Caterers', 'Indian']	$$	
+1803	Azteca	San Jose	5	6	['Food Trucks', 'Tacos']	$$	Sunnyvale
+1804	Tacos De La Esquina Cdmx	San Jose	5	6	['Tacos', 'Food Trucks']	$$	San Jose
+1805	Lunch Time	San Jose	5	107	['Sandwiches', 'Wraps', 'Korean']	$	North San Jose
+1806		San Jose	5	40	['Desserts', 'Bakeries', 'Filipino']	$$	Downtown
+1807	Sabroson De La Linea 2	San Jose	5	34	['Food Trucks', 'Mexican']	$	
+1808	Biriyani	San Jose	5	33	['Indian', 'Asian Fusion']	$	
+1809	Delicias De Tonita	San Jose	5	143	['Mexican', 'Food Trucks']	$	Downtown
+1810	Style Churros	San Jose	5	60	['Desserts', 'Mexican']	$	East San Jose
+1811	Turkish Grill	San Jose	5	243	['Steakhouses', 'Barbeque']	$	
+1812	Cuisine	San Jose	5	21	['Asian Fusion', 'Indian', 'Himalayan/Nepalese']	$	North Valley
+1813	Paracuaro	San Jose	5	15	['Mexican']	$	Downtown
+1814	El Gordo	San Jose	5	20	['Burgers', 'Food Trucks', 'Hot Dogs']	$	Downtown
+1815	Taco Shop	San Jose	5	95	['Caterers', 'Tacos', 'Food Trucks']	$	
+1816	House 48	San Jose	5	5	['Food Trucks', 'Tacos']	$	San Jose
+1817	Che Cafe & Bar	San Jose	5	11	['Empanadas', 'Pancakes']	$	Downtown
+1818	Belly Bakery	San Jose	5	25	['Bakeries', 'Breakfast & Brunch', 'Food Delivery Services']	$	Downtown
+1819	Shack	San Jose	5	5	['Cafes']	$	
+1820	K Poke & Roll	San Jose	5	123	['Japanese', 'Poke']	$$	East San Jose
+1821	Catch fish & chips	San Jose	5	77	['Fish & Chips', 'Seafood']	$$	Downtown
+1822	Mexican Food	San Jose	5	24	['Mexican', 'Food Trucks']	$$	Willow Glen
+1823	Junky	San Jose	5	52	['Pubs', 'Korean', 'Wraps']	$$	
+1824	Dogos Estilo Sonora	San Jose	5	14	['Hot Dogs', 'Street Vendors', 'Mexican']	$$	Alum Rock/East Foothills
+1825	Dawgs	San Jose	5	37	['Hot Dogs', 'Street Vendors']	$	North Valley
+1826	Giving Pies	San Jose	5	166	['Desserts', 'Coffee & Tea', 'Breakfast & Brunch']	$$	Willow Glen
+1827	Bar-B-Que	San Jose	5	23	['Caterers', 'Barbeque']	$$	East San Jose
+1828	Taqueria	San Jose	5	101	['Food Trucks', 'Tacos']	$$	San jose
+1829	Bistro & Lounge	San Jose	5	9	['Lounges', 'Asian Fusion']	$$	North San Jose
+1830	Estrellita Taqueria	San Jose	5	9	['Mexican', 'Food Trucks']	$$	East San Jose
+1831	Bowl	San Jose	5	13	['Burgers', 'Asian Fusion', 'Sandwiches']	$$	
+1832	Randy Catering	San Jose	5	17	['Caterers', 'Sushi Bars']	$$$	
+1833	La Morenita	San Jose	5	72	['Food Trucks', 'Mexican']	$$	West San Jose
+1834	House	San Jose	5	117	['Korean']	$$	Santa Teresa
+1835	- Temp. CLOSED	San Jose	5	37	['Chicken Shop', 'Sandwiches', 'Wraps']	$$	Blossom Valley
+1836	Knowledge Cafe	Detroit	5	6	['Cafes', 'Bookstores', 'Art Galleries']	$$	
+1837	Sandwiches	Detroit	5	6	['Middle Eastern', 'Juice Bars & Smoothies', 'Sandwiches']	$$	
+1838	Pizza	Detroit	5	5	['Pizza']	$$	
+1839	Delight	Detroit	5	5	['Ice Cream & Frozen Yogurt', 'Gelato', 'Mediterranean']	$$	
+1840		Detroit	5	5	['Lebanese']	$$	
+1841	Garage	Detroit	5	5	['Mexican', 'Food Trucks']	$$	Downtown Detroit
+1842	O One	Detroit	5	6	['American (Traditional)', 'Bars']	$$	
+1843	Bakery	Detroit	5	13	['Bakeries', 'Middle Eastern']	$	
+1844	Den	Detroit	5	5	['Sports Bars', 'American (Traditional)']	$$	
+1845	Coffee	Detroit	5	5	['Coffee & Tea', 'Cafes']	$$	Downtown Detroit
+1846	Grill	Detroit	5	5	['Canadian (New)', 'Burgers']	$$	
+1847	Bakery & Grill	Detroit	5	8	['Bakeries', 'Burgers', 'Sandwiches']	$$	Downriver
+1848	State Chef	Detroit	5	26	['Food Delivery Services', 'Gluten-Free']	$$	
+1849	King Plus	Detroit	5	16	['Sandwiches', 'Burgers']	$$	
+1850	a vegan eatery	Detroit	5	16	['Vegan']	$$	
+1851	Bakery	Detroit	5	11	['Bakeries', 'American (Traditional)']	$	
+1852	Coup	Detroit	5	27	['Poke', 'Chicken Wings', 'Sushi Bars']	$	
+1853	Barbecue	Detroit	5	8	['Barbeque', 'Sandwiches', 'Desserts']	$	Delray
+1854	Restaurant	Detroit	5	8	['Japanese']	$	
+1855	Street Grill	Detroit	5	16	['Breakfast & Brunch']	$	
+1856	Club	Detroit	5	7	['British', 'Cultural Center']	$	
+1857	Mexican Food Truck	Detroit	5	7	['Food Trucks', 'Mexican', 'Caterers']	$	Downtown Ferndale
+1858	Deli & Cafe	Detroit	5	6	['Delis', 'Caterers', 'Sandwiches']	$	
+1859		Detroit	5	6	['Breakfast & Brunch', 'Diners', 'Sandwiches']	$	
+1860	Market & Grill	Detroit	5	6	['Italian', 'American (Traditional)', 'Mediterranean']	$	Cass Corridor
+1861	Fare	Detroit	5	170	['Coffee & Tea', 'African', 'Juice Bars & Smoothies']	$$	Wayne State
+1862	Coast	Detroit	5	27	['Cafes', 'American (Traditional)']	$$	
+1863	Narrow Way Cafe & Shop	Detroit	5	91	['Bakeries', 'Cafes', 'Juice Bars & Smoothies']	$	Bagley
+1864	Break Cafe	Detroit	5	42	['Cafes']	$	
+1865	Dos Amigos	Detroit	5	26	['Mexican', 'Food Stands']	$	Southwest Detroit
+1866	Shanghai Dumplings	Detroit	5	56	['Chinese']	$	
+1867	Pizza	Detroit	5	10	['Pizza']	$	
+1868	Nostrum	Detroit	5	5	['Mediterranean', 'Bars', 'Italian']	$	
+1869	Uyghur Cuisine	Detroit	5	5	['Noodles', 'Kebab', 'Halal']	$	
+1870	Fellas	Detroit	5	5	['Chicken Wings', 'Pizza', 'American (Traditional)']	$	
+1871	4 All	Detroit	5	5	['Cheesesteaks', 'Burgers', 'Chicken Wings']	$	
+1872	Cafe	Detroit	5	5	['Breakfast & Brunch', 'Coffee & Tea']	$	
+1873	Caesars	Detroit	5	10	['Pizza', 'Fast Food']	$	
+1874	Agave Taqueria	Detroit	5	5	['Mexican']	$	Downriver
+1875	& L Ham Palace	Detroit	5	10	['Breakfast & Brunch']	$	Southwest Detroit
+1876	Play Café	Detroit	5	49	['Cafes', 'Kids Activities', 'Venues & Event Spaces']	$	
+1877	Kitchen and Living Room	Detroit	5	61	['Pizza', 'Salad', 'Cocktail Bars']	$$	
+1878	Sprout House Natural Foods Market	Detroit	5	65	['Health Markets', 'Vegan']	$	
+1879	Bakery	Detroit	5	161	['Bakeries', 'Lebanese', 'Delis']	$	
+1880		Detroit	5	59	['Sandwiches']	$	Midtown
+1881	Detroit Pepper Company	Detroit	5	27	['Juice Bars & Smoothies', 'Vegetarian', 'Caterers']	$	
+1882	To Go	Detroit	5	9	['Mediterranean', 'Desserts']	$	Downriver
+1883	Market	Detroit	5	9	['Halal', 'Meat Shops']	$	
+1884	Market	Detroit	5	519	['Sandwiches', 'Delis', 'Grocery']	$	
+1885	Royale	Detroit	5	33	['Middle Eastern']	$	
+1886	Tacos	Detroit	5	4	['Food Trucks', 'Tacos']	$	Southwest Detroit
+1887	Bakery &Grill	Detroit	5	4	['Middle Eastern']	$	
+1888	Bistro	Detroit	5	4	['Comfort Food', 'Desserts']	$	
+1889	House Mediterranean	Detroit	5	4	['Mediterranean']	$	
+1890	V-stro	Detroit	5	28	['Comfort Food', 'Vegetarian']	$	Downtown Ferndale
+1891	Yacht Club	Detroit	5	8	['Boating', 'Bars', 'Sandwiches']	$	
+1892	Taco Truck	Detroit	5	4	['Food Trucks', 'Mexican']	$	Downriver
+1893	Cafe	Detroit	5	8	['Coffee & Tea', 'Bakeries', 'Sandwiches']	$	Midtown
+1894	Sushi Bar	Detroit	5	32	['Sushi Bars', 'Desserts', 'Soup']	$$	Downriver
+1895	Palace	Detroit	5	4	['Burgers']	$$	
+1896	Squeeze Station	Detroit	5	8	['Juice Bars & Smoothies', 'Breakfast & Brunch', 'Arts & Entertainment']	$$	Southwest Detroit
+1897	Roti - Dearborn	Detroit	5	4	['Coffee & Tea', 'Desserts', 'Cafes']	$$	Downtown Dearborn
+1898	Boulangerie	Detroit	5	8	['Bakeries', 'Sandwiches']	$$	
+1899	Berrys Halal Meats	Detroit	5	16	['Meat Shops', 'Butcher', 'Halal']	$	
+1900	Soup Kitcnen Conner Kitchen	Detroit	5	4	['Soup']	$	
+1901	Coney Island	Detroit	5	4	['Comfort Food']	$	
+1902	Burritos	Detroit	5	4	['Mexican', 'Food Trucks']	$	
+1903	Detroit	Detroit	5	4	['Salad', 'Food Delivery Services']	$	
+1904	City Franks	Detroit	5	4	['Food Trucks', 'Hot Dogs']	$	
+1905	Patties	Detroit	5	4	['Food Trucks', 'Burgers']	$	Southwest Detroit
+1906		Detroit	4.5	49	['Seafood', 'Wine Bars']	$	Corktown
+1907	Pie Cafe	Detroit	4.5	15	['Desserts', 'Cafes', 'Breakfast & Brunch']	$$	
+1908	Cafe	Detroit	4.5	243	['American (Traditional)', 'Middle Eastern', 'Juice Bars & Smoothies']	$	
+1909	& Trumbull	Detroit	4.5	153	['Pizza']	$$	Corktown
+1910	Mead	Detroit	4.5	58	['American (New)', 'Wine Bars']	$$	
+1911	And Shakes	Detroit	4.5	7	['Desserts', 'Sandwiches', 'Juice Bars & Smoothies']	$$	
+1912	Restaurant	Detroit	4.5	21	['Breakfast & Brunch']	$$	
+1913	Eats Bistro	Detroit	4.5	7	['Seafood', 'Burgers', 'Sandwiches']	$$	
+1914	Kitchen by Cooking with Que	Detroit	4.5	21	['Vegan', 'Vegetarian']	$$	Wayne State
+1915	Ave bar and grill	Detroit	4.5	7	['Bars', 'Music Venues', 'Burgers']	$$	
+1916	Mansour Bakery	Detroit	4.5	7	['Bakeries', 'Breakfast & Brunch']	$$	
+1917		Detroit	4.5	14	['Middle Eastern', 'Mediterranean', 'Breakfast & Brunch']	$$	
+1918	Restaurant	Detroit	4.5	7	['Breakfast & Brunch', 'Syrian']	$$	Warrendale
+1919	Bakery	Detroit	4.5	38	['Bakeries', 'Delis', 'Pizza']	$	Downriver
+1920	Cafe Detroit	Detroit	4.5	38	['Coffee & Tea', 'Sandwiches', 'Breakfast & Brunch']	$	Midtown
+1921	Nik Basket	Detroit	4.5	40	['Sandwiches', 'American (New)', 'Seafood']	$	
+1922	Or Villain Van	Detroit	4.5	40	['Sandwiches', 'Food Trucks', 'Caterers']	$	Downtown Detroit
+1923	El Caballo	Detroit	4.5	20	['Food Trucks', 'Tacos']	$	Southwest Detroit
+1924	Grill	Detroit	4.5	180	['Vegan']	$	Downtown Dearborn
+1925	& Mo’s	Detroit	4.5	75	['Food Trucks', 'American (Traditional)']	$$	
+1926	BBQ Pit	Detroit	4.5	13	['Smokehouse', 'Barbeque', 'Southern']	$$	Bagley
+1927	Lunch Bowl	Detroit	4.5	13	['Mediterranean', 'Salad', 'Wraps']	$$	Downtown Royal Oak
+1928	& Out Shawarma	Detroit	4.5	39	['Mediterranean']	$	
+1929		Detroit	4.5	259	['Middle Eastern', 'Salad', 'Soup']	$$	
+1930	House	Detroit	4.5	84	['Coffee & Tea', 'Desserts', 'Cafes']	$	Downtown Dearborn
+1931	Garlic Indian Cuisine	Detroit	4.5	116	['Indian']	$	
+1932	Chicken	Detroit	4.5	70	['Salvadoran', 'Peruvian']	$	Downriver
+1933	Restaurant	Detroit	4.5	19	['Delis', 'Middle Eastern']	$	
+1934	Burgers	Detroit	4.5	44	['Burgers', 'Breakfast & Brunch', 'Sandwiches']	$	
+1935	Castle	Detroit	4.5	22	['Mediterranean']	$	
+1936	el costenito	San Antonio	5	5	['Seafood']	$	
+1937	Pizza	San Antonio	5	5	['Pizza']	$	
+1938	de Mexico 3	San Antonio	5	8	['Mexican', 'Shaved Ice']	$	
+1939	El Pelon	San Antonio	5	5	['Food Trucks', 'Mexican']	$	
+1940	Indian Fusion Cuisine	San Antonio	5	7	['Indian', 'Food Trucks']	$	San Antonio
+1941	de Sanchez	San Antonio	5	5	['Colombian', 'Food Trucks']	$	
+1942	AFB Commissary Sushi Bar	San Antonio	5	5	['Japanese', 'Asian Fusion', 'Imported Food']	$	
+1943		San Antonio	5	5	['Food Trucks', 'Burgers', 'Mexican']	$	San Antonio
+1944	Palace	San Antonio	5	6	['Donuts', 'Sandwiches', 'Breakfast & Brunch']	$	
+1945	Eritrean & Ethiopian Cuisine	San Antonio	5	5	['Ethiopian', 'Eritrean']	$	
+1946	and Bowl Bistro	San Antonio	5	6	['Sandwiches', 'Burgers', 'Salad']	$	Stone Oak
+1947	Adam Foods	San Antonio	5	5	['Food Trucks', 'Mediterranean', 'Tacos']	$	Medical Center
+1948	Grocery & Grill	San Antonio	5	7	['American (Traditional)', 'Burgers']	$	
+1949	De Mama	San Antonio	5	5	['Food Trucks', 'Tacos']	$	
+1950	Capricho	San Antonio	5	7	['Specialty Food', 'Mexican']	$$	
+1951	Ricas	San Antonio	5	11	['Juice Bars & Smoothies', 'Acai Bowls', 'Japanese']	$$	Dellview
+1952	Charro Food Truck	San Antonio	5	7	['Food Trucks', 'Mexican']	$$	
+1953	Los Kompaz	San Antonio	5	7	['Burgers']	$$	Oak Park/Northwood
+1954	Done Wright	San Antonio	5	9	['Barbeque', 'Food Trucks']	$$	
+1955	Generala	San Antonio	5	9	['Food Trucks', 'Tacos']	$$	
+1956	Fig American Eatery	San Antonio	5	5	['Food Trucks', 'Comfort Food']	$$	Stone Oak
+1957	La Catrina	San Antonio	5	11	['Mexican']	$$	
+1958	Molino	San Antonio	5	6	['Mexican']	$$	
+1959	Lotus Thai Food	San Antonio	5	7	['Thai']	$$	
+1960	Cotidiano	San Antonio	5	10	['Cafes']	$$	Southtown
+1961	Fruteria	San Antonio	5	6	['Mexican']	$$	Medical Center
+1962	BBQ	San Antonio	5	72	['Barbeque', 'Food Trucks', 'Southern']	$	San Antonio
+1963	Sorpresa Cafe	San Antonio	5	5	['Mexican']	$	
+1964	at The Yard	San Antonio	5	19	['Tacos']	$	
+1965	Lira San Antonio	San Antonio	5	10	['Mexican']	$	
+1966	Way To The Heart	San Antonio	5	22	['Pop-Up Restaurants']	$	
+1967	Pie	San Antonio	5	22	['Pizza', 'Food Trucks', 'Desserts']	$	Tobin Hill
+1968	Mexican Food	San Antonio	5	5	['Food Trucks', 'Tacos']	$	
+1969	Nitrogen Ice Cream	San Antonio	5	10	['Ice Cream & Frozen Yogurt', 'Vegan']	$	
+1970		San Antonio	5	38	['Coffee & Tea', 'Themed Cafes']	$	Five Points
+1971	Eterno	San Antonio	5	23	['Bars', 'Breakfast & Brunch']	$	Downtown
+1972	Barbacoa No 4	San Antonio	5	17	['Barbeque', 'Mexican']	$	
+1973	Cuisine	San Antonio	5	31	['Coffee & Tea', 'Breakfast & Brunch', 'Juice Bars & Smoothies']	$$	
+1974	Mexico	San Antonio	5	60	['Food Trucks', 'Tacos']	$	
+1975	Village Restaurant & Afghan Halal Market	San Antonio	5	15	['Grocery', 'Bakeries', 'Afghan']	$	
+1976	Beer Garden	San Antonio	5	14	['Beer Bar', 'Beer Gardens', 'Pizza']	$	
+1977	Feria Del Taco	San Antonio	5	13	['Tacos', 'Food Trucks']	$	
+1978	Barbacoa	San Antonio	5	12	['Mexican']	$	
+1979	Ba 9	San Antonio	5	12	['Vietnamese', 'Chinese']	$	
+1980	Family Restaurant	San Antonio	5	32	['Cajun/Creole']	$$	
+1981	Mexican Restaurant	San Antonio	5	10	['Mexican']	$	
+1982	Sueño de Lola	San Antonio	5	10	['Food Trucks', 'Mexican']	$	
+1983	Bendita	San Antonio	5	10	['Juice Bars & Smoothies', 'Mexican', 'Ice Cream & Frozen Yogurt']	$	
+1984	Vida	San Antonio	5	37	['Mexican', 'American (New)', 'Juice Bars & Smoothies']	$$	
+1985	Coffee Shack	San Antonio	5	18	['Coffee & Tea', 'Latin American', 'Patisserie/Cake Shop']	$$	Downtown
+1986	Vegan Eats	San Antonio	5	61	['Vegan']	$$	
+1987	Milanesa Restaurant & Grill	San Antonio	5	34	['Latin American', 'Argentine', 'Empanadas']	$$	
+1988		San Antonio	5	8	['Mexican']	$$	
+1989	Sweets	San Antonio	5	45	['Bakeries', 'Gluten-Free', 'Desserts']	$$	Tobin Hill
+1990	Magpie	San Antonio	5	133	['American (New)']	$$	Eastside
+1991	Gourmet Street Dogz	San Antonio	5	29	['Food Stands', 'Hot Dogs']	$$	
+1992	El Popo	San Antonio	5	78	['Burgers', 'Sandwiches']	$	
+1993	Mexican Snack Bar	San Antonio	5	21	['Mexican', 'Shaved Ice', 'Ice Cream & Frozen Yogurt']	$	
+1994	Thing	San Antonio	5	7	['Asian Fusion']	$	
+1995	Bites	San Antonio	5	7	['Food Trucks', 'Hot Dogs', 'Burgers']	$	
+1996	Curry Restaurant	San Antonio	5	14	['Thai', 'Bubble Tea']	$$	Oak Park/Northwood
+1997	F33D	San Antonio	5	7	['Breakfast & Brunch', 'Juice Bars & Smoothies', 'Do-It-Yourself Food']	$$	Medical Center
+1998	Taco Truck	San Antonio	5	7	['Food Trucks', 'Tacos']	$$	Woodlawn Lake
+1999	Mexican Eatery	San Antonio	5	82	['Food Trucks', 'Mexican']	$	San Antonio
+2000	Kitchen	San Antonio	5	108	['Vegan']	$$	
+2001	El Takin	San Antonio	5	54	['Mexican', 'Food Trucks']	$	
+2002	with Tay	San Antonio	5	66	['Sandwiches', 'Comfort Food']	$	
+2003	Philly’s Phamous	San Antonio	5	13	['Food Trucks', 'Cheesesteaks', 'Sandwiches']	$	
+2004	Cafe - San Antonio	San Antonio	5	1030	['Breakfast & Brunch']	$$	
+2005	Provider	San Antonio	5	92	['Food Trucks', 'Burgers', 'American (New)']	$$	
+2006	Eatery & Coffee	San Antonio	5	158	['Cafes', 'Breakfast & Brunch', 'Sandwiches']	$$	
+2007	Bento & Bowl	San Antonio	5	6	['Japanese']	$$	
+2008	Hip Coffee	San Antonio	5	6	['Coffee & Tea', 'Pop-Up Restaurants']	$$	Terrell Heights
+2009	Mini Tacos	San Antonio	5	6	['Food Trucks', 'Mexican']	$	
+2010	Jefe Baja Style	San Antonio	5	6	['Seafood', 'Food Trucks', 'Caterers']	$	San Antonio
+2011	Burgers-n-More	San Antonio	5	6	['Burgers', 'Food Trucks']	$	
+2012	Zacatecas Taco Truck	San Antonio	5	6	['Food Trucks', 'Tacos']	$	
+2013	Molino 3	San Antonio	5	6	['Mexican', 'Grocery']	$	
+2014	Mexican Restaurant	San Antonio	5	6	['Mexican']	$	Eastside
+2015	on Losoya	San Antonio	5	6	['Food Trucks', 'Pizza']	$	Downtown
+2016	Cali Baja Mexican Grill	San Antonio	5	89	['Mexican', 'Latin American', 'Seafood']	$	
+2017	Deli Stop N Buy	San Antonio	5	1802	['Delis', 'Cheesesteaks', 'Sandwiches']	$$	
+2018	Meals	San Antonio	5	29	['Falafel', 'Burgers', 'Fast Food']	$$	Mahncke Park
+2019	La Salsita	San Antonio	5	46	['Mexican', 'Food Trucks']	$	
+2020	Store @ Stone Oak Parkway	San Antonio	5	23	['Bakeries', 'International Grocery', 'Filipino']	$	Stone Oak
+2021		San Antonio	5	34	['Wine Bars', 'Tapas/Small Plates', 'Cafes']	$$	Eastside
+2022	El Potro	San Antonio	5	17	['Food Trucks', 'Tacos']	$$	
+2023	Bajo Cero Ice Cream	San Antonio	5	11	['Shaved Ice', 'Ice Cream & Frozen Yogurt', 'Waffles']	$	
+2024	El Rapido	San Antonio	5	11	['Food Trucks', 'Tacos']	$	
+2025		San Antonio	5	48	['Mediterranean', 'Wine Bars']	$	Tobin Hill
+2026	Burgers	San Antonio	5	76	['Burgers', 'Fast Food', 'Tacos']	$	
+2027		San Antonio	5	35	['Cocktail Bars', 'Comfort Food', 'Lounges']	$$	Eastside
+2028	Hacienda Products	San Antonio	5	10	['Specialty Food', 'Comfort Food', 'Mexican']	$$	
+2029	Amigo Snack	San Antonio	5	5	['Food Stands', 'Ice Cream & Frozen Yogurt']	$$	
+2030	Tacos & Tortas	San Antonio	5	5	['Mexican']	$	
+2031	313 Pizza - Coming Soon	San Antonio	5	5	['Pizza']	$	
+2032	Sultana Mexican Resturant	San Antonio	5	5	['Mexican']	$	Los Angeles Heights
+2033	Barbacoa	San Antonio	5	5	['Barbeque']	$	
+2034	Cafe	San Antonio	5	5	['Cafes', 'Breakfast & Brunch', 'Tex-Mex']	$	
+2035	Quesadillas - Mexican Quekas	San Antonio	5	10	['Mexican']	$	
+2036	Shed Dinners	Dallas	5	5	['Diners']	$	Downtown
+2037	La Norteña	Dallas	5	7	['Mexican']	$	Oak Cliff
+2038	ARC Drafthouse	Dallas	5	10	['American (Traditional)']	$	Oak Lawn
+2039	Tower Deli	Dallas	5	5	['Delis']	$	North Dallas
+2040	club and Vietnamese Restaurant	Dallas	5	7	['Vietnamese', 'Soup', 'Asian Fusion']	$	
+2041	XYZ Bar	Dallas	5	6	['Venues & Event Spaces', 'Tapas/Small Plates', 'Cocktail Bars']	$$	
+2042	El Pueblo	Dallas	5	5	['Tacos']	$$	
+2043	Food Court - Lewisville	Dallas	5	5	['Fast Food', 'Food Court']	$$	
+2044	wellness cafe	Dallas	5	7	['Cafes', 'Coffee & Tea', 'Health Markets']	$$	
+2045	Hill Coffee Shop	Dallas	5	5	['Coffee & Tea', 'Cafeteria', 'Asian Fusion']	$	North Dallas
+2046	Mint - Addison	Dallas	5	7	['Thai', 'Asian Fusion']	$	
+2047	Kitchen	Dallas	5	6	['Steakhouses']	$	East Dallas
+2048	Maid Donuts	Dallas	5	5	['Food Delivery Services', 'Tacos', 'Donuts']	$	Design District
+2049	Cakes	Dallas	5	5	['Cupcakes', 'Custom Cakes', 'Vegan']	$	Downtown
+2050	Y Chelas	Dallas	5	10	['Tacos', 'Chicken Wings', 'Breakfast & Brunch']	$	Oak Cliff
+2051	Sarandeados Juanito	Dallas	5	5	['Mexican']	$	Oak Cliff
+2052	Gaek	Dallas	5	5	['Noodles']	$$	
+2053	Valley Food	Dallas	5	8	['Vegan', 'Mexican']	$$	Downtown
+2054	Noodle House	Dallas	5	6	['Vietnamese']	$$	
+2055	Baked Ham Company	Dallas	5	5	['Delis', 'Meat Shops', 'Sandwiches']	$$	
+2056		Dallas	5	5	['Italian', 'Pizza']	$$	
+2057	Fritta	Dallas	5	13	['Pizza']	$$	Oak Cliff
+2058	Cafe	Dallas	5	18	['Mexican']	$$	Oak Cliff
+2059	Restaurant	Dallas	5	14	['Mexican', 'Breakfast & Brunch']	$$	North Dallas
+2060		Dallas	5	9	['Tacos']	$$	South Dallas
+2061	Chifrijo Puerto Rican Fusion	Dallas	5	5	['Food Trucks', 'Puerto Rican', 'Gluten-Free']	$$	Farmers Branch
+2062	Banchannara	Dallas	5	6	['Korean', 'Specialty Food']	$$	
+2063	Burger House	Dallas	5	10	['Burgers']	$$	
+2064		Dallas	5	5	['Gas Stations', 'Convenience Stores', 'Fast Food']	$	
+2065	Morenas Tacos	Dallas	5	5	['Food Trucks', 'Tacos']	$	Garland
+2066	of India	Dallas	5	17	['Indian']	$	
+2067	Brasserie	Dallas	5	6	['Brasseries', 'Belgian', 'Bars']	$	Lower Greenville
+2068	Brazilian Steakhouse	Dallas	5	25	['Steakhouses', 'Brazilian', 'Cocktail Bars']	$	
+2069	Primos Tacos & More	Dallas	5	7	['Food Delivery Services', 'Tacos']	$	
+2070	Y Restaurante Morazan	Dallas	5	5	['Cafes', 'Bakeries']	$	Oak Cliff
+2071	Waffles	Dallas	5	6	['Breakfast & Brunch', 'Burgers', 'Waffles']	$	
+2072	Ellum Taproom And Kitchen	Dallas	5	6	['American (Traditional)']	$	
+2073	Bop Bop	Dallas	5	11	['Korean', 'Food Trucks']	$$	
+2074	Sushi Poke & Grill	Dallas	5	6	['Sushi Bars', 'Japanese', 'Poke']	$$	Oak Lawn
+2075	Kitchen	Dallas	5	25	['American (New)', 'Mexican', 'French']	$$	
+2076	Thai 2 Go	Dallas	5	49	['Thai', 'Bubble Tea', 'Asian Fusion']	$$	
+2077		Dallas	5	21	['Dominican', 'Latin American', 'Pop-Up Restaurants']	$$	Oak Lawn
+2078	Shuffle	Dallas	5	56	['Bars', 'Venues & Event Spaces', 'American (New)']	$$	Deep Ellum
+2079	Encased Food Truck	Dallas	5	30	['Food Stands', 'Food Trucks', 'Caterers']	$$	Dallas
+2080	Wok	Dallas	5	15	['Chicken Shop', 'Noodles', 'Asian Fusion']	$$	
+2081	Padaek	Dallas	5	11	['Laotian', 'Thai', 'Noodles']	$$	
+2082		Dallas	5	31	['Mexican', 'Diners', 'Breakfast & Brunch']	$	North Dallas
+2083	Eats	Dallas	5	10	['Laotian', 'Bars', 'Juice Bars & Smoothies']	$	Oak Lawn
+2084	Grill	Dallas	5	10	['Mediterranean', 'Desserts', 'Lebanese']	$$	
+2085	Garden Café	Dallas	5	19	['Cafes']	$$	Lake Highlands
+2086	Box Dallas	Dallas	5	37	['Sushi Bars', 'Japanese']	$$	North Dallas
+2087	Viet	Dallas	5	9	['Vietnamese']	$$	
+2088	Naeng Myeon	Dallas	5	26	['Noodles', 'Korean']	$$	
+2089	Bistro	Dallas	5	60	['Coffee & Tea', 'Breakfast & Brunch', 'Sandwiches']	$$	
+2090	Cuisine	Dallas	5	77	['Italian', 'Vegetarian', 'Mexican']	$$	
+2091	Coffee	Dallas	5	67	['Cafes', 'Coffee & Tea', 'Donuts']	$	Oak Cliff
+2092	Street Food	Dallas	5	8	['Pan Asian']	$	Oak Cliff
+2093	Mediterranean Grill	Dallas	5	8	['Mediterranean']	$	
+2094	Kitchen	Dallas	5	60	['Filipino', 'Salad', 'Sandwiches']	$	Northeast Dallas
+2095	Cafe	Dallas	5	22	['Cafes', 'Breakfast & Brunch', 'American (Traditional)']	$	
+2096	Just Q	Dallas	5	102	['Food Trucks', 'Barbeque']	$$	Dallas
+2097	Mami	Dallas	5	131	['Acai Bowls', 'Juice Bars & Smoothies', 'Vegan']	$	
+2098	Town Bakery	Dallas	5	7	['Bakeries', 'Mexican']	$	
+2099	Compadres Taqueria	Dallas	5	14	['Mexican']	$	
+2100	Lola	Dallas	5	7	['Mexican', 'Food Stands']	$	Lower Greenville
+2101	Dumpling House	Dallas	5	14	['Korean']	$	
+2102	Warriors	Dallas	5	7	['Chicken Shop', 'Comfort Food', 'Gastropubs']	$	
+2103	Deli	Dallas	5	26	['Delis', 'Pizza', 'Sandwiches']	$	North Dallas
+2104		Dallas	5	45	['Coffee & Tea', 'Cafes', 'Bakeries']	$	
+2105	Cafe	Dallas	5	57	['American (Traditional)', 'Salad', 'Breakfast & Brunch']	$	
+2106	Brothers	Dallas	5	95	['Breakfast & Brunch', 'Burgers']	$$	
+2107	1115	Dallas	5	31	['Wine Bars', 'Restaurants']	$$	Oak Cliff
+2108	No Mo Butter Cakes Mobile Cafe and Bakery	Dallas	5	18	['Desserts', 'Food Trucks', 'American (Traditional)']	$	Garland
+2109	Chifrijo Puerto Rican Fusion	Dallas	5	12	['Food Trucks', 'Latin American']	$	Farmers Branch
+2110	Sakana Uptown	Dallas	5	35	['Japanese', 'Sushi Bars']	$	Uptown
+2111	and Go	Dallas	5	23	['Breakfast & Brunch', 'Fast Food', 'Salad']	$	North Dallas
+2112	- Hot Pot Korean	Dallas	5	17	['Korean']	$	
+2113		Dallas	5	49	['Middle Eastern', 'Arabic', 'Mediterranean']	$	
+2114	Oak Cliff	Dallas	5	74	['Vegan', 'Juice Bars & Smoothies', 'Salad']	$$	South Dallas
+2115	O1 Dallas	Dallas	5	79	['Pizza', 'Italian', 'Salad']	$$	
+2116	Stone & Korean Kitchen	Dallas	5	21	['Korean']	$$	
+2117	Chocolatier	Dallas	5	98	['Chocolatiers & Shops', 'Vegan', 'Coffee & Tea']	$$	Bishop Arts District
+2118	Piñita	Dallas	5	41	['Tacos', 'Breakfast & Brunch']	$$	
+2119	Cafe	Dallas	5	10	['Cheesesteaks', 'Breakfast & Brunch', 'Cafes']	$$	
+2120	Texican	Dallas	5	5	['Mexican', 'Coffee & Tea', 'Breakfast & Brunch']	$$	
+2121	Pete’s - Preston Forest	Dallas	5	5	['Tex-Mex', 'Mexican']	$$	North Dallas
+2122	Lakehouse Waterfront Lounge	Dallas	5	5	['Lounges', 'American (New)']	$$	
+2123	Mediterranean Grill & Bar	Dallas	5	80	['Mediterranean', 'Turkish', 'Halal']	$$	North Dallas
+2124	Taqueria	Dallas	5	5	['Mexican']	$	
+2125	Pizza & Pasta	Dallas	5	5	['Italian']	$	
+2126	Mama’s Bar-B-Que	Dallas	5	5	['Barbeque']	$	
+2127	Original Corny Dogs	Dallas	5	5	['Food Trucks', 'Hot Dogs']	$	Dallas
+2128	Jalisco’s	Dallas	5	5	['Mexican']	$	Oak Cliff
+2129		Dallas	5	5	['Sandwiches']	$	Downtown
+2130	Monterrey Restaurant	Dallas	5	25	['Mexican', 'Breakfast & Brunch', 'Burgers']	$	
+2131	Huế	Dallas	5	15	['Coffee & Tea', 'Noodles', 'Vietnamese']	$	
+2132	Pedro’s	Dallas	5	254	['Latin American', 'Honduran', 'Breakfast & Brunch']	$$	North Dallas
+2133		Dallas	5	91	['Tacos', 'Salvadoran']	$	
+2134	by Civello’s	Dallas	5	19	['Italian']	$	East Dallas
+2135	Tacos	Dallas	5	372	['Tex-Mex', 'Mexican']	$$	
+2136	Lounge	San Diego	5	9	['Hookah Bars', 'Cafes']	$$	
+2137	Mariscos El Gordo	San Diego	5	6	['Seafood', 'Tacos']	$$	
+2138	Tacos	San Diego	5	10	['Tacos', 'Caterers', 'Street Vendors']	$$	North Park
+2139	Tacos & Catering	San Diego	5	9	['Caterers', 'Mexican']	$	Mount Helix
+2140	Caribe	San Diego	5	6	['Mexican', 'Food Stands']	$	
+2141	RieRie	San Diego	5	47	['Indonesian']	$	Serra Mesa
+2142	And Grind Coffee	San Diego	5	10	['Food Trucks', 'Coffee & Tea', 'Breakfast & Brunch']	$	Linda Vista
+2143	by Acquerello	San Diego	5	8	['Modern European', 'Italian']	$	La Jolla
+2144	Mobile BBQ & Catering	San Diego	5	5	['Food Trucks', 'Barbeque', 'Caterers']	$	
+2145	Birria	San Diego	5	26	['Food Trucks', 'Tacos']	$	South Park
+2146	Craft Tacos	San Diego	5	69	['Caterers', 'Tacos', 'New Mexican Cuisine']	$	City Heights
+2147		San Diego	5	5	['Japanese']	$	Kearny Mesa
+2148	Poke Shop & More	San Diego	5	6	['Poke', 'Juice Bars & Smoothies', 'Sandwiches']	$	
+2149	Taiyaki	San Diego	5	8	['Desserts', 'Japanese', 'Donuts']	$	North Park
+2150	Wine Bistro	San Diego	5	30	['Wine Bars', 'Tapas/Small Plates']	$$	
+2151	Lokas Las Chingonas DF	San Diego	5	5	['Food Trucks', 'Mexican']	$$	
+2152	Delights	San Diego	5	5	['Caterers', 'Belgian', 'Street Vendors']	$$	Mira Mesa
+2153	Sushi Stand	San Diego	5	5	['Sushi Bars']	$$	Liberty Station
+2154	Lobsters and Seafood	San Diego	5	5	['Seafood']	$$	Kearny Mesa
+2155	Eats	San Diego	5	21	['Desserts', 'Cupcakes', 'Gluten-Free']	$$	Scripps Ranch
+2156	Ethiopian Restaurant	San Diego	5	46	['Ethiopian', 'African', 'Vegetarian']	$$	City Heights
+2157	Heights	San Diego	5	7	['Pop-Up Restaurants', 'Falafel']	$$	North Park
+2158	Jay Pop Up	San Diego	5	6	['Speakeasies', 'Seafood', 'Steakhouses']	$$	East Village
+2159	Ocho	San Diego	5	5	['Street Vendors', 'Mexican']	$$	La Jolla
+2160		San Diego	5	5	['Food Trucks', 'Sandwiches']	$$	Banker's Hill
+2161	BBQ	San Diego	5	8	['Food Trucks', 'Barbeque']	$$	
+2162	& Green	San Diego	5	23	['Coffee Roasteries', 'Coffee & Tea', 'Cafes']	$$	North Park
+2163	Projects	San Diego	5	35	['Cafes']	$$	North Park
+2164	A Birria	San Diego	5	16	['Food Trucks', 'Tacos']	$$	South Park
+2165	Woodfired Pizza	San Diego	5	9	['Food Trucks', 'Pizza']	$$	San Diego
+2166	Supper Club	San Diego	5	5	['Asian Fusion', 'Cocktail Bars']	$$	Gaslamp
+2167	Place Catering	San Diego	5	8	['Caterers', 'Delis']	$$	Scripps Ranch
+2168	El Richi	San Diego	5	26	['Tacos', 'Food Trucks']	$$	Chula Vista
+2169	La Bendición	San Diego	5	15	['Food Trucks', 'Tacos']	$$	San Diego
+2170	Mariscos #2	San Diego	5	5	['Seafood']	$$	Linda Vista
+2171	Cid Brewing	San Diego	5	13	['Brewpubs', 'Gastropubs']	$$	North Park
+2172	Bakery	San Diego	5	12	['Bakeries', 'Argentine', 'Desserts']	$$	Miramar
+2173	Cafe - SDSU	San Diego	5	9	['Coffee & Tea', 'Acai Bowls', 'Breakfast & Brunch']	$$	Rolando
+2174	Krispy Boyz	San Diego	5	13	['Tacos', 'Food Trucks', 'Caterers']	$	San Diego
+2175	Jus	San Diego	5	27	['Juice Bars & Smoothies', 'Vegan', 'Acai Bowls']	$	East Village
+2176	Deli	San Diego	5	19	['Sandwiches', 'Salad', 'Vegan']	$	City Heights
+2177	Burger	San Diego	5	14	['Burgers', 'Fast Food']	$	Barrio Logan
+2178	Cafe	San Diego	5	5	['Delis']	$	
+2179	Pizza	San Diego	5	58	['Pizza', 'Chicken Wings', 'Sandwiches']	$	
+2180	Brewing - Miramar	San Diego	5	94	['Breweries', 'Beer Bar', 'Gluten-Free']	$	
+2181	Paleo Bakery	San Diego	5	51	['Custom Cakes', 'Gluten-Free', 'Cupcakes']	$	Mira Mesa
+2182	Girls Deli	San Diego	5	138	['Delis', 'Sandwiches']	$	North Park
+2183	Heavenly Hot Dogs	San Diego	5	43	['Hot Dogs', 'Food Trucks', 'Caterers']	$	Banker's Hill
+2184	San Thai Kitchen	San Diego	5	21	['Thai', 'Coffee & Tea', 'Noodles']	$$	
+2185	Bros	San Diego	5	21	['Seafood']	$$	Kearny Mesa
+2186	Bistro	San Diego	5	41	['Breakfast & Brunch', 'Coffee & Tea', 'Wine Bars']	$$	
+2187	Cafe	San Diego	5	20	['Breakfast & Brunch', 'Sandwiches', 'Burgers']	$	
+2188	Yummy	San Diego	5	20	['Mexican', 'Juice Bars & Smoothies', 'Ice Cream & Frozen Yogurt']	$	
+2189	Cafe	San Diego	5	39	['Coffee & Tea', 'Cafes']	$	East Village
+2190	Hut Vegan Express City Heights/Talmadge	San Diego	5	19	['Vegan']	$$	City Heights
+2191	Of Denmark	San Diego	5	122	['Scandinavian', 'Comfort Food', 'Sandwiches']	$$	Hillcrest
+2192		San Diego	5	135	['Kombucha', 'Coffee & Tea', 'Vegan']	$	Ocean Beach
+2193	Diego Pizza Company	San Diego	5	29	['Food Trucks', 'Pizza', 'Caterers']	$	Pacific Beach
+2194	Neighborhood Cafe	San Diego	5	14	['Cafes', 'Breakfast & Brunch', 'Sandwiches']	$	Rolando
+2195	Grounds	San Diego	5	13	['Coffee & Tea', 'Sandwiches', 'Mexican']	$	
+2196	Pleasure	San Diego	5	13	['Caribbean']	$	Loma Portal
+2197	Tinh Chay	San Diego	5	717	['Vietnamese', 'Vegan']	$$	City Heights
+2198	La Chorreada	San Diego	5	24	['Food Trucks', 'Tacos']	$$	Bay Park
+2199	bomb	San Diego	5	47	['Cafes', 'Coffee & Tea', 'Desserts']	$	Linda Vista
+2200	Kitchen Eatery & Workspace	San Diego	5	31	['Cafes']	$$	Grantville
+2201	Local Bottle Shop	San Diego	5	10	['Beer, Wine & Spirits', 'Fast Food']	$$	
+2202	Desmond	San Diego	5	19	['Seafood']	$$	
+2203	El Katrin	San Diego	5	19	['Food Trucks', 'Seafood', 'Tacos']	$$	San Diego
+2204	Marketplace and Deli	San Diego	5	9	['Delis']	$$	La Jolla
+2205	El Cabron Jr	San Diego	5	9	['Fast Food', 'Tacos']	$$	South Bay Terraces
+2206	cafe & Market	San Diego	5	9	['Sandwiches', 'Tacos', 'Burgers']	$$	
+2207	La Costeñita	San Diego	5	17	['Juice Bars & Smoothies', 'Mexican', 'Shaved Ice']	$$	Linda Vista
+2208	Munch Grilled Cheezer	San Diego	5	160	['American (Traditional)', 'Sandwiches', 'Breakfast & Brunch']	$	Ocean Beach
+2209	Reyes Snack Bar & Lounge	San Diego	5	42	['Fast Food']	$	
+2210	Courtyard Cafe	San Diego	5	42	['Cafes', 'Food Stands']	$	
+2211	Boyz Tacos	San Diego	5	83	['Food Stands', 'Tacos', 'Caterers']	$$	
+2212		San Diego	5	8	['Kebab', 'Persian/Iranian', 'Food Trucks']	$$	Sorrento Valley
+2213	Social	San Diego	5	24	['Burgers', 'Chicken Wings', 'Beer Bar']	$$	
+2214	Rocket Bar & Grill	San Diego	5	64	['Bars', 'American (Traditional)']	$$	East Village
+2215	Me Up San Diego	San Diego	5	8	['Breakfast & Brunch', 'Vegan', 'Vegetarian']	$$	North Park
+2216	Coffee	San Diego	5	8	['Cafes']	$$	
+2217	Garibaldi	San Diego	5	8	['Sandwiches', 'Juice Bars & Smoothies', 'Salad']	$$	
+2218	- Wine Bar and Restaurant	San Diego	5	316	['Italian', 'Wine Bars', 'Pizza']	$$	Little Italy
+2219	Chow - South African Food	San Diego	5	92	['South African', 'Portuguese', 'Indian']	$$	Miramar
+2220	Pizza Pie	San Diego	5	38	['Pizza', 'Caterers', 'Food Trucks']	$$	
+2221	Mexican Food	San Diego	5	15	['Mexican', 'Food Stands']	$$	
+2222	Coffee	San Diego	5	59	['Cafes', 'Nurseries & Gardening']	$	
+2223	Deli & Brew	San Diego	5	72	['Delis', 'Breweries']	$$	Midway
+2224	Valley Water Store	San Diego	5	21	['Water Stores', 'Shaved Ice', 'Delis']	$	
+2225	TJ Birrieria	San Diego	5	7	['Tacos']	$	Pacific Beach
+2226	Fresh Mexican Grill	San Diego	5	61	['Mexican', 'Desserts', 'Breakfast & Brunch']	$	City Heights
+2227	Green Affair	San Diego	5	20	['Salad', 'Wraps']	$	Hillcrest
+2228		San Diego	5	20	['Hot Dogs', 'Food Trucks', 'Burgers']	$	University Heights
+2229	Kha	San Diego	5	40	['Vietnamese', 'Soup', 'Noodles']	$$	
+2230	Birria Truck	San Diego	5	33	['Food Trucks', 'Tacos']	$$	City Heights
+2231	Barca Authentic Mexican Seafood	San Diego	5	13	['Seafood', 'Mexican', 'Beer Bar']	$$	Loma Portal
+2232	Pizzerolo Italian Grill	San Diego	5	122	['Italian', 'Pizza', 'Pasta Shops']	$	Grantville
+2233	Pizza	San Diego	5	32	['Pizza', 'Food Stands', 'Caterers']	$$	Pacific Beach
+2234	life foods	San Diego	5	89	['Hawaiian', 'Street Vendors', 'Live/Raw Food']	$	Ocean Beach
+2235		San Diego	5	19	['Desserts', 'Coffee & Tea', 'Middle Eastern']	$	Kearny Mesa
+2236	Rey de la Torta	Phoenix	5	7	['Mexican']	$	
+2237	Pasta	Phoenix	5	6	['Food Trucks', 'Italian']	$	Cave Creek
+2238	Vegan	Phoenix	5	5	['Vegan']	$	
+2239	Rim and Sushi	Phoenix	5	5	['Food Trucks', 'Sushi Bars', 'Cooking Classes']	$	
+2240	BBQ	Phoenix	5	14	['Barbeque', 'Food Trucks']	$	Phoenix
+2241	Market	Phoenix	5	16	['International Grocery', 'Acai Bowls', 'Lebanese']	$	
+2242	Soul Food Heaven	Phoenix	5	16	['Soul Food']	$	
+2243	Queen’s Corn	Phoenix	5	12	['Food Stands', 'Popcorn Shops']	$	
+2244	Jake’s Dogs & Catering	Phoenix	5	8	['Hot Dogs', 'Caterers']	$	
+2245	Tea Company	Phoenix	5	22	['Coffee & Tea', 'Vegan', 'Gluten-Free']	$	
+2246	and Gretel Delivery	Phoenix	5	6	['German', 'Food Delivery Services']	$	
+2247	At The Towers	Phoenix	5	6	['Cafes']	$	
+2248		Phoenix	5	6	['Food Trucks', 'Italian', 'Sandwiches']	$	
+2249	Waggin	Phoenix	5	7	['Hot Dogs', 'Caterers', 'American (Traditional)']	$	
+2250	Swine	Phoenix	5	10	['Food Trucks', 'Barbeque']	$	
+2251	Namiquipa	Phoenix	5	6	['Desserts', 'Mexican', 'Convenience Stores']	$	
+2252	Or Swim	Phoenix	5	9	['Food Stands']	$	
+2253	Table AZ	Phoenix	5	6	['Caterers', 'Venues & Event Spaces', 'Pop-Up Restaurants']	$	
+2254	Helen	Phoenix	5	23	['Wine Bars', 'American (Traditional)']	$	
+2255	Mike’s Subs	Phoenix	5	5	['Sandwiches', 'Fast Food']	$	
+2256	Stuffed Breads	Phoenix	5	7	['Food Trucks', 'Desserts', 'Italian']	$	Phoenix
+2257		Phoenix	5	7	['Desserts', 'Mexican']	$	
+2258		Phoenix	5	6	['Burgers']	$	
+2259	Style Grindz	Phoenix	5	5	['Hawaiian', 'Shaved Ice', 'Ice Cream & Frozen Yogurt']	$	
+2260	Tacos	Phoenix	5	7	['Tacos']	$	
+2261	AZ	Phoenix	5	5	['South African', 'Grocery']	$	
+2262	101 Nutrition	Phoenix	5	14	['Juice Bars & Smoothies', 'Coffee & Tea', 'Waffles']	$	
+2263	Berry Cafe	Phoenix	5	32	['Vegan', 'Cafes', 'Acai Bowls']	$	
+2264	Grill N’ Go	Phoenix	5	167	['Mediterranean']	$	
+2265	Bistro Italian and Wood-Fired Pizza	Phoenix	5	16	['Italian', 'Pizza', 'Cocktail Bars']	$	
+2266	Kitchen + Bakery	Phoenix	5	29	['Mediterranean', 'Bakeries', 'Middle Eastern']	$	
+2267	Friend	Phoenix	5	114	['Sushi Bars']	$$	
+2268	Bakery Cafe	Phoenix	5	14	['Gluten-Free', 'Breakfast & Brunch', 'Comfort Food']	$$	
+2269	Güero Birria de Chivo	Phoenix	5	24	['Tacos']	$$	
+2270	Bird Vegan	Phoenix	5	72	['Juice Bars & Smoothies', 'Breakfast & Brunch', 'Sandwiches']	$$	
+2271	Sushi	Phoenix	5	12	['Food Trucks', 'Sushi Bars']	$$	
+2272	El Wicho	Phoenix	5	23	['Seafood', 'Mexican']	$$	
+2273	Restaurant	Phoenix	5	148	['American (New)', 'Bars']	$$$$	
+2274	Tacos	Phoenix	5	11	['Caterers', 'Mexican']	$$$$	
+2275	Y Panaderia El Oaxaqueno	Phoenix	5	11	['Mexican', 'Meat Shops']	$$$$	
+2276	Way	Phoenix	5	11	['Mexican', 'Food Delivery Services']	$$$$	
+2277	Commons	Phoenix	5	33	['Coffee & Tea', 'Salad', 'Sandwiches']	$	
+2278	Bakery & Creamery	Phoenix	5	97	['Desserts', 'Vegan', 'Ice Cream & Frozen Yogurt']	$	
+2279	Coffeehouse & Bakery	Phoenix	5	51	['Coffee & Tea', 'Breakfast & Brunch', 'Sandwiches']	$	
+2280	Dog House	Phoenix	5	10	['Food Stands', 'Barbeque', 'American (New)']	$	
+2281	Foods Cafe and Market	Phoenix	5	139	['Cafes', 'Health Markets', 'Salad']	$$	
+2282	Mongolian Grill	Phoenix	5	38	['Chinese']	$$	
+2283	De Falafel	Phoenix	5	324	['Mediterranean', 'Vegan', 'Middle Eastern']	$	
+2284	Seltzer	Phoenix	5	46	['Beer Bar', 'Cocktail Bars', 'Pizza']	$	
+2285		Phoenix	5	82	['Vegan', 'Mexican', 'Wraps']	$	
+2286	goods	Phoenix	5	81	['Coffee & Tea', 'Breakfast & Brunch', 'Juice Bars & Smoothies']	$$	
+2287	Soundtracks Venezuelan Cuisine	Phoenix	5	18	['Venezuelan', 'Food Trucks']	$$	Avondale
+2288	Kitchen	Phoenix	5	10	['Food Stands']	$$	
+2289	Canyon Cafe	Phoenix	5	201	['Gelato', 'Creperies', 'Sandwiches']	$	
+2290	Frosted	Phoenix	5	17	['Desserts', 'Vegan', 'Cupcakes']	$	
+2291	Pancho Mexican Food	Phoenix	5	59	['Mexican']	$	
+2292	Jalisco Mexican Food	Phoenix	5	25	['Tacos']	$	
+2293	Raices Café	Phoenix	5	16	['Coffee & Tea', 'Cafes', 'Mexican']	$	
+2294	One Cafe	Phoenix	5	16	['Delis', 'Sandwiches', 'Breakfast & Brunch']	$	
+2295	Lobster	Phoenix	5	8	['Sandwiches', 'Coffee & Tea', 'Breakfast & Brunch']	$	
+2296	Hot Dogs	Phoenix	5	23	['Hot Dogs', 'Street Vendors']	$	
+2297	Coffee and Pastry	Phoenix	5	37	['Coffee & Tea', 'Sandwiches', 'Bakeries']	$	
+2298	Original Marketplace	Phoenix	5	22	['Breakfast & Brunch']	$	
+2299	Cultivate	Phoenix	5	29	['Coffee & Tea', 'Cafes', 'American (Traditional)']	$	
+2300	Super Taco	Phoenix	5	151	['Tacos']	$	
+2301	Corner Market	Phoenix	5	107	['Grocery', 'Convenience Stores', 'Delis']	$	
+2302	Heart Mac & Cheese Scottsdale	Phoenix	5	7	['American (Traditional)']	$	
+2303	+ Graze	Phoenix	5	112	['Cheese Shops', 'Sandwiches', 'Desserts']	$$	
+2304	Burger	Phoenix	5	49	['Vegan', 'Burgers', 'Vegetarian']	$$	
+2305	Bee Gourmet Tacos and Frybread	Phoenix	5	21	['Food Trucks', 'Tacos']	$$	Gilbert
+2306	At Wrigley Mansion	Phoenix	5	21	['French', 'Modern European', 'Venues & Event Spaces']	$$	
+2307	Emina	Phoenix	5	7	['Breakfast & Brunch', 'Cafes']	$$	
+2308	&	Phoenix	5	7	['Korean']	$$	
+2309	of Sourdough	Phoenix	5	21	['Soup', 'Sandwiches', 'Salad']	$$	
+2310	Coffee Co	Phoenix	5	144	['Bakeries', 'Coffee Roasteries', 'French']	$$	
+2311	Station	Phoenix	5	89	['Grocery', 'Convenience Stores', 'Delis']	$	
+2312	Cafe	Phoenix	5	47	['American (New)', 'Sandwiches', 'Soup']	$	
+2313	Donuts	Phoenix	5	20	['Donuts', 'Breakfast & Brunch', 'Juice Bars & Smoothies']	$	
+2314	El Herradero	Phoenix	5	13	['International Grocery', 'Mexican']	$	
+2315	Amigo’s	Phoenix	5	39	['Mexican']	$	
+2316	Restaurant	Phoenix	5	26	['Breakfast & Brunch']	$	
+2317		Phoenix	5	13	['Sushi Bars', 'Mexican']	$	
+2318	Nate’s Family BBQ	Phoenix	5	129	['Barbeque', 'Food Delivery Services']	$$	
+2319	Dogs	Phoenix	5	32	['Hot Dogs', 'Food Stands']	$	
+2320	Tacos & Burritos	Phoenix	5	25	['Mexican']	$	
+2321	New York Style Deli	Phoenix	5	380	['Delis', 'Sandwiches']	$$	
+2322	Sweet Shoppe	Phoenix	5	31	['Bakeries', 'Desserts', 'Sandwiches']	$$	
+2323	Mocha Coffee	Phoenix	5	43	['Coffee & Tea', 'Sandwiches', 'Bagels']	$	
+2324	Restaurant Coffee & Bar	Phoenix	5	5	['Puerto Rican', 'Coffee & Tea']	$	
+2325	Yaqui Mexican Restaurant	Phoenix	5	6	['Tacos']	$	
+2326	61	Phoenix	5	6	['American (Traditional)', 'Bars', 'Breakfast & Brunch']	$	
+2327	G’s Salads & Pastas	Phoenix	5	12	['Salad', 'Italian', 'Pasta Shops']	$$	
+2328	A Todo Mar	Phoenix	5	18	['Seafood', 'Mexican']	$$	
+2329	De Guaymas	Phoenix	5	6	['Mexican', 'Seafood Markets']	$$	
+2330	Cafe and Hookah Lounge	Phoenix	5	35	['Cafes', 'Hookah Bars']	$	
+2331	Takeover	Phoenix	5	116	['Japanese', 'Seafood']	$$	
+2332	Thai Tapas & Bar	Phoenix	5	115	['Thai', 'Tapas Bars', 'Bars']	$$	
+2333	Kitchen Confections	Phoenix	5	148	['Bakeries', 'Health Markets', 'Gluten-Free']	$$	Chandler
+2334	Coffee Bistro	Phoenix	5	17	['Coffee & Tea', 'Salad', 'Sandwiches']	$$	
+2335	Couleur	Philadelphia	5	22	['Vietnamese', 'Coffee & Tea', 'Juice Bars & Smoothies']	$$	Old City
+2336		Philadelphia	5	6	['Georgian']	$$	
+2337	Foods	Philadelphia	5	5	['Mediterranean']	$$	
+2338	Palace	Philadelphia	5	5	['Chinese']	$$	
+2339	Scratch	Philadelphia	5	5	['Chicken Wings']	$$	South Street District
+2340	Mart	Philadelphia	5	5	['Delis', 'Grocery', 'Convenience Stores']	$$	
+2341	The Right Track	Philadelphia	5	7	['Coffee & Tea', 'Breakfast & Brunch']	$$	
+2342	Mediterranean Grill	Philadelphia	5	15	['Mediterranean']	$$	
+2343	Taco	Philadelphia	5	8	['Mexican', 'Latin American']	$$	University City
+2344	Hat Coffee Lounge	Philadelphia	5	24	['Coffee & Tea', 'Waffles', 'Coffee Roasteries']	$$	University City
+2345	Grub Spot	Philadelphia	5	8	['Venezuelan']	$$	Passyunk Square
+2346		Philadelphia	5	9	['Japanese', 'Sushi Bars']	$$	Callowhill
+2347	Mini Hoagies	Philadelphia	5	17	['Sandwiches', 'Salad', 'Food Trucks']	$$	Voorhees
+2348	on the DL	Philadelphia	5	5	['Sandwiches', 'Breakfast & Brunch', 'Salad']	$$	
+2349	Sustainable Seafood	Philadelphia	5	9	['Seafood Markets', 'Seafood']	$$	Kensington
+2350	Cafe	Philadelphia	5	6	['Vietnamese']	$$	
+2351	Rittenhouse	Philadelphia	5	5	['Italian', 'Gelato', 'Sandwiches']	$$	Rittenhouse Square
+2352	Crusader Inn	Philadelphia	5	5	['Bars', 'Chicken Wings']	$	
+2353	Deli	Philadelphia	5	9	['Delis', 'Sandwiches']	$	Port Richmond
+2354	City Kitchen	Philadelphia	5	8	['Pop-Up Restaurants', 'Team Building Activities', 'Cooking Schools']	$	Old City
+2355		Philadelphia	5	7	['Pizza', 'Mexican', 'Burgers']	$	
+2356	Kabob King	Philadelphia	5	5	['Afghan', 'Mediterranean']	$	Byberry
+2357	Chicken & Gyro	Philadelphia	5	7	['Halal', 'Burgers', 'Mediterranean']	$	
+2358	Galley	Philadelphia	5	8	['American (Traditional)', 'Chicken Wings', 'Polish']	$	Fishtown
+2359	Hsing’s	Philadelphia	5	8	['Chinese', 'Seafood', 'American (Traditional)']	$	Point Breeze
+2360	Saigon Cafe	Philadelphia	5	5	['Vietnamese']	$	Chinatown
+2361	Lucky Bones	Philadelphia	5	13	['Breakfast & Brunch', 'Cafes', 'Coffee & Tea']	$	
+2362	Guero Mexican Food Truck	Philadelphia	5	7	['Mexican']	$	Templetown
+2363	Bakery and Cafe	Philadelphia	5	10	['Coffee & Tea', 'Bakeries', 'Breakfast & Brunch']	$	
+2364	House Mediterranean Cuisine	Philadelphia	5	5	['Halal', 'Mediterranean', 'Syrian']	$	
+2365	2 State Seafood	Philadelphia	5	5	['Seafood', 'Sandwiches']	$	
+2366	From Greece	Philadelphia	5	11	['Greek', 'Bakeries', 'Coffee & Tea']	$	Powelton Village
+2367	Pub	Philadelphia	5	14	['Pubs', 'American (New)', 'American (Traditional)']	$	Kensington
+2368	Onda	Philadelphia	5	6	['Tacos']	$	Art Museum District
+2369	Stop Coffee	Philadelphia	5	5	['Coffee & Tea', 'Bagels', 'Breakfast & Brunch']	$	
+2370	Bistro	Philadelphia	5	6	['American (New)']	$	Powelton Village
+2371	& More	Philadelphia	5	9	['Juice Bars & Smoothies', 'Acai Bowls', 'Wraps']	$	
+2372	Gyro Lunch	Philadelphia	5	11	['Food Stands', 'Middle Eastern', 'Halal']	$	Templetown
+2373	Soul Plate	Philadelphia	5	9	['Soul Food', 'Caribbean', 'Food Stands']	$	
+2374	Shop Deli	Philadelphia	5	5	['Delis', 'Grocery']	$	
+2375	Place	Philadelphia	5	7	['Caterers', 'Delis']	$	
+2376	Fat Dogs - Temp. CLOSED	Philadelphia	5	93	['Sandwiches']	$	
+2377	Meats & More	Philadelphia	5	25	['Meat Shops', 'Delis', 'Sandwiches']	$	
+2378	Deli	Philadelphia	5	22	['Convenience Stores', 'Delis']	$	Manayunk
+2379	Up Café	Philadelphia	5	22	['Vietnamese']	$	Bella Vista
+2380	Ya	Philadelphia	5	21	['Japanese', 'Sushi Bars']	$	Avenue of the Arts North
+2381	Deli	Philadelphia	5	65	['Delis', 'Sandwiches']	$	Passyunk Square
+2382		Philadelphia	5	79	['Italian', 'International Grocery', 'Delis']	$	Fishtown
+2383	and Platters	Philadelphia	5	47	['Afghan', 'Halal', 'Mediterranean']	$	Rittenhouse Square
+2384	Heart	Philadelphia	5	15	['Breakfast & Brunch', 'Tex-Mex']	$	Bella Vista
+2385	Cafe	Philadelphia	5	30	['Cafes']	$	Germantown
+2386	Gables Cafe	Philadelphia	5	14	['Coffee & Tea', 'Italian']	$	
+2387	Russo’s Pizzeria	Philadelphia	5	27	['Italian', 'Pizza']	$	
+2388	Hot Dog Cart	Philadelphia	5	25	['Food Stands']	$	Grays Ferry
+2389	Sushi & Poke	Philadelphia	5	60	['Japanese', 'Sushi Bars', 'Poke']	$$	
+2390	Chingon	Philadelphia	5	12	['Sandwiches', 'Tacos']	$$	Passyunk Square
+2391	Ida	Philadelphia	5	35	['Coffee & Tea', 'Italian']	$	Girard Estate
+2392	Espresso Bar	Philadelphia	5	35	['Coffee & Tea', 'Sandwiches', 'Desserts']	$	
+2393	Eleven	Philadelphia	5	11	['American (New)']	$	East Passyunk Crossing
+2394	Philly	Philadelphia	5	11	['Caribbean', 'Cafes', 'Breakfast & Brunch']	$	Mount Airy
+2395	Bakery Deli	Philadelphia	5	11	['Delis']	$	
+2396	Crepes	Philadelphia	5	22	['Creperies']	$	
+2397	Plant Based	Philadelphia	5	31	['Vegan']	$$	
+2398	Pop Up Garden - Manayunk	Philadelphia	5	10	['Cocktail Bars', 'Tacos', 'Sandwiches']	$$	Manayunk
+2399	Brazilan Steak Truck	Philadelphia	5	10	['Food Trucks', 'Steakhouses', 'Barbeque']	$	Powelton Village
+2400	Cream & Dreams	Philadelphia	5	40	['Bakeries', 'Coffee & Tea', 'Sandwiches']	$	Francisville
+2401	Tavern - Mayfair	Philadelphia	5	10	['Pubs', 'American (Traditional)']	$	Mayfair
+2402	Era Indian Cuisine	Philadelphia	5	30	['Indian']	$	Chestnut Hill
+2403	BYOB	Philadelphia	5	10	['Italian']	$	Rittenhouse Square
+2404	Coffee Bar	Philadelphia	5	38	['Coffee & Tea', 'Cafes']	$	Francisville
+2405	Hotpot	Philadelphia	5	19	['Hot Pot', 'Seafood']	$	Chinatown
+2406		Philadelphia	5	63	['Mediterranean', 'Tapas/Small Plates']	$	Old City
+2407	Indian Kitchen	Philadelphia	5	27	['Indian', 'Desserts', 'Seafood']	$	Queen Village
+2408	& Ramen	Philadelphia	5	60	['Mexican', 'Vegan', 'Juice Bars & Smoothies']	$$	Society Hill
+2409	Canasta Mexican Food	Philadelphia	5	34	['Mexican']	$$	
+2410	Deli	Philadelphia	5	165	['Delis', 'Breakfast & Brunch', 'Sandwiches']	$	Franklintown
+2411	Bakery & Cafe	Philadelphia	5	8	['Breakfast & Brunch', 'Sandwiches', 'Cafes']	$	
+2412	Corner	Philadelphia	5	8	['Sandwiches', 'Breakfast & Brunch']	$	
+2413	Beer Deli	Philadelphia	5	8	['Delis', 'Beer, Wine & Spirits', 'Sandwiches']	$	Rittenhouse Square
+2414	Cart	Philadelphia	5	16	['Food Stands']	$	Garden Court
+2415	Fresh Burger Stop	Philadelphia	5	8	['Food Stands', 'Burmese']	$	
+2416	Cafe	Philadelphia	5	8	['Restaurants']	$	Port Richmond
+2417	Deli	Philadelphia	5	16	['Delis']	$	East Passyunk Crossing
+2418	Puebla Taqueria & Cafe	Philadelphia	5	8	['Tacos']	$	
+2419	Station Diner	Philadelphia	5	15	['Breakfast & Brunch', 'Comfort Food', 'Diners']	$	Walnut Hill
+2420	Sausage	Philadelphia	5	15	['Meat Shops', 'Cheese Shops', 'Italian']	$	
+2421	Mom’s Kitchen and Polish Food Cart	Philadelphia	5	104	['Polish', 'Food Trucks']	$$	Philadelphia
+2422	Fresh Meats	Philadelphia	5	37	['Delis', 'Sandwiches', 'Meat Shops']	$$	Fishtown
+2423	Indian Cuisine	Philadelphia	5	22	['Indian', 'Seafood', 'Chicken Shop']	$$	
+2424	Mi Quang	Philadelphia	5	73	['Vietnamese']	$	
+2425	Grub	Philadelphia	5	7	['Mediterranean', 'Food Trucks', 'Halal']	$	Rhawnhurst
+2426	Hot Dog Cart	Philadelphia	5	7	['Fast Food', 'Hot Dogs']	$	South Street District
+2427		Philadelphia	5	14	['Vegan']	$	Northern Liberties
+2428	Hansi	Philadelphia	5	7	['Modern European', 'Desserts', 'American (New)']	$	Rittenhouse Square
+2429	Click	Philadelphia	5	7	['Cafes', 'French', 'Beer, Wine & Spirits']	$	Penn Center
+2430	Food Truck	Philadelphia	5	20	['Food Trucks', 'Halal']	$	Roxborough
+2431		Philadelphia	5	53	['Peruvian', 'Salad', 'Soup']	$	
+2432	Brew & Mini Mart	Philadelphia	5	26	['Cafes', 'Convenience Stores', 'Ethiopian']	$	
+2433		Philadelphia	5	13	['Asian Fusion', 'Japanese', 'Sushi Bars']	$	
+2434		Philadelphia	5	13	['Seafood', 'Vegan', 'Burgers']	$	Spring Garden
+2435		Houston	5	10	['Italian']	$	Highland Village
+2436	Fish - Temp. CLOSED	Houston	5	11	['Food Trucks', 'Tacos', 'Seafood']	$	Houston
+2437	Sweets	Houston	5	14	['Desserts', 'Middle Eastern']	$	Sharpstown
+2438	Juana’s Dominican Restaurant	Houston	5	6	['Dominican']	$	West Oaks
+2439	BBQ	Houston	5	8	['Barbeque', 'Smokehouse', 'Halal']	$	The Heights
+2440	Cuscatleco Cafeteria	Houston	5	7	['Salvadoran', 'Cafeteria']	$	Alief
+2441	Ceviche	Houston	5	10	['Food Stands']	$	
+2442	Cafe	Houston	5	5	['Breakfast & Brunch', 'Soup', 'Sandwiches']	$	West Oaks
+2443		Houston	5	5	['Sandwiches']	$	
+2444	2 Bowls	Houston	5	5	['Vietnamese']	$	South Belt/Ellington
+2445	Mom	Houston	5	18	['Mexican']	$	
+2446	Y Mas Las Parados	Houston	5	5	['Food Trucks', 'Mexican']	$	Houston
+2447	La Norteñita	Houston	5	9	['Mexican', 'Desserts', 'Pancakes']	$	Minnetex
+2448	Sandwich	Houston	5	9	['Food Trucks', 'Sandwiches']	$	
+2449	Sinai	Houston	5	5	['Latin American', 'Middle Eastern']	$	
+2450	Bugs	Houston	5	6	['Cajun/Creole', 'Seafood']	$$	
+2451	Mincho’s	Houston	5	8	['Mexican']	$$	
+2452	Loco Truck	Houston	5	5	['Food Trucks', 'Mexican']	$$	Northside/Northline
+2453		Houston	5	9	['Food Trucks', 'Pakistani', 'Halal']	$$	Sixth Ward
+2454	Southern Cuisine	Houston	5	6	['Food Trucks', 'Southern']	$$	
+2455	Cold Meats 2- Cypress	Houston	5	5	['Butcher', 'Meat Shops', 'Sandwiches']	$$	
+2456		Houston	5	8	['Middle Eastern', 'Halal']	$$	Gulfton
+2457	Tacos	Houston	5	7	['Tacos', 'Breakfast & Brunch']	$$	
+2458	Gourmet	Houston	5	6	['Kosher', 'Sandwiches']	$	Meyerland
+2459	Huandacareo	Houston	5	6	['Food Trucks', 'Mexican']	$	Houston
+2460	Donuts	Houston	5	17	['Donuts', 'Breakfast & Brunch']	$	South Belt/Ellington
+2461	Donuts	Houston	5	6	['Breakfast & Brunch', 'Donuts', 'Burgers']	$	Hunterwood
+2462	Deli	Houston	5	7	['Delis', 'Sandwiches', 'Fast Food']	$	Sharpstown
+2463	John	Houston	5	5	['Food Trucks', 'American (Traditional)']	$	Sixth Ward
+2464	Coffee	Houston	5	17	['Cafes', 'Coffee & Tea']	$	
+2465	Moon Deli	Houston	5	6	['Delis', 'Breakfast & Brunch', 'Burgers']	$	Greenspoint
+2466	Snow Cones & Taqueria	Houston	5	5	['Mexican', 'Food Stands']	$	
+2467	Huong	Houston	5	6	['Specialty Food', 'Vietnamese']	$	Alief
+2468	Xpress	Houston	5	10	['Food Trucks', 'Seafood', 'Caterers']	$	Galleria/Uptown
+2469	Café	Houston	5	5	['Bakeries', 'Cafes']	$	South Belt/Ellington
+2470	Creole	Houston	5	12	['Cajun/Creole', 'Burgers', 'Chicken Wings']	$	
+2471	La Costa Sinaloa	Houston	5	7	['Seafood', 'Mexican', 'Food Trucks']	$	
+2472	Tacos	Houston	5	5	['Food Trucks', 'Tex-Mex']	$	Alief
+2473	Pollo Con Tajadas	Houston	5	7	['Honduran', 'Salvadoran']	$	
+2474	El Sabor De Jalisco	Houston	5	5	['Mexican']	$	Westbury
+2475	Grill	Houston	5	7	['American (Traditional)']	$	Memorial
+2476	Vilchis	Houston	5	10	['Mexican']	$	
+2477	haleem	Houston	5	6	['Halal', 'Pakistani', 'Juice Bars & Smoothies']	$	
+2478	Crafted Paninis	Houston	5	5	['Sandwiches', 'Italian', 'Breakfast & Brunch']	$	Downtown
+2479	Matehuala	Houston	5	5	['Food Trucks', 'Mexican']	$	Northside/Northline
+2480	Cajun Connection Food and Candy - Temp. CLOSED	Houston	5	6	['Cajun/Creole', 'Seafood', 'Food Trucks']	$	Porter
+2481	Obregon	Houston	5	9	['Food Trucks', 'Tacos']	$	
+2482	Well In Spring	Houston	5	5	['Cafes']	$	
+2483	Mike’s Island Time Kitchen	Houston	5	5	['Trinidadian', 'Food Trucks']	$	
+2484	Kitchen + Market	Houston	5	14	['Grocery', 'Italian', 'American (Traditional)']	$$	
+2485	Tacos	Houston	5	6	['Tacos']	$$	
+2486	Kitchen + Market	Houston	5	14	['Grocery', 'Italian', 'American (Traditional)']	$$	
+2487	Y Mex Kitchen	Houston	5	5	['Southern', 'Mexican', 'Soul Food']	$$	
+2488	Mictlan Vegan & Vegetarian Cuisine	Houston	5	8	['Food Trucks', 'Vegan', 'Mexican']	$$	Spring
+2489	la bendicion	Houston	5	6	['Mexican', 'Barbeque']	$$	
+2490	on the Way	Houston	5	8	['Sandwiches', 'Middle Eastern', 'Food Trucks']	$$	
+2491		Houston	5	7	['Food Trucks', 'Tacos', 'Sandwiches']	$$	Humble
+2492	Tacos Mobil	Houston	5	8	['Food Trucks', 'Mexican']	$	Alief
+2493	Pine Catering	Houston	5	5	['Caterers', 'Desserts', 'Tapas/Small Plates']	$	Fondren Southwest
+2494	Bori	Houston	5	18	['Sushi Bars', 'Food Trucks', 'Japanese']	$$	
+2495	Wee’s Snack Shack	Houston	5	6	['Burgers']	$	Acres Homes
+2496	Cafe	Houston	5	7	['Food Trucks', 'Waffles', 'Chicken Shop']	$	
+2497	Cafe & Bakery	Houston	5	7	['Bakeries', 'Desserts', 'Cafes']	$	Westchase
+2498	Mama	Houston	5	7	['Cajun/Creole', 'Seafood']	$	MacGregor
+2499	Kafe	Houston	5	10	['Cafes', 'Coffee & Tea', 'Bakeries']	$	
+2500	Pizza	Houston	5	5	['Pizza', 'Salad', 'Coffee & Tea']	$	Magnolia Park
+2501	Smokehouse	Houston	5	5	['Barbeque', 'Tacos', 'Smokehouse']	$	
+2502	Crawfish	Houston	5	7	['Seafood', 'Cajun/Creole']	$	Kashmere Gardens
+2503	Salvadoreño	Houston	5	10	['Salvadoran']	$	
+2504	ways Draught & Kitchen	Houston	5	8	['Soup', 'American (Traditional)', 'Beer Bar']	$	
+2505	El Buen Sabor	Houston	5	5	['Mexican', 'Food Trucks']	$	East Little York/Homestead
+2506	Donuts Coffee & More	Houston	5	12	['Donuts', 'Burgers', 'Coffee & Tea']	$	Westchase
+2507	Burger	Houston	5	29	['Burgers']	$	
+2508	Pita	Houston	5	11	['Mediterranean', 'Sandwiches', 'Lebanese']	$	West University
+2509	Factory - Nasa	Houston	5	10	['Donuts', 'Coffee & Tea', 'Sandwiches']	$	Clear Lake
+2510	Marcela’s Kitchen	Houston	5	5	['Food Trucks', 'Mexican']	$	Houston
+2511	of Life	Houston	5	19	['Desserts', 'Gluten-Free', 'Vegan']	$	
+2512	and Cake Cafe	Houston	5	13	['Coffee & Tea', 'Desserts', 'Sandwiches']	$	Central Southwest
+2513	Life Cafe	Houston	5	11	['Coffee & Tea', 'American (Traditional)', 'Breakfast & Brunch']	$	Fairbanks/Northwest Crossing
+2514	Ay Caramba Restaurant	Houston	5	5	['Salvadoran']	$	
+2515	Amigos Taqueria	Houston	5	6	['Breakfast & Brunch', 'Mexican']	$	South Belt/Ellington
+2516	Food Boutique - Richmond	Houston	5	6	['Indian']	$	
+2517	Cucina	Houston	5	6	['Pasta Shops', 'Italian', 'Food Stands']	$	West University
+2518	Harina Y Maiz	Houston	5	5	['Tacos', 'Food Trucks']	$	Langwood
+2519	City Tacos	Houston	5	7	['Mexican', 'Food Trucks']	$	Midtown
+2520		Houston	5	7	['Ice Cream & Frozen Yogurt', 'American (Traditional)']	$	
+2521	Aroma	Houston	5	5	['Candy Stores', 'Waffles', 'Ice Cream & Frozen Yogurt']	$	
+2522	And Corn Guy	Houston	5	30	['Hot Dogs', 'Food Stands']	$	Hobby
+2523	Taste of Belize	Houston	5	20	['Latin American', 'Caribbean', 'Breakfast & Brunch']	$	
+2524		Houston	5	20	['Japanese']	$$$$	Montrose
+2525	Chef	Houston	5	19	['Poke', 'Hawaiian']	$$	
+2526	Mesquite	Houston	5	18	['Mexican']	$	Harrisburg/Manchester
+2527	By Hidden	Houston	5	18	['Sushi Bars']	$	West University
+2528	Cedral	Houston	5	17	['Food Trucks', 'Tacos']	$	Oak Forest/Garden Oaks
+2529	El Compadre	Houston	5	33	['Food Trucks', 'Mexican']	$	South Belt/Ellington
+2530	Cafe & Market	Houston	5	16	['Breakfast & Brunch', 'Cafes']	$	
+2531	Deli	Houston	5	15	['Vietnamese', 'Delis']	$	Medical Center
+2532	Deli	Houston	5	15	['Delis', 'Sandwiches', 'Italian']	$	
+2533	Indian	Houston	5	29	['Indian', 'Food Trucks', 'Vegetarian']	$	
+2534	Kabob House	Houston	5	14	['Afghan']	$	
+2535	Thai Kitchen	Cincinnati	5	5	['Bubble Tea', 'Ramen', 'Thai']	$	
+2536	Crab House	Cincinnati	5	9	['Seafood']	$	
+2537	One Three Bagel Co	Cincinnati	5	6	['Bagels', 'Food Stands']	$	Downtown
+2538	Tacos Con Marco’s Tacos	Cincinnati	5	11	['Food Trucks', 'Tacos']	$	
+2539	Grace Cincy Catering	Cincinnati	5	6	['Breakfast & Brunch']	$	Over-the-Rhine
+2540	El Brian	Cincinnati	5	14	['Tacos', 'Food Trucks']	$	Oakley
+2541	Rancherita	Cincinnati	5	13	['Tacos', 'Street Vendors']	$	
+2542	Sips & Savories	Cincinnati	5	7	['Wine Bars', 'Venues & Event Spaces', 'Mediterranean']	$	Downtown
+2543	Taco Truck	Cincinnati	5	8	['Tacos', 'Food Trucks']	$	
+2544	Tree	Cincinnati	5	9	['Middle Eastern', 'Desserts', 'Salad']	$	Over-the-Rhine
+2545	& Bellies BBQ	Cincinnati	5	9	['Barbeque', 'Food Trucks']	$	
+2546		Cincinnati	5	8	['Desserts', 'Italian', 'Gelato']	$	Over-the-Rhine
+2547	Mama	Cincinnati	5	8	['Pop-Up Restaurants']	$	Over-the-Rhine
+2548	of the Isle	Cincinnati	5	6	['Caterers', 'Bars', 'Caribbean']	$$	Over-the-Rhine
+2549	Lübecker	Cincinnati	5	6	['German', 'Street Vendors', 'Food Stands']	$$	Over-the-Rhine
+2550	Italianette Food truck	Cincinnati	5	8	['Food Trucks', 'Italian']	$$	
+2551	Sweet	Cincinnati	5	37	['Creperies', 'Coffee & Tea', 'Juice Bars & Smoothies']	$	
+2552		Cincinnati	5	24	['Hot Dogs', 'Dive Bars']	$	
+2553	Plant Fare	Cincinnati	5	30	['Food Stands', 'Pop-Up Restaurants']	$	Over-the-Rhine
+2554	Tavern	Cincinnati	5	28	['Bars', 'American (Traditional)']	$	
+2555	Loaded Gyro	Cincinnati	5	13	['Fast Food', 'Greek']	$	Delhi
+2556	Coffee	Cincinnati	5	46	['Coffee & Tea', 'Honduran', 'Breakfast & Brunch']	$	
+2557	Meats	Cincinnati	5	62	['Meat Shops', 'Delis']	$$	Over-the-Rhine
+2558	& Mia’s Small Town Cafe	Cincinnati	5	40	['Breakfast & Brunch', 'Coffee Roasteries']	$$	
+2559	Dia Restaurant Y Tortilleria	Cincinnati	5	9	['Latin American']	$$	
+2560	Gusto	Cincinnati	5	36	['Pizza', 'Italian']	$$	
+2561	City Restaurant	Cincinnati	5	18	['Tapas Bars', 'Cocktail Bars']	$$	Downtown
+2562	Uruapan	Cincinnati	5	26	['Food Stands']	$	
+2563	House	Cincinnati	5	8	['Mexican']	$	
+2564	Ruby’s Culinary Entertainment	Cincinnati	5	8	['Steakhouses']	$	Columbia-Tusculum
+2565	Coffee Lounge	Cincinnati	5	109	['Coffee & Tea', 'Sandwiches']	$	Downtown
+2566	+ Sugar Coffeehouse	Cincinnati	5	92	['Coffee & Tea', 'Breakfast & Brunch']	$	
+2567	Nogal	Cincinnati	5	15	['Food Trucks', 'Mexican']	$	
+2568	india Restaurant	Cincinnati	5	99	['Indian']	$$	
+2569	Catering & Mercado	Cincinnati	5	14	['International Grocery', 'Caterers', 'Tacos']	$	Madisonville
+2570	Baking	Cincinnati	5	21	['German', 'Gastropubs', 'Bakeries']	$	
+2571	Grille	Cincinnati	5	14	['American (New)']	$	
+2572	Café	Cincinnati	5	14	['Coffee & Tea', 'Cafes', 'Wine Bars']	$	Mt Auburn
+2573	Shaan Indian Cuisine	Cincinnati	5	20	['Indian']	$$	
+2574	Wheel Oakley	Cincinnati	5	68	['Italian', 'Sandwiches']	$$	Oakley
+2575	Garden	Cincinnati	5	6	['Comfort Food', 'Bakeries']	$$	
+2576	Barbecue	Cincinnati	5	24	['Barbeque', 'Sandwiches']	$$	Madisonville
+2577	Pork On My Fork	Cincinnati	5	6	['Breakfast & Brunch', 'Tacos']	$$	Bond Hill
+2578	Eatery	Cincinnati	5	41	['American (New)']	$$	University Heights
+2579	Day Cafe	Cincinnati	5	35	['Cafes']	$$	
+2580	Greek Bake Shop	Cincinnati	5	29	['Bakeries', 'Cafes', 'Sandwiches']	$$	Over-the-Rhine
+2581	Bike & Bean	Cincinnati	5	164	['Cafes', 'Bikes', 'Coffee & Tea']	$	
+2582	Lunch and Deli	Cincinnati	5	227	['Delis', 'Sandwiches', 'American (New)']	$$	
+2583	‘n ‘em Coffee & Wine	Cincinnati	5	99	['Coffee & Tea', 'Breakfast & Brunch', 'Wine Bars']	$	Camp Washington
+2584	Han Mongolian BBQ	Cincinnati	5	67	['Taiwanese', 'Mongolian', 'Barbeque']	$$	
+2585	B’s Lounge	Cincinnati	5	5	['Pizza', 'Burgers']	$	
+2586	Food Court	Cincinnati	5	5	['American (Traditional)']	$	Downtown
+2587	- Norwood	Cincinnati	5	10	['Asian Fusion', 'Sushi Bars']	$	
+2588	Sushi	Cincinnati	5	58	['Korean', 'Asian Fusion', 'Japanese']	$	Hyde Park
+2589	Stars Mediterranean Restaurant	Cincinnati	5	64	['Mediterranean']	$	
+2590		Cincinnati	5	323	['Gastropubs']	$$	Mt Lookout
+2591	& Sago	Cincinnati	5	85	['Malaysian', 'Modern European', 'Barbeque']	$$	Mt Lookout
+2592	Bakery Cafe	Cincinnati	5	80	['Patisserie/Cake Shop', 'Bakeries', 'Japanese']	$$	
+2593	Los Cunados	Cincinnati	5	21	['Food Trucks', 'Mexican']	$	
+2594	Nepali Cuisine	Cincinnati	5	297	['Himalayan/Nepalese', 'Asian Fusion']	$$	Northside
+2595	Cafe	Cincinnati	5	4	['Burgers', 'Cafes', 'Sandwiches']	$$	Downtown
+2596	Smoke Shack	Cincinnati	5	4	['Barbeque']	$$	Downtown
+2597	Mexican Restaurant	Cincinnati	5	4	['Mexican']	$$	
+2598	Crepes & Waffles	Cincinnati	5	4	['Breakfast & Brunch']	$$	Corryville
+2599	Cambodian Cuisine	Cincinnati	5	4	['Food Trucks', 'Cambodian']	$$	Columbia-Tusculum
+2600	Community Coffee	Cincinnati	4.5	75	['Cafes']	$	
+2601	Produce & Deli	Cincinnati	4.5	14	['Fruits & Veggies', 'Delis', 'Sandwiches']	$	
+2602	of India	Cincinnati	4.5	115	['Indian']	$	
+2603	Way Cafe	Cincinnati	4.5	66	['Cafes']	$$	
+2604	Deli	Cincinnati	4.5	52	['Imported Food', 'Delis']	$	
+2605	Café	Cincinnati	4.5	38	['Delis', 'Sandwiches', 'Breakfast & Brunch']	$	
+2606	By Cedar	Cincinnati	4.5	34	['Breakfast & Brunch', 'Cocktail Bars', 'Tapas/Small Plates']	$	
+2607	Mediterranean Bistro	Cincinnati	4.5	57	['Mediterranean', 'Kebab']	$$	
+2608	& Nosh	Cincinnati	4.5	10	['Delis', 'Salad', 'Bagels']	$$	Northside
+2609	House	Cincinnati	4.5	23	['Cuban']	$$	Downtown
+2610	Market & Grill	Cincinnati	4.5	124	['Halal', 'Lebanese']	$$	Corryville
+2611	Kitchen	Cincinnati	4.5	13	['Chicken Wings', 'Sandwiches', 'Soul Food']	$$	Westwood
+2612	Park Deli	Cincinnati	4.5	13	['Beer, Wine & Spirits', 'Delis', 'Butcher']	$	
+2613	N Crust Bellevue	Cincinnati	4.5	54	['Pizza', 'Wine Bars']	$$	
+2614	Francis Apizza	Cincinnati	4.5	60	['Pizza', 'Salad']	$$	Hyde Park
+2615	cafe	Cincinnati	4.5	221	['Middle Eastern']	$	
+2616	Thai and Sushi of Hyde Park	Cincinnati	4.5	522	['Thai', 'Sushi Bars', 'Asian Fusion']	$$	
+2617	Arepa Place	Cincinnati	4.5	106	['Colombian']	$$	Over-the-Rhine
+2618	Bakery	Cincinnati	4.5	40	['Bakeries', 'Sandwiches']	$	Over-the-Rhine
+2619	& Dolores	Cincinnati	4.5	636	['Italian']	$$	Over-the-Rhine
+2620	Shaddai	Cincinnati	4.5	9	['Chicken Shop', 'Tacos', 'Soup']	$$	
+2621	Tea House	Cincinnati	4.5	18	['Bubble Tea', 'Thai']	$$	
+2622	Corner	Cincinnati	4.5	27	['Bars', 'American (Traditional)']	$	
+2623	Nepali Cuisine	Cincinnati	4.5	39	['Himalayan/Nepalese', 'Asian Fusion']	$	Downtown
